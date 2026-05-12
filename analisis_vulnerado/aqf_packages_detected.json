@@ -1,0 +1,101 @@
+[
+    {
+        "name": "com.michalbednarski.abxoverflow",
+        "files": [
+            {
+                "path": "/data/app/~~-QQ3j5x0BEAQ4DTQ381Cdg==/com.michalbednarski.abxoverflow-EUx3lOl42oBPc0OBNc3Ehw==/base.apk",
+                "local_name": "",
+                "md5": "52c0cdb04245a055669a146e7564a428",
+                "sha1": "d48d251a7e69f8bdc2bf7399672bcf9b10c16eab",
+                "sha256": "cf31215452d9a88d143c89fcb5f9248183cdb40c67f05b197769fd92780cc163",
+                "sha512": "1c5127d931e4f8c7e4e8f31502903a98773cde5a36da76d84e402b1efd03d73c7e4340aba7c437b3507fc747fe750c86cdaec072a4d2417d0da1359baead3c90",
+                "error": "",
+                "verified_certificate": true,
+                "certificate": {
+                    "Md5": "f2b06edfc2d0a01378e02e3f50cdc297",
+                    "Sha1": "0598a6cb358d9caf3a2dae0813b9357b79ce0888",
+                    "Sha256": "0427423d20d2fbc8045b08ff8d5c1ed31d9161c885c55b55d0cd8bc3e5643c72",
+                    "ValidFrom": "2026-02-12T18:40:41Z",
+                    "ValidTo": "2056-02-05T18:40:41Z",
+                    "Issuer": "C=US, O=Android, CN=Android Debug",
+                    "Subject": "C=US, O=Android, CN=Android Debug",
+                    "SignatureAlgorithm": "SHA256-RSA",
+                    "SerialNumber": 1
+                },
+                "certificate_error": "",
+                "trusted_certificate": false
+            }
+        ],
+        "installer": "null",
+        "uid": 10174,
+        "disabled": false,
+        "system": false,
+        "third_party": true
+    },
+    {
+        "name": "com.michalbednarski.com.michalbednarski.abxoverflow",
+        "files": [
+            {
+                "path": "/data/app/~~yze30lnl-6MHOOMdDdO4rw==/com.michalbednarski.com.michalbednarski.abxoverflow-77iK6YIHykQT-9rnJwbkSw==/base.apk",
+                "local_name": "",
+                "md5": "3a2cd3a773ee639d4506e10a22fcdb3c",
+                "sha1": "e02fc83d91b5e2857b9758e18b3a10caead363cf",
+                "sha256": "1bc96c26c5db2304b045f1c164ab53bcc195b459ec9d9a88506a2acb2ac2daa4",
+                "sha512": "a2d97e358945b7b2b49f0d439d11599539c4d0a2b4f485e890666cec7db26aecdebac19d9cccaeb860f0b02cf28204dfe9302eeb286c743c2076a9d1e12b1b46",
+                "error": "",
+                "verified_certificate": true,
+                "certificate": {
+                    "Md5": "f2b06edfc2d0a01378e02e3f50cdc297",
+                    "Sha1": "0598a6cb358d9caf3a2dae0813b9357b79ce0888",
+                    "Sha256": "0427423d20d2fbc8045b08ff8d5c1ed31d9161c885c55b55d0cd8bc3e5643c72",
+                    "ValidFrom": "2026-02-12T18:40:41Z",
+                    "ValidTo": "2056-02-05T18:40:41Z",
+                    "Issuer": "C=US, O=Android, CN=Android Debug",
+                    "Subject": "C=US, O=Android, CN=Android Debug",
+                    "SignatureAlgorithm": "SHA256-RSA",
+                    "SerialNumber": 1
+                },
+                "certificate_error": "",
+                "trusted_certificate": false
+            }
+        ],
+        "installer": "null",
+        "uid": 10175,
+        "disabled": false,
+        "system": false,
+        "third_party": true
+    },
+    {
+        "name": "com.example.com.michalbednarski.abxoverflow.droppedapk",
+        "files": [
+            {
+                "path": "/data/app/~~5K_LZ9zdTdABGPdVZ66Mig==/com.example.com.michalbednarski.abxoverflow.droppedapk-UQfoFEYWBC6kxW7-DCGw7w==/base.apk",
+                "local_name": "",
+                "md5": "403e506df8ca28aea36201e99bc53642",
+                "sha1": "e5583703c45933ecb7faf72e003b66b3ffe36193",
+                "sha256": "bd2a56621c2c7f3c3772ad16dc883935c0b8195c01dff23a310156313114d8fe",
+                "sha512": "33cb0b1848d8a3c2182aa0eff565d479ccaa82e282f94affa4b2968945a6d08c27717fbbe764986c2fe4cd69ae055b079b8f9f344471bf6365c24103d94864c1",
+                "error": "",
+                "verified_certificate": true,
+                "certificate": {
+                    "Md5": "52ec0f1e4999e274d90f33736daa0fc6",
+                    "Sha1": "1217d430700bdcc14b38ea6b4bed53204870675d",
+                    "Sha256": "d8a64e1c3a1afdc340c4b86feaacb88e2d81d66972afbd58e743b7c5b8d1cbdb",
+                    "ValidFrom": "2023-10-20T08:55:56Z",
+                    "ValidTo": "2048-10-13T08:55:56Z",
+                    "Issuer": "CN=abxdroppedapk",
+                    "Subject": "CN=abxdroppedapk",
+                    "SignatureAlgorithm": "SHA256-RSA",
+                    "SerialNumber": 1
+                },
+                "certificate_error": "",
+                "trusted_certificate": false
+            }
+        ],
+        "installer": "null",
+        "uid": 1000,
+        "disabled": false,
+        "system": false,
+        "third_party": true
+    }
+]

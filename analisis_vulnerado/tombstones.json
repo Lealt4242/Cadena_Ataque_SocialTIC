@@ -1,0 +1,1042 @@
+[
+    {
+        "file_name": "tombstone_00",
+        "file_timestamp": "2026-03-05 16:26:50.000000",
+        "build_fingerprint": "google/sdk_gphone64_x86_64/emu64x:13/TE1A.240213.009/12342917:userdebug/dev-keys",
+        "revision": "0",
+        "arch": "x86_64",
+        "timestamp": "2026-03-05 16:26:44.057208",
+        "process_uptime": 9838,
+        "command_line": [
+            "system_server"
+        ],
+        "pid": 559,
+        "tid": 16368,
+        "process_name": "SoundPool_2",
+        "binary_path": "system_server",
+        "selinux_label": null,
+        "uid": 1000,
+        "signal_info": {
+            "code": 2,
+            "code_name": "SEGV_ACCERR",
+            "name": "SIGSEGV",
+            "number": 11
+        },
+        "cause": null,
+        "extra": null
+    },
+    {
+        "file_name": "tombstone_00.pb",
+        "file_timestamp": "2026-03-05 16:26:50.000000",
+        "build_fingerprint": "google/sdk_gphone64_x86_64/emu64x:13/TE1A.240213.009/12342917:userdebug/dev-keys",
+        "revision": "0",
+        "arch": "X86_64",
+        "timestamp": "2026-03-05 16:26:44.057208",
+        "process_uptime": 9838,
+        "command_line": [
+            "system_server"
+        ],
+        "pid": 559,
+        "tid": 2160,
+        "process_name": "binder:559_10",
+        "binary_path": null,
+        "selinux_label": "u:r:system_server:s0\u0000",
+        "uid": 1000,
+        "signal_info": {
+            "code": 2,
+            "code_name": "SEGV_ACCERR",
+            "name": "SIGSEGV",
+            "number": 11
+        },
+        "cause": null,
+        "extra": null
+    },
+    {
+        "file_name": "tombstone_01",
+        "file_timestamp": "2026-03-05 16:28:30.000000",
+        "build_fingerprint": "google/sdk_gphone64_x86_64/emu64x:13/TE1A.240213.009/12342917:userdebug/dev-keys",
+        "revision": "0",
+        "arch": "x86_64",
+        "timestamp": "2026-03-05 16:28:30.023544",
+        "process_uptime": 9946,
+        "command_line": [
+            "/vendor/bin/hw/libgoldfish-rild"
+        ],
+        "pid": 379,
+        "tid": 499,
+        "process_name": "libgoldfish-ril",
+        "binary_path": "/vendor/bin/hw/libgoldfish-rild",
+        "selinux_label": null,
+        "uid": 1001,
+        "signal_info": {
+            "code": 1,
+            "code_name": "SEGV_MAPERR",
+            "name": "SIGSEGV",
+            "number": 11
+        },
+        "cause": null,
+        "extra": null
+    },
+    {
+        "file_name": "tombstone_01.pb",
+        "file_timestamp": "2026-03-05 16:28:30.000000",
+        "build_fingerprint": "google/sdk_gphone64_x86_64/emu64x:13/TE1A.240213.009/12342917:userdebug/dev-keys",
+        "revision": "0",
+        "arch": "X86_64",
+        "timestamp": "2026-03-05 16:28:30.023544",
+        "process_uptime": 9946,
+        "command_line": [
+            "/vendor/bin/hw/libgoldfish-rild"
+        ],
+        "pid": 379,
+        "tid": 379,
+        "process_name": "libgoldfish-ril",
+        "binary_path": null,
+        "selinux_label": "u:r:rild:s0\u0000",
+        "uid": 1001,
+        "signal_info": {
+            "code": 1,
+            "code_name": "SEGV_MAPERR",
+            "name": "SIGSEGV",
+            "number": 11
+        },
+        "cause": null,
+        "extra": null
+    },
+    {
+        "file_name": "tombstone_02",
+        "file_timestamp": "2026-03-05 16:31:30.000000",
+        "build_fingerprint": "google/sdk_gphone64_x86_64/emu64x:13/TE1A.240213.009/12342917:userdebug/dev-keys",
+        "revision": "0",
+        "arch": "x86_64",
+        "timestamp": "2026-03-05 16:31:25.460579",
+        "process_uptime": 256,
+        "command_line": [
+            "system_server"
+        ],
+        "pid": 16471,
+        "tid": 20591,
+        "process_name": "SoundPool_2",
+        "binary_path": "system_server",
+        "selinux_label": null,
+        "uid": 1000,
+        "signal_info": {
+            "code": 2,
+            "code_name": "SEGV_ACCERR",
+            "name": "SIGSEGV",
+            "number": 11
+        },
+        "cause": null,
+        "extra": null
+    },
+    {
+        "file_name": "tombstone_02.pb",
+        "file_timestamp": "2026-03-05 16:31:30.000000",
+        "build_fingerprint": "google/sdk_gphone64_x86_64/emu64x:13/TE1A.240213.009/12342917:userdebug/dev-keys",
+        "revision": "0",
+        "arch": "X86_64",
+        "timestamp": "2026-03-05 16:31:25.460579",
+        "process_uptime": 256,
+        "command_line": [
+            "system_server"
+        ],
+        "pid": 16471,
+        "tid": 18026,
+        "process_name": "binder:16471_18",
+        "binary_path": null,
+        "selinux_label": "u:r:system_server:s0\u0000",
+        "uid": 1000,
+        "signal_info": {
+            "code": 2,
+            "code_name": "SEGV_ACCERR",
+            "name": "SIGSEGV",
+            "number": 11
+        },
+        "cause": null,
+        "extra": null
+    },
+    {
+        "file_name": "tombstone_03",
+        "file_timestamp": "2026-03-05 16:34:08.000000",
+        "build_fingerprint": "google/sdk_gphone64_x86_64/emu64x:13/TE1A.240213.009/12342917:userdebug/dev-keys",
+        "revision": "0",
+        "arch": "x86_64",
+        "timestamp": "2026-03-05 16:33:59.621539",
+        "process_uptime": 140,
+        "command_line": [
+            "system_server"
+        ],
+        "pid": 20682,
+        "tid": 23304,
+        "process_name": "SoundPool_1",
+        "binary_path": "system_server",
+        "selinux_label": null,
+        "uid": 1000,
+        "signal_info": {
+            "code": 2,
+            "code_name": "SEGV_ACCERR",
+            "name": "SIGSEGV",
+            "number": 11
+        },
+        "cause": null,
+        "extra": null
+    },
+    {
+        "file_name": "tombstone_03.pb",
+        "file_timestamp": "2026-03-05 16:34:08.000000",
+        "build_fingerprint": "google/sdk_gphone64_x86_64/emu64x:13/TE1A.240213.009/12342917:userdebug/dev-keys",
+        "revision": "0",
+        "arch": "X86_64",
+        "timestamp": "2026-03-05 16:33:59.621539",
+        "process_uptime": 140,
+        "command_line": [
+            "system_server"
+        ],
+        "pid": 20682,
+        "tid": 22778,
+        "process_name": "binder:20682_1D",
+        "binary_path": null,
+        "selinux_label": "u:r:system_server:s0\u0000",
+        "uid": 1000,
+        "signal_info": {
+            "code": 2,
+            "code_name": "SEGV_ACCERR",
+            "name": "SIGSEGV",
+            "number": 11
+        },
+        "cause": null,
+        "extra": null
+    },
+    {
+        "file_name": "tombstone_04",
+        "file_timestamp": "2026-03-06 13:38:24.000000",
+        "build_fingerprint": "google/sdk_gphone64_x86_64/emu64x:13/TE1A.240213.009/12342917:userdebug/dev-keys",
+        "revision": "0",
+        "arch": "x86_64",
+        "timestamp": "2026-03-06 13:38:22.850556",
+        "process_uptime": 0,
+        "command_line": [
+            "com.google.android.bluetooth"
+        ],
+        "pid": 30973,
+        "tid": 31186,
+        "process_name": "HwBinder:30973_",
+        "binary_path": "com.google.android.bluetooth",
+        "selinux_label": null,
+        "uid": 1002,
+        "signal_info": {
+            "code": -1,
+            "code_name": "SI_QUEUE",
+            "name": "SIGABRT",
+            "number": 6
+        },
+        "cause": null,
+        "extra": null
+    },
+    {
+        "file_name": "tombstone_04.pb",
+        "file_timestamp": "2026-03-06 13:38:24.000000",
+        "build_fingerprint": "google/sdk_gphone64_x86_64/emu64x:13/TE1A.240213.009/12342917:userdebug/dev-keys",
+        "revision": "0",
+        "arch": "X86_64",
+        "timestamp": "2026-03-06 13:38:22.850556",
+        "process_uptime": 0,
+        "command_line": [
+            "com.google.android.bluetooth"
+        ],
+        "pid": 30973,
+        "tid": 31112,
+        "process_name": "bt_stack_manage",
+        "binary_path": null,
+        "selinux_label": "u:r:bluetooth:s0\u0000",
+        "uid": 1002,
+        "signal_info": {
+            "code": -1,
+            "code_name": "SI_QUEUE",
+            "name": "SIGABRT",
+            "number": 6
+        },
+        "cause": null,
+        "extra": null
+    },
+    {
+        "file_name": "tombstone_05",
+        "file_timestamp": "2026-03-06 13:38:40.000000",
+        "build_fingerprint": "google/sdk_gphone64_x86_64/emu64x:13/TE1A.240213.009/12342917:userdebug/dev-keys",
+        "revision": "0",
+        "arch": "x86_64",
+        "timestamp": "2026-03-06 13:38:36.941402",
+        "process_uptime": 0,
+        "command_line": [
+            "com.google.android.bluetooth"
+        ],
+        "pid": 31345,
+        "tid": 31471,
+        "process_name": "binder:31345_4",
+        "binary_path": "com.google.android.bluetooth",
+        "selinux_label": null,
+        "uid": 1002,
+        "signal_info": {
+            "code": -1,
+            "code_name": "SI_QUEUE",
+            "name": "SIGABRT",
+            "number": 6
+        },
+        "cause": null,
+        "extra": null
+    },
+    {
+        "file_name": "tombstone_05.pb",
+        "file_timestamp": "2026-03-06 13:38:40.000000",
+        "build_fingerprint": "google/sdk_gphone64_x86_64/emu64x:13/TE1A.240213.009/12342917:userdebug/dev-keys",
+        "revision": "0",
+        "arch": "X86_64",
+        "timestamp": "2026-03-06 13:38:36.941402",
+        "process_uptime": 0,
+        "command_line": [
+            "com.google.android.bluetooth"
+        ],
+        "pid": 31345,
+        "tid": 31395,
+        "process_name": "bt_stack_manage",
+        "binary_path": null,
+        "selinux_label": "u:r:bluetooth:s0\u0000",
+        "uid": 1002,
+        "signal_info": {
+            "code": -1,
+            "code_name": "SI_QUEUE",
+            "name": "SIGABRT",
+            "number": 6
+        },
+        "cause": null,
+        "extra": null
+    },
+    {
+        "file_name": "tombstone_06",
+        "file_timestamp": "2026-03-06 13:38:44.000000",
+        "build_fingerprint": "google/sdk_gphone64_x86_64/emu64x:13/TE1A.240213.009/12342917:userdebug/dev-keys",
+        "revision": "0",
+        "arch": "x86_64",
+        "timestamp": "2026-03-06 13:38:44.265591",
+        "process_uptime": 7965,
+        "command_line": [
+            "/vendor/bin/hw/libgoldfish-rild"
+        ],
+        "pid": 17992,
+        "tid": 18015,
+        "process_name": "libgoldfish-ril",
+        "binary_path": "/vendor/bin/hw/libgoldfish-rild",
+        "selinux_label": null,
+        "uid": 1001,
+        "signal_info": {
+            "code": 1,
+            "code_name": "SEGV_MAPERR",
+            "name": "SIGSEGV",
+            "number": 11
+        },
+        "cause": "null pointer dereference",
+        "extra": null
+    },
+    {
+        "file_name": "tombstone_06.pb",
+        "file_timestamp": "2026-03-06 13:38:44.000000",
+        "build_fingerprint": "google/sdk_gphone64_x86_64/emu64x:13/TE1A.240213.009/12342917:userdebug/dev-keys",
+        "revision": "0",
+        "arch": "X86_64",
+        "timestamp": "2026-03-06 13:38:44.265591",
+        "process_uptime": 7965,
+        "command_line": [
+            "/vendor/bin/hw/libgoldfish-rild"
+        ],
+        "pid": 17992,
+        "tid": 17992,
+        "process_name": "libgoldfish-ril",
+        "binary_path": null,
+        "selinux_label": "u:r:rild:s0\u0000",
+        "uid": 1001,
+        "signal_info": {
+            "code": 1,
+            "code_name": "SEGV_MAPERR",
+            "name": "SIGSEGV",
+            "number": 11
+        },
+        "cause": null,
+        "extra": null
+    },
+    {
+        "file_name": "tombstone_07",
+        "file_timestamp": "2026-03-19 15:13:28.000000",
+        "build_fingerprint": "google/sdk_gphone64_x86_64/emu64x:13/TE1A.240213.009/12342917:userdebug/dev-keys",
+        "revision": "0",
+        "arch": "x86_64",
+        "timestamp": "2026-03-19 15:13:19.919145",
+        "process_uptime": 135,
+        "command_line": [
+            "system_server"
+        ],
+        "pid": 30678,
+        "tid": 32543,
+        "process_name": "binder:30678_1E",
+        "binary_path": "system_server",
+        "selinux_label": null,
+        "uid": 1000,
+        "signal_info": {
+            "code": 2,
+            "code_name": "SEGV_ACCERR",
+            "name": "SIGSEGV",
+            "number": 11
+        },
+        "cause": null,
+        "extra": null
+    },
+    {
+        "file_name": "tombstone_07.pb",
+        "file_timestamp": "2026-03-19 15:13:28.000000",
+        "build_fingerprint": "google/sdk_gphone64_x86_64/emu64x:13/TE1A.240213.009/12342917:userdebug/dev-keys",
+        "revision": "0",
+        "arch": "X86_64",
+        "timestamp": "2026-03-19 15:13:19.919145",
+        "process_uptime": 135,
+        "command_line": [
+            "system_server"
+        ],
+        "pid": 30678,
+        "tid": 32529,
+        "process_name": "binder:30678_14",
+        "binary_path": null,
+        "selinux_label": "u:r:system_server:s0\u0000",
+        "uid": 1000,
+        "signal_info": {
+            "code": 2,
+            "code_name": "SEGV_ACCERR",
+            "name": "SIGSEGV",
+            "number": 11
+        },
+        "cause": null,
+        "extra": null
+    },
+    {
+        "file_name": "tombstone_08",
+        "file_timestamp": "2026-03-19 16:03:28.000000",
+        "build_fingerprint": "google/sdk_gphone64_x86_64/emu64x:13/TE1A.240213.009/12342917:userdebug/dev-keys",
+        "revision": "0",
+        "arch": "x86_64",
+        "timestamp": "2026-03-19 16:03:23.303218",
+        "process_uptime": 2986,
+        "command_line": [
+            "system_server"
+        ],
+        "pid": 1493,
+        "tid": 7175,
+        "process_name": "SoundPool_3",
+        "binary_path": "system_server",
+        "selinux_label": null,
+        "uid": 1000,
+        "signal_info": {
+            "code": 2,
+            "code_name": "SEGV_ACCERR",
+            "name": "SIGSEGV",
+            "number": 11
+        },
+        "cause": null,
+        "extra": null
+    },
+    {
+        "file_name": "tombstone_08.pb",
+        "file_timestamp": "2026-03-19 16:03:28.000000",
+        "build_fingerprint": "google/sdk_gphone64_x86_64/emu64x:13/TE1A.240213.009/12342917:userdebug/dev-keys",
+        "revision": "0",
+        "arch": "X86_64",
+        "timestamp": "2026-03-19 16:03:23.303218",
+        "process_uptime": 2986,
+        "command_line": [
+            "system_server"
+        ],
+        "pid": 1493,
+        "tid": 1819,
+        "process_name": "binder:1493_6",
+        "binary_path": null,
+        "selinux_label": "u:r:system_server:s0\u0000",
+        "uid": 1000,
+        "signal_info": {
+            "code": 2,
+            "code_name": "SEGV_ACCERR",
+            "name": "SIGSEGV",
+            "number": 11
+        },
+        "cause": null,
+        "extra": null
+    },
+    {
+        "file_name": "tombstone_09",
+        "file_timestamp": "2026-03-20 06:57:40.000000",
+        "build_fingerprint": "google/sdk_gphone64_x86_64/emu64x:13/TE1A.240213.009/12342917:userdebug/dev-keys",
+        "revision": "0",
+        "arch": "x86_64",
+        "timestamp": "2026-03-20 06:57:37.955014",
+        "process_uptime": 11096,
+        "command_line": [
+            "system_server"
+        ],
+        "pid": 7292,
+        "tid": 19353,
+        "process_name": "SoundPool_10",
+        "binary_path": "system_server",
+        "selinux_label": null,
+        "uid": 1000,
+        "signal_info": {
+            "code": 2,
+            "code_name": "SEGV_ACCERR",
+            "name": "SIGSEGV",
+            "number": 11
+        },
+        "cause": null,
+        "extra": null
+    },
+    {
+        "file_name": "tombstone_09.pb",
+        "file_timestamp": "2026-03-20 06:57:40.000000",
+        "build_fingerprint": "google/sdk_gphone64_x86_64/emu64x:13/TE1A.240213.009/12342917:userdebug/dev-keys",
+        "revision": "0",
+        "arch": "X86_64",
+        "timestamp": "2026-03-20 06:57:37.955014",
+        "process_uptime": 11096,
+        "command_line": [
+            "system_server"
+        ],
+        "pid": 7292,
+        "tid": 8829,
+        "process_name": "binder:7292_1B",
+        "binary_path": null,
+        "selinux_label": "u:r:system_server:s0\u0000",
+        "uid": 1000,
+        "signal_info": {
+            "code": 2,
+            "code_name": "SEGV_ACCERR",
+            "name": "SIGSEGV",
+            "number": 11
+        },
+        "cause": null,
+        "extra": null
+    },
+    {
+        "file_name": "tombstone_10",
+        "file_timestamp": "2026-03-20 06:58:26.000000",
+        "build_fingerprint": "google/sdk_gphone64_x86_64/emu64x:13/TE1A.240213.009/12342917:userdebug/dev-keys",
+        "revision": "0",
+        "arch": "x86_64",
+        "timestamp": "2026-03-20 06:58:26.066122",
+        "process_uptime": 14249,
+        "command_line": [
+            "/vendor/bin/hw/libgoldfish-rild"
+        ],
+        "pid": 32018,
+        "tid": 32027,
+        "process_name": "libgoldfish-ril",
+        "binary_path": "/vendor/bin/hw/libgoldfish-rild",
+        "selinux_label": null,
+        "uid": 1001,
+        "signal_info": {
+            "code": 1,
+            "code_name": "SEGV_MAPERR",
+            "name": "SIGSEGV",
+            "number": 11
+        },
+        "cause": null,
+        "extra": null
+    },
+    {
+        "file_name": "tombstone_10.pb",
+        "file_timestamp": "2026-03-20 06:58:26.000000",
+        "build_fingerprint": "google/sdk_gphone64_x86_64/emu64x:13/TE1A.240213.009/12342917:userdebug/dev-keys",
+        "revision": "0",
+        "arch": "X86_64",
+        "timestamp": "2026-03-20 06:58:26.066122",
+        "process_uptime": 14249,
+        "command_line": [
+            "/vendor/bin/hw/libgoldfish-rild"
+        ],
+        "pid": 32018,
+        "tid": 32018,
+        "process_name": "libgoldfish-ril",
+        "binary_path": null,
+        "selinux_label": "u:r:rild:s0\u0000",
+        "uid": 1001,
+        "signal_info": {
+            "code": 1,
+            "code_name": "SEGV_MAPERR",
+            "name": "SIGSEGV",
+            "number": 11
+        },
+        "cause": null,
+        "extra": null
+    },
+    {
+        "file_name": "tombstone_11",
+        "file_timestamp": "2026-03-20 06:59:46.000000",
+        "build_fingerprint": "google/sdk_gphone64_x86_64/emu64x:13/TE1A.240213.009/12342917:userdebug/dev-keys",
+        "revision": "0",
+        "arch": "x86_64",
+        "timestamp": "2026-03-20 06:59:43.699825",
+        "process_uptime": 115,
+        "command_line": [
+            "system_server"
+        ],
+        "pid": 19479,
+        "tid": 23230,
+        "process_name": "SoundPool_2",
+        "binary_path": "system_server",
+        "selinux_label": null,
+        "uid": 1000,
+        "signal_info": {
+            "code": 2,
+            "code_name": "SEGV_ACCERR",
+            "name": "SIGSEGV",
+            "number": 11
+        },
+        "cause": null,
+        "extra": null
+    },
+    {
+        "file_name": "tombstone_11.pb",
+        "file_timestamp": "2026-03-20 06:59:46.000000",
+        "build_fingerprint": "google/sdk_gphone64_x86_64/emu64x:13/TE1A.240213.009/12342917:userdebug/dev-keys",
+        "revision": "0",
+        "arch": "X86_64",
+        "timestamp": "2026-03-20 06:59:43.699825",
+        "process_uptime": 115,
+        "command_line": [
+            "system_server"
+        ],
+        "pid": 19479,
+        "tid": 19952,
+        "process_name": "binder:19479_A",
+        "binary_path": null,
+        "selinux_label": "u:r:system_server:s0\u0000",
+        "uid": 1000,
+        "signal_info": {
+            "code": 2,
+            "code_name": "SEGV_ACCERR",
+            "name": "SIGSEGV",
+            "number": 11
+        },
+        "cause": null,
+        "extra": null
+    },
+    {
+        "file_name": "tombstone_12",
+        "file_timestamp": "2026-03-20 07:01:04.000000",
+        "build_fingerprint": "google/sdk_gphone64_x86_64/emu64x:13/TE1A.240213.009/12342917:userdebug/dev-keys",
+        "revision": "0",
+        "arch": "x86_64",
+        "timestamp": "2026-03-20 07:01:00.799239",
+        "process_uptime": 68,
+        "command_line": [
+            "system_server"
+        ],
+        "pid": 23357,
+        "tid": 26127,
+        "process_name": "binder:23357_1D",
+        "binary_path": "system_server",
+        "selinux_label": null,
+        "uid": 1000,
+        "signal_info": {
+            "code": 2,
+            "code_name": "SEGV_ACCERR",
+            "name": "SIGSEGV",
+            "number": 11
+        },
+        "cause": null,
+        "extra": null
+    },
+    {
+        "file_name": "tombstone_12.pb",
+        "file_timestamp": "2026-03-20 07:01:04.000000",
+        "build_fingerprint": "google/sdk_gphone64_x86_64/emu64x:13/TE1A.240213.009/12342917:userdebug/dev-keys",
+        "revision": "0",
+        "arch": "X86_64",
+        "timestamp": "2026-03-20 07:01:00.799239",
+        "process_uptime": 68,
+        "command_line": [
+            "system_server"
+        ],
+        "pid": 23357,
+        "tid": 23740,
+        "process_name": "binder:23357_4",
+        "binary_path": null,
+        "selinux_label": "u:r:system_server:s0\u0000",
+        "uid": 1000,
+        "signal_info": {
+            "code": 2,
+            "code_name": "SEGV_ACCERR",
+            "name": "SIGSEGV",
+            "number": 11
+        },
+        "cause": null,
+        "extra": null
+    },
+    {
+        "file_name": "tombstone_13",
+        "file_timestamp": "2026-03-20 07:02:34.000000",
+        "build_fingerprint": "google/sdk_gphone64_x86_64/emu64x:13/TE1A.240213.009/12342917:userdebug/dev-keys",
+        "revision": "0",
+        "arch": "x86_64",
+        "timestamp": "2026-03-20 07:02:29.973909",
+        "process_uptime": 82,
+        "command_line": [
+            "system_server"
+        ],
+        "pid": 26317,
+        "tid": 29431,
+        "process_name": "SoundPool_1",
+        "binary_path": "system_server",
+        "selinux_label": null,
+        "uid": 1000,
+        "signal_info": {
+            "code": 2,
+            "code_name": "SEGV_ACCERR",
+            "name": "SIGSEGV",
+            "number": 11
+        },
+        "cause": null,
+        "extra": null
+    },
+    {
+        "file_name": "tombstone_13.pb",
+        "file_timestamp": "2026-03-20 07:02:34.000000",
+        "build_fingerprint": "google/sdk_gphone64_x86_64/emu64x:13/TE1A.240213.009/12342917:userdebug/dev-keys",
+        "revision": "0",
+        "arch": "X86_64",
+        "timestamp": "2026-03-20 07:02:29.973909",
+        "process_uptime": 82,
+        "command_line": [
+            "system_server"
+        ],
+        "pid": 26317,
+        "tid": 27934,
+        "process_name": "binder:26317_1A",
+        "binary_path": null,
+        "selinux_label": "u:r:system_server:s0\u0000",
+        "uid": 1000,
+        "signal_info": {
+            "code": 2,
+            "code_name": "SEGV_ACCERR",
+            "name": "SIGSEGV",
+            "number": 11
+        },
+        "cause": null,
+        "extra": null
+    },
+    {
+        "file_name": "tombstone_14",
+        "file_timestamp": "2026-03-20 07:14:48.000000",
+        "build_fingerprint": "google/sdk_gphone64_x86_64/emu64x:13/TE1A.240213.009/12342917:userdebug/dev-keys",
+        "revision": "0",
+        "arch": "x86_64",
+        "timestamp": "2026-03-20 07:14:45.081453",
+        "process_uptime": 81,
+        "command_line": [
+            "system_server"
+        ],
+        "pid": 536,
+        "tid": 4336,
+        "process_name": "HwBinder:536_5",
+        "binary_path": "system_server",
+        "selinux_label": null,
+        "uid": 1000,
+        "signal_info": {
+            "code": 2,
+            "code_name": "SEGV_ACCERR",
+            "name": "SIGSEGV",
+            "number": 11
+        },
+        "cause": null,
+        "extra": null
+    },
+    {
+        "file_name": "tombstone_14.pb",
+        "file_timestamp": "2026-03-20 07:14:48.000000",
+        "build_fingerprint": "google/sdk_gphone64_x86_64/emu64x:13/TE1A.240213.009/12342917:userdebug/dev-keys",
+        "revision": "0",
+        "arch": "X86_64",
+        "timestamp": "2026-03-20 07:14:45.081453",
+        "process_uptime": 81,
+        "command_line": [
+            "system_server"
+        ],
+        "pid": 536,
+        "tid": 1821,
+        "process_name": "binder:536_17",
+        "binary_path": null,
+        "selinux_label": "u:r:system_server:s0\u0000",
+        "uid": 1000,
+        "signal_info": {
+            "code": 2,
+            "code_name": "SEGV_ACCERR",
+            "name": "SIGSEGV",
+            "number": 11
+        },
+        "cause": null,
+        "extra": null
+    },
+    {
+        "file_name": "tombstone_15",
+        "file_timestamp": "2026-03-20 07:15:54.000000",
+        "build_fingerprint": "google/sdk_gphone64_x86_64/emu64x:13/TE1A.240213.009/12342917:userdebug/dev-keys",
+        "revision": "0",
+        "arch": "x86_64",
+        "timestamp": "2026-03-20 07:15:51.999280",
+        "process_uptime": 61,
+        "command_line": [
+            "system_server"
+        ],
+        "pid": 4442,
+        "tid": 7284,
+        "process_name": "AsyncQueryWorke",
+        "binary_path": "system_server",
+        "selinux_label": null,
+        "uid": 1000,
+        "signal_info": {
+            "code": 2,
+            "code_name": "SEGV_ACCERR",
+            "name": "SIGSEGV",
+            "number": 11
+        },
+        "cause": null,
+        "extra": null
+    },
+    {
+        "file_name": "tombstone_15.pb",
+        "file_timestamp": "2026-03-20 07:15:54.000000",
+        "build_fingerprint": "google/sdk_gphone64_x86_64/emu64x:13/TE1A.240213.009/12342917:userdebug/dev-keys",
+        "revision": "0",
+        "arch": "X86_64",
+        "timestamp": "2026-03-20 07:15:51.999280",
+        "process_uptime": 61,
+        "command_line": [
+            "system_server"
+        ],
+        "pid": 4442,
+        "tid": 5089,
+        "process_name": "binder:4442_8",
+        "binary_path": null,
+        "selinux_label": "u:r:system_server:s0\u0000",
+        "uid": 1000,
+        "signal_info": {
+            "code": 2,
+            "code_name": "SEGV_ACCERR",
+            "name": "SIGSEGV",
+            "number": 11
+        },
+        "cause": null,
+        "extra": null
+    },
+    {
+        "file_name": "tombstone_16",
+        "file_timestamp": "2026-03-20 07:31:02.000000",
+        "build_fingerprint": "google/sdk_gphone64_x86_64/emu64x:13/TE1A.240213.009/12342917:userdebug/dev-keys",
+        "revision": "0",
+        "arch": "x86_64",
+        "timestamp": "2026-03-20 07:30:59.639061",
+        "process_uptime": 678,
+        "command_line": [
+            "system_server"
+        ],
+        "pid": 7737,
+        "tid": 12286,
+        "process_name": "SoundPool_3",
+        "binary_path": "system_server",
+        "selinux_label": null,
+        "uid": 1000,
+        "signal_info": {
+            "code": 2,
+            "code_name": "SEGV_ACCERR",
+            "name": "SIGSEGV",
+            "number": 11
+        },
+        "cause": null,
+        "extra": null
+    },
+    {
+        "file_name": "tombstone_16.pb",
+        "file_timestamp": "2026-03-20 07:31:02.000000",
+        "build_fingerprint": "google/sdk_gphone64_x86_64/emu64x:13/TE1A.240213.009/12342917:userdebug/dev-keys",
+        "revision": "0",
+        "arch": "X86_64",
+        "timestamp": "2026-03-20 07:30:59.639061",
+        "process_uptime": 678,
+        "command_line": [
+            "system_server"
+        ],
+        "pid": 7737,
+        "tid": 9690,
+        "process_name": "binder:7737_1C",
+        "binary_path": null,
+        "selinux_label": "u:r:system_server:s0\u0000",
+        "uid": 1000,
+        "signal_info": {
+            "code": 2,
+            "code_name": "SEGV_ACCERR",
+            "name": "SIGSEGV",
+            "number": 11
+        },
+        "cause": null,
+        "extra": null
+    },
+    {
+        "file_name": "tombstone_17",
+        "file_timestamp": "2026-03-20 07:31:30.000000",
+        "build_fingerprint": "google/sdk_gphone64_x86_64/emu64x:13/TE1A.240213.009/12342917:userdebug/dev-keys",
+        "revision": "0",
+        "arch": "x86_64",
+        "timestamp": "2026-03-20 07:31:29.167094",
+        "process_uptime": 0,
+        "command_line": [
+            "com.google.android.bluetooth"
+        ],
+        "pid": 12938,
+        "tid": 13129,
+        "process_name": "HwBinder:12938_",
+        "binary_path": "com.google.android.bluetooth",
+        "selinux_label": null,
+        "uid": 1002,
+        "signal_info": {
+            "code": -1,
+            "code_name": "SI_QUEUE",
+            "name": "SIGABRT",
+            "number": 6
+        },
+        "cause": null,
+        "extra": null
+    },
+    {
+        "file_name": "tombstone_17.pb",
+        "file_timestamp": "2026-03-20 07:31:30.000000",
+        "build_fingerprint": "google/sdk_gphone64_x86_64/emu64x:13/TE1A.240213.009/12342917:userdebug/dev-keys",
+        "revision": "0",
+        "arch": "X86_64",
+        "timestamp": "2026-03-20 07:31:29.167094",
+        "process_uptime": 0,
+        "command_line": [
+            "com.google.android.bluetooth"
+        ],
+        "pid": 12938,
+        "tid": 13049,
+        "process_name": "bt_stack_manage",
+        "binary_path": null,
+        "selinux_label": "u:r:bluetooth:s0\u0000",
+        "uid": 1002,
+        "signal_info": {
+            "code": -1,
+            "code_name": "SI_QUEUE",
+            "name": "SIGABRT",
+            "number": 6
+        },
+        "cause": null,
+        "extra": null
+    },
+    {
+        "file_name": "tombstone_18",
+        "file_timestamp": "2026-03-20 07:31:48.000000",
+        "build_fingerprint": "google/sdk_gphone64_x86_64/emu64x:13/TE1A.240213.009/12342917:userdebug/dev-keys",
+        "revision": "0",
+        "arch": "x86_64",
+        "timestamp": "2026-03-20 07:31:43.429457",
+        "process_uptime": 0,
+        "command_line": [
+            "com.google.android.bluetooth"
+        ],
+        "pid": 13392,
+        "tid": 13625,
+        "process_name": "HwBinder:13392_",
+        "binary_path": "com.google.android.bluetooth",
+        "selinux_label": null,
+        "uid": 1002,
+        "signal_info": {
+            "code": -1,
+            "code_name": "SI_QUEUE",
+            "name": "SIGABRT",
+            "number": 6
+        },
+        "cause": null,
+        "extra": null
+    },
+    {
+        "file_name": "tombstone_18.pb",
+        "file_timestamp": "2026-03-20 07:31:48.000000",
+        "build_fingerprint": "google/sdk_gphone64_x86_64/emu64x:13/TE1A.240213.009/12342917:userdebug/dev-keys",
+        "revision": "0",
+        "arch": "X86_64",
+        "timestamp": "2026-03-20 07:31:43.429457",
+        "process_uptime": 0,
+        "command_line": [
+            "com.google.android.bluetooth"
+        ],
+        "pid": 13392,
+        "tid": 13470,
+        "process_name": "bt_stack_manage",
+        "binary_path": null,
+        "selinux_label": "u:r:bluetooth:s0\u0000",
+        "uid": 1002,
+        "signal_info": {
+            "code": -1,
+            "code_name": "SI_QUEUE",
+            "name": "SIGABRT",
+            "number": 6
+        },
+        "cause": null,
+        "extra": null
+    },
+    {
+        "file_name": "tombstone_19",
+        "file_timestamp": "2026-03-20 07:31:48.000000",
+        "build_fingerprint": "google/sdk_gphone64_x86_64/emu64x:13/TE1A.240213.009/12342917:userdebug/dev-keys",
+        "revision": "0",
+        "arch": "x86_64",
+        "timestamp": "2026-03-20 07:31:48.696602",
+        "process_uptime": 878,
+        "command_line": [
+            "/vendor/bin/hw/libgoldfish-rild"
+        ],
+        "pid": 467,
+        "tid": 511,
+        "process_name": "libgoldfish-ril",
+        "binary_path": "/vendor/bin/hw/libgoldfish-rild",
+        "selinux_label": null,
+        "uid": 1001,
+        "signal_info": {
+            "code": 1,
+            "code_name": "SEGV_MAPERR",
+            "name": "SIGSEGV",
+            "number": 11
+        },
+        "cause": null,
+        "extra": null
+    },
+    {
+        "file_name": "tombstone_19.pb",
+        "file_timestamp": "2026-03-20 07:31:48.000000",
+        "build_fingerprint": "google/sdk_gphone64_x86_64/emu64x:13/TE1A.240213.009/12342917:userdebug/dev-keys",
+        "revision": "0",
+        "arch": "X86_64",
+        "timestamp": "2026-03-20 07:31:48.696602",
+        "process_uptime": 878,
+        "command_line": [
+            "/vendor/bin/hw/libgoldfish-rild"
+        ],
+        "pid": 467,
+        "tid": 467,
+        "process_name": "libgoldfish-ril",
+        "binary_path": null,
+        "selinux_label": "u:r:rild:s0\u0000",
+        "uid": 1001,
+        "signal_info": {
+            "code": 1,
+            "code_name": "SEGV_MAPERR",
+            "name": "SIGSEGV",
+            "number": 11
+        },
+        "cause": null,
+        "extra": null
+    }
+]

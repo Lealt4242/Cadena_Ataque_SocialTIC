@@ -1,0 +1,2236 @@
+[
+    {
+        "package_name": "root",
+        "permissions": [
+            {
+                "name": "VIBRATE",
+                "entries": [],
+                "access": "allow"
+            }
+        ],
+        "uid": "0"
+    },
+    {
+        "package_name": "com.android.phone",
+        "permissions": [
+            {
+                "name": "FINE_LOCATION",
+                "entries": [],
+                "access": "allow"
+            },
+            {
+                "name": "MANAGE_IPSEC_TUNNELS",
+                "entries": [],
+                "access": "allow"
+            }
+        ],
+        "uid": "0"
+    },
+    {
+        "package_name": "com.android.shell",
+        "permissions": [
+            {
+                "name": "VIBRATE",
+                "entries": [
+                    {
+                        "access": "Access",
+                        "type": "cch-s",
+                        "timestamp": "2026-04-17 06:26:14.255000"
+                    }
+                ],
+                "access": "allow"
+            }
+        ],
+        "uid": "0"
+    },
+    {
+        "package_name": "com.android.dynsystem",
+        "permissions": [
+            {
+                "name": "BLUETOOTH_CONNECT",
+                "entries": [
+                    {
+                        "access": "Access",
+                        "type": "pers-s",
+                        "timestamp": "2026-04-17 06:13:37.088000"
+                    }
+                ],
+                "access": "allow"
+            }
+        ],
+        "uid": "1000"
+    },
+    {
+        "package_name": "android",
+        "permissions": [
+            {
+                "name": "COARSE_LOCATION",
+                "entries": [],
+                "access": "allow"
+            },
+            {
+                "name": "READ_CONTACTS",
+                "entries": [
+                    {
+                        "access": "Access",
+                        "type": "pers-s",
+                        "timestamp": "2026-04-17 06:27:17.080000"
+                    }
+                ],
+                "access": "allow"
+            },
+            {
+                "name": "READ_CALENDAR",
+                "entries": [
+                    {
+                        "access": "Access",
+                        "type": "pers-s",
+                        "timestamp": "2026-04-17 06:15:26.926000"
+                    }
+                ],
+                "access": "allow"
+            },
+            {
+                "name": "READ_SMS",
+                "entries": [
+                    {
+                        "access": "Access",
+                        "type": "pers-s",
+                        "timestamp": "2026-04-17 06:20:25.676000"
+                    }
+                ],
+                "access": "allow"
+            },
+            {
+                "name": "SYSTEM_ALERT_WINDOW",
+                "entries": [
+                    {
+                        "access": "Access",
+                        "type": "pers-s",
+                        "timestamp": "2026-04-17 06:22:54.639000"
+                    }
+                ],
+                "access": "default"
+            },
+            {
+                "name": "WAKE_LOCK",
+                "entries": [
+                    {
+                        "access": "Access",
+                        "type": "pers-s",
+                        "timestamp": "2026-04-17 06:26:22.151000"
+                    }
+                ],
+                "access": "allow"
+            },
+            {
+                "name": "MONITOR_LOCATION",
+                "entries": [
+                    {
+                        "access": "Access",
+                        "type": "pers-s",
+                        "timestamp": "2026-04-17 06:13:37.781000"
+                    },
+                    {
+                        "access": "Access",
+                        "type": "pers-s",
+                        "timestamp": "2026-04-17 06:16:06.477000"
+                    }
+                ],
+                "access": "all"
+            },
+            {
+                "name": "GET_USAGE_STATS",
+                "entries": [
+                    {
+                        "access": "Reject",
+                        "type": "pers-s",
+                        "timestamp": "2026-04-17 06:22:45.023000"
+                    }
+                ],
+                "access": "default"
+            },
+            {
+                "name": "USE_ICC_AUTH_WITH_DEVICE_IDENTIFIER",
+                "entries": [
+                    {
+                        "access": "Reject",
+                        "type": "pers-s",
+                        "timestamp": "2026-04-17 06:27:13.676000"
+                    },
+                    {
+                        "access": "Reject",
+                        "type": "pers-s",
+                        "timestamp": "2026-04-17 06:20:10.177000"
+                    }
+                ],
+                "access": "default"
+            },
+            {
+                "name": "BLUETOOTH_CONNECT",
+                "entries": [
+                    {
+                        "access": "Access",
+                        "type": "pers-s",
+                        "timestamp": "2026-04-17 06:27:40.427000"
+                    }
+                ],
+                "access": "allow"
+            }
+        ],
+        "uid": "1000"
+    },
+    {
+        "package_name": "com.android.server.telecom",
+        "permissions": [
+            {
+                "name": "READ_CALL_LOG",
+                "entries": [
+                    {
+                        "access": "Access",
+                        "type": "pers-s",
+                        "timestamp": "2026-04-17 06:20:09.769000"
+                    }
+                ],
+                "access": "allow"
+            },
+            {
+                "name": "BLUETOOTH_CONNECT",
+                "entries": [
+                    {
+                        "access": "Access",
+                        "type": "pers-s",
+                        "timestamp": "2026-04-17 06:13:37.968000"
+                    }
+                ],
+                "access": "allow"
+            }
+        ],
+        "uid": "1000"
+    },
+    {
+        "package_name": "com.android.emulator.multidisplay",
+        "permissions": [
+            {
+                "name": "BLUETOOTH_CONNECT",
+                "entries": [
+                    {
+                        "access": "Access",
+                        "type": "pers-s",
+                        "timestamp": "2026-04-17 06:18:07.377000"
+                    }
+                ],
+                "access": "allow"
+            }
+        ],
+        "uid": "1000"
+    },
+    {
+        "package_name": "com.android.settings",
+        "permissions": [
+            {
+                "name": "GET_USAGE_STATS",
+                "entries": [
+                    {
+                        "access": "Reject",
+                        "type": "pers-s",
+                        "timestamp": "2026-04-17 06:20:15.030000"
+                    }
+                ],
+                "access": "default"
+            },
+            {
+                "name": "USE_ICC_AUTH_WITH_DEVICE_IDENTIFIER",
+                "entries": [
+                    {
+                        "access": "Reject",
+                        "type": "pers-s",
+                        "timestamp": "2026-04-17 06:21:46.914000"
+                    }
+                ],
+                "access": "default"
+            },
+            {
+                "name": "BLUETOOTH_CONNECT",
+                "entries": [
+                    {
+                        "access": "Access",
+                        "type": "pers-s",
+                        "timestamp": "2026-04-17 06:21:30.019000"
+                    }
+                ],
+                "access": "allow"
+            }
+        ],
+        "uid": "1000"
+    },
+    {
+        "package_name": "com.android.providers.telephony",
+        "permissions": [
+            {
+                "name": "USE_ICC_AUTH_WITH_DEVICE_IDENTIFIER",
+                "entries": [
+                    {
+                        "access": "Reject",
+                        "type": "pers-s",
+                        "timestamp": "2026-04-17 06:16:46.245000"
+                    }
+                ],
+                "access": "default"
+            }
+        ],
+        "uid": "1001"
+    },
+    {
+        "package_name": "com.android.ons",
+        "permissions": [
+            {
+                "name": "USE_ICC_AUTH_WITH_DEVICE_IDENTIFIER",
+                "entries": [
+                    {
+                        "access": "Reject",
+                        "type": "pers-s",
+                        "timestamp": "2026-04-17 06:15:48.261000"
+                    }
+                ],
+                "access": "default"
+            }
+        ],
+        "uid": "1001"
+    },
+    {
+        "package_name": "com.android.phone",
+        "permissions": [
+            {
+                "name": "WAKE_LOCK",
+                "entries": [
+                    {
+                        "access": "Access",
+                        "type": "pers-s",
+                        "timestamp": "2026-04-17 06:27:40.465000"
+                    }
+                ],
+                "access": "allow"
+            },
+            {
+                "name": "USE_ICC_AUTH_WITH_DEVICE_IDENTIFIER",
+                "entries": [
+                    {
+                        "access": "Reject",
+                        "type": "pers-s",
+                        "timestamp": "2026-04-17 06:27:13.615000"
+                    }
+                ],
+                "access": "default"
+            }
+        ],
+        "uid": "1001"
+    },
+    {
+        "package_name": "com.google.android.bluetooth",
+        "permissions": [
+            {
+                "name": "READ_CONTACTS",
+                "entries": [
+                    {
+                        "access": "Access",
+                        "type": "pers-s",
+                        "timestamp": "2026-04-17 06:27:16.762000"
+                    }
+                ],
+                "access": "allow"
+            },
+            {
+                "name": "WAKE_LOCK",
+                "entries": [
+                    {
+                        "access": "Access",
+                        "type": "pers-s",
+                        "timestamp": "2026-04-17 06:18:08.424000"
+                    }
+                ],
+                "access": "allow"
+            },
+            {
+                "name": "GET_USAGE_STATS",
+                "entries": [
+                    {
+                        "access": "Reject",
+                        "type": "pers-s",
+                        "timestamp": "2026-04-17 06:18:09.767000"
+                    }
+                ],
+                "access": "default"
+            },
+            {
+                "name": "BLUETOOTH_SCAN",
+                "entries": [
+                    {
+                        "access": "Access",
+                        "type": "pers-s",
+                        "timestamp": "2026-04-17 06:27:32.469000"
+                    }
+                ],
+                "access": "allow"
+            },
+            {
+                "name": "BLUETOOTH_CONNECT",
+                "entries": [
+                    {
+                        "access": "Access",
+                        "type": "pers-s",
+                        "timestamp": "2026-04-17 06:21:14.249000"
+                    }
+                ],
+                "access": "allow"
+            }
+        ],
+        "uid": "1002"
+    },
+    {
+        "package_name": "audioserver",
+        "permissions": [
+            {
+                "name": "WAKE_LOCK",
+                "entries": [
+                    {
+                        "access": "Access",
+                        "type": "cch-s",
+                        "timestamp": "2026-04-17 06:27:16.640000"
+                    }
+                ],
+                "access": "allow"
+            },
+            {
+                "name": "GET_USAGE_STATS",
+                "entries": [
+                    {
+                        "access": "Reject",
+                        "type": "cch-s",
+                        "timestamp": "2026-04-17 06:27:39.753000"
+                    }
+                ],
+                "access": "default"
+            }
+        ],
+        "uid": "1041"
+    },
+    {
+        "package_name": "com.google.android.networkstack.tethering",
+        "permissions": [
+            {
+                "name": "USE_ICC_AUTH_WITH_DEVICE_IDENTIFIER",
+                "entries": [
+                    {
+                        "access": "Reject",
+                        "type": "pers-s",
+                        "timestamp": "2026-04-17 06:16:06.047000"
+                    }
+                ],
+                "access": "default"
+            }
+        ],
+        "uid": "1073"
+    },
+    {
+        "package_name": "com.google.android.cellbroadcastservice",
+        "permissions": [
+            {
+                "name": "WAKE_LOCK",
+                "entries": [
+                    {
+                        "access": "Access",
+                        "type": "pers-s",
+                        "timestamp": "2026-04-17 06:15:33.279000"
+                    }
+                ],
+                "access": "allow"
+            },
+            {
+                "name": "USE_ICC_AUTH_WITH_DEVICE_IDENTIFIER",
+                "entries": [
+                    {
+                        "access": "Reject",
+                        "type": "pers-s",
+                        "timestamp": "2026-04-17 06:16:05.386000"
+                    }
+                ],
+                "access": "default"
+            }
+        ],
+        "uid": "1073"
+    },
+    {
+        "package_name": "com.google.android.marvin.talkbackoverlay",
+        "permissions": [
+            {
+                "name": "MANAGE_EXTERNAL_STORAGE",
+                "entries": [
+                    {
+                        "access": "Reject",
+                        "type": "bg-s",
+                        "timestamp": "2026-04-17 06:16:52.157000"
+                    }
+                ],
+                "access": "default"
+            },
+            {
+                "name": "NO_ISOLATED_STORAGE",
+                "entries": [
+                    {
+                        "access": "Reject",
+                        "type": "bg-s",
+                        "timestamp": "2026-04-17 06:16:52.148000"
+                    }
+                ],
+                "access": "deny"
+            }
+        ],
+        "uid": "u0a64"
+    },
+    {
+        "package_name": "com.android.providers.contacts",
+        "permissions": [
+            {
+                "name": "READ_CONTACTS",
+                "entries": [
+                    {
+                        "access": "Access",
+                        "type": "fg-upd",
+                        "timestamp": "2026-04-17 06:21:19.603000"
+                    },
+                    {
+                        "access": "Access",
+                        "type": "cch-upd",
+                        "timestamp": "2026-04-17 06:27:16.106000"
+                    }
+                ],
+                "access": "allow"
+            },
+            {
+                "name": "READ_CALL_LOG",
+                "entries": [
+                    {
+                        "access": "Access",
+                        "type": "fg-s",
+                        "timestamp": "2026-04-17 06:13:59.655000"
+                    },
+                    {
+                        "access": "Access",
+                        "type": "bg-s",
+                        "timestamp": "2026-04-17 06:27:13.618000"
+                    }
+                ],
+                "access": "allow"
+            },
+            {
+                "name": "WRITE_CALL_LOG",
+                "entries": [
+                    {
+                        "access": "Access",
+                        "type": "fg-s",
+                        "timestamp": "2026-04-17 06:14:00.344000"
+                    },
+                    {
+                        "access": "Access",
+                        "type": "bg-s",
+                        "timestamp": "2026-04-17 06:27:13.687000"
+                    }
+                ],
+                "access": "allow"
+            }
+        ],
+        "uid": "u0a69"
+    },
+    {
+        "package_name": "com.android.cellbroadcastreceiver",
+        "permissions": [
+            {
+                "name": "READ_CELL_BROADCASTS",
+                "entries": [
+                    {
+                        "access": "Access",
+                        "type": "bg-up",
+                        "timestamp": "2026-04-17 06:16:49.788000"
+                    }
+                ],
+                "access": "allow"
+            }
+        ],
+        "uid": "u0a71"
+    },
+    {
+        "package_name": "com.android.providers.calendar",
+        "permissions": [
+            {
+                "name": "WAKE_LOCK",
+                "entries": [
+                    {
+                        "access": "Access",
+                        "type": "bg-s",
+                        "timestamp": "2026-04-17 06:20:14.121000"
+                    }
+                ],
+                "access": "allow"
+            }
+        ],
+        "uid": "u0a83"
+    },
+    {
+        "package_name": "com.android.imsserviceentitlement",
+        "permissions": [
+            {
+                "name": "USE_ICC_AUTH_WITH_DEVICE_IDENTIFIER",
+                "entries": [
+                    {
+                        "access": "Reject",
+                        "type": "bg-s",
+                        "timestamp": "2026-04-17 06:20:12.296000"
+                    }
+                ],
+                "access": "default"
+            }
+        ],
+        "uid": "u0a106"
+    },
+    {
+        "package_name": "com.google.android.projection.gearhead",
+        "permissions": [
+            {
+                "name": "BLUETOOTH_CONNECT",
+                "entries": [
+                    {
+                        "access": "Access",
+                        "type": "bg-s",
+                        "timestamp": "2026-04-17 06:21:14.245000"
+                    }
+                ],
+                "access": "allow"
+            }
+        ],
+        "uid": "u0a108"
+    },
+    {
+        "package_name": "com.google.android.apps.wellbeing",
+        "permissions": [
+            {
+                "name": "WAKE_LOCK",
+                "entries": [
+                    {
+                        "access": "Access",
+                        "type": "fg-s",
+                        "timestamp": "2026-04-17 06:13:40.670000"
+                    }
+                ],
+                "access": "allow"
+            },
+            {
+                "name": "START_FOREGROUND",
+                "entries": [
+                    {
+                        "access": "Access",
+                        "type": "fg-s",
+                        "timestamp": "2026-04-17 06:14:25.468000"
+                    }
+                ],
+                "access": "allow"
+            }
+        ],
+        "uid": "u0a111"
+    },
+    {
+        "package_name": "com.google.android.dialer",
+        "permissions": [
+            {
+                "name": "READ_CALL_LOG",
+                "entries": [
+                    {
+                        "access": "Access",
+                        "type": "bg-s",
+                        "timestamp": "2026-04-17 06:20:09.178000"
+                    }
+                ],
+                "access": "allow"
+            },
+            {
+                "name": "SYSTEM_ALERT_WINDOW",
+                "entries": [
+                    {
+                        "access": "Access",
+                        "type": "bg-s",
+                        "timestamp": "2026-04-17 06:20:14.696000"
+                    },
+                    {
+                        "access": "Access",
+                        "type": "cch-s",
+                        "timestamp": "2026-04-17 06:24:18.828000"
+                    }
+                ],
+                "access": "allow"
+            },
+            {
+                "name": "WAKE_LOCK",
+                "entries": [
+                    {
+                        "access": "Access",
+                        "type": "bg-s",
+                        "timestamp": "2026-04-17 06:15:33.786000"
+                    }
+                ],
+                "access": "allow"
+            },
+            {
+                "name": "READ_PHONE_STATE",
+                "entries": [
+                    {
+                        "access": "Access",
+                        "type": "bg-s",
+                        "timestamp": "2026-04-17 06:20:14.703000"
+                    },
+                    {
+                        "access": "Access",
+                        "type": "cch-s",
+                        "timestamp": "2026-04-17 06:16:57.775000"
+                    }
+                ],
+                "access": "allow"
+            },
+            {
+                "name": "ADD_VOICEMAIL",
+                "entries": [
+                    {
+                        "access": "Access",
+                        "type": "bg-s",
+                        "timestamp": "2026-04-17 06:20:09.657000"
+                    }
+                ],
+                "access": "allow"
+            },
+            {
+                "name": "USE_ICC_AUTH_WITH_DEVICE_IDENTIFIER",
+                "entries": [
+                    {
+                        "access": "Reject",
+                        "type": "bg-s",
+                        "timestamp": "2026-04-17 06:20:45.020000"
+                    },
+                    {
+                        "access": "Reject",
+                        "type": "cch-s",
+                        "timestamp": "2026-04-17 06:24:18.823000"
+                    }
+                ],
+                "access": "default"
+            }
+        ],
+        "uid": "u0a112"
+    },
+    {
+        "package_name": "com.google.android.apps.messaging",
+        "permissions": [
+            {
+                "name": "READ_CONTACTS",
+                "entries": [
+                    {
+                        "access": "Access",
+                        "type": "bg-s",
+                        "timestamp": "2026-04-17 06:22:12.991000"
+                    }
+                ],
+                "access": "allow"
+            },
+            {
+                "name": "READ_SMS",
+                "entries": [
+                    {
+                        "access": "Access",
+                        "type": "fgsvc-s",
+                        "timestamp": "2026-04-17 06:17:20.357000"
+                    },
+                    {
+                        "access": "Access",
+                        "type": "fg-s",
+                        "timestamp": "2026-04-17 06:20:32.399000"
+                    },
+                    {
+                        "access": "Access",
+                        "type": "bg-s",
+                        "timestamp": "2026-04-17 06:20:24.522000"
+                    }
+                ],
+                "access": "allow"
+            },
+            {
+                "name": "WRITE_SMS",
+                "entries": [
+                    {
+                        "access": "Access",
+                        "type": "bg-s",
+                        "timestamp": "2026-04-17 06:20:23.411000"
+                    }
+                ],
+                "access": "ignore"
+            },
+            {
+                "name": "WAKE_LOCK",
+                "entries": [
+                    {
+                        "access": "Access",
+                        "type": "fgsvc-s",
+                        "timestamp": "2026-04-17 06:17:27.777000"
+                    },
+                    {
+                        "access": "Access",
+                        "type": "fg-s",
+                        "timestamp": "2026-04-17 06:23:41.225000"
+                    },
+                    {
+                        "access": "Access",
+                        "type": "bg-s",
+                        "timestamp": "2026-04-17 06:22:10.513000"
+                    },
+                    {
+                        "access": "Access",
+                        "type": "cch-s",
+                        "timestamp": "2026-04-17 06:18:19.382000"
+                    }
+                ],
+                "access": "allow"
+            },
+            {
+                "name": "GET_USAGE_STATS",
+                "entries": [
+                    {
+                        "access": "Reject",
+                        "type": "fg-s",
+                        "timestamp": "2026-04-17 06:20:26.208000"
+                    }
+                ],
+                "access": "default"
+            },
+            {
+                "name": "START_FOREGROUND",
+                "entries": [
+                    {
+                        "access": "Access",
+                        "type": "fgsvc-s",
+                        "timestamp": "2026-04-17 06:17:16.501000"
+                    },
+                    {
+                        "access": "Access",
+                        "type": "bg-s",
+                        "timestamp": "2026-04-17 06:17:16.277000"
+                    }
+                ],
+                "access": "allow"
+            },
+            {
+                "name": "USE_ICC_AUTH_WITH_DEVICE_IDENTIFIER",
+                "entries": [
+                    {
+                        "access": "Reject",
+                        "type": "fgsvc-s",
+                        "timestamp": "2026-04-17 06:17:27.065000"
+                    },
+                    {
+                        "access": "Reject",
+                        "type": "fg-s",
+                        "timestamp": "2026-04-17 06:23:35.418000"
+                    },
+                    {
+                        "access": "Reject",
+                        "type": "bg-s",
+                        "timestamp": "2026-04-17 06:22:12.885000"
+                    },
+                    {
+                        "access": "Reject",
+                        "type": "cch-s",
+                        "timestamp": "2026-04-17 06:21:29.408000"
+                    }
+                ],
+                "access": "default"
+            }
+        ],
+        "uid": "u0a113"
+    },
+    {
+        "package_name": "com.google.android.ims",
+        "permissions": [
+            {
+                "name": "USE_ICC_AUTH_WITH_DEVICE_IDENTIFIER",
+                "entries": [
+                    {
+                        "access": "Reject",
+                        "type": "pers-s",
+                        "timestamp": "2026-04-17 06:20:14.447000"
+                    }
+                ],
+                "access": "default"
+            }
+        ],
+        "uid": "u0a114"
+    },
+    {
+        "package_name": "com.google.android.setupwizard",
+        "permissions": [
+            {
+                "name": "USE_BIOMETRIC",
+                "entries": [
+                    {
+                        "access": "Access",
+                        "type": "top-s",
+                        "timestamp": "2026-04-17 06:14:09.107000"
+                    }
+                ],
+                "access": "allow"
+            }
+        ],
+        "uid": "u0a116"
+    },
+    {
+        "package_name": "com.google.android.as",
+        "permissions": [
+            {
+                "name": "COARSE_LOCATION",
+                "entries": [],
+                "access": "allow"
+            },
+            {
+                "name": "FINE_LOCATION",
+                "entries": [
+                    {
+                        "access": "Access",
+                        "type": "fg-s",
+                        "timestamp": "2026-04-17 06:15:17.805000"
+                    }
+                ],
+                "access": "allow"
+            },
+            {
+                "name": "READ_CONTACTS",
+                "entries": [
+                    {
+                        "access": "Access",
+                        "type": "fg-s",
+                        "timestamp": "2026-04-17 06:27:17.351000"
+                    }
+                ],
+                "access": "allow"
+            },
+            {
+                "name": "READ_CALL_LOG",
+                "entries": [
+                    {
+                        "access": "Access",
+                        "type": "fg-s",
+                        "timestamp": "2026-04-17 06:15:57.021000"
+                    }
+                ],
+                "access": "allow"
+            },
+            {
+                "name": "WIFI_SCAN",
+                "entries": [
+                    {
+                        "access": "Access",
+                        "type": "fg-s",
+                        "timestamp": "2026-04-17 06:14:24.765000"
+                    }
+                ],
+                "access": "all"
+            },
+            {
+                "name": "READ_SMS",
+                "entries": [
+                    {
+                        "access": "Access",
+                        "type": "fg-s",
+                        "timestamp": "2026-04-17 06:20:26.496000"
+                    }
+                ],
+                "access": "allow"
+            },
+            {
+                "name": "MONITOR_LOCATION",
+                "entries": [
+                    {
+                        "access": "Access",
+                        "type": "fg-s",
+                        "timestamp": "2026-04-17 06:18:13.510000"
+                    }
+                ],
+                "access": "all"
+            },
+            {
+                "name": "GET_USAGE_STATS",
+                "entries": [
+                    {
+                        "access": "Reject",
+                        "type": "fg-s",
+                        "timestamp": "2026-04-17 06:15:47.092000"
+                    }
+                ],
+                "access": "default"
+            }
+        ],
+        "uid": "u0a117"
+    },
+    {
+        "package_name": "com.google.android.gms",
+        "permissions": [
+            {
+                "name": "COARSE_LOCATION",
+                "entries": [],
+                "access": "allow"
+            },
+            {
+                "name": "FINE_LOCATION",
+                "entries": [
+                    {
+                        "access": "Access",
+                        "type": "fg-s",
+                        "timestamp": "2026-04-17 06:18:21.012000"
+                    },
+                    {
+                        "access": "Access",
+                        "type": "fg-s",
+                        "timestamp": "2026-04-17 06:18:09.348000"
+                    },
+                    {
+                        "access": "Access",
+                        "type": "fg-s",
+                        "timestamp": "2026-04-17 06:18:05.081000"
+                    },
+                    {
+                        "access": "Access",
+                        "type": "fg-s",
+                        "timestamp": "2026-04-17 06:18:05.541000"
+                    }
+                ],
+                "access": "allow"
+            },
+            {
+                "name": "READ_CONTACTS",
+                "entries": [
+                    {
+                        "access": "Access",
+                        "type": "fg-s",
+                        "timestamp": "2026-04-17 06:13:59.007000"
+                    },
+                    {
+                        "access": "Access",
+                        "type": "fg-s",
+                        "timestamp": "2026-04-17 06:21:12.076000"
+                    },
+                    {
+                        "access": "Access",
+                        "type": "fg-s",
+                        "timestamp": "2026-04-17 06:18:14.805000"
+                    },
+                    {
+                        "access": "Access",
+                        "type": "fg-s",
+                        "timestamp": "2026-04-17 06:27:40.612000"
+                    }
+                ],
+                "access": "allow"
+            },
+            {
+                "name": "WRITE_CONTACTS",
+                "entries": [
+                    {
+                        "access": "Access",
+                        "type": "fg-s",
+                        "timestamp": "2026-04-17 06:21:12.502000"
+                    }
+                ],
+                "access": "allow"
+            },
+            {
+                "name": "WIFI_SCAN",
+                "entries": [
+                    {
+                        "access": "Access",
+                        "type": "fg-s",
+                        "timestamp": "2026-04-17 06:18:19.889000"
+                    },
+                    {
+                        "access": "Access",
+                        "type": "fg-s",
+                        "timestamp": "2026-04-17 06:18:13.937000"
+                    },
+                    {
+                        "access": "Access",
+                        "type": "fg-s",
+                        "timestamp": "2026-04-17 06:18:09.356000"
+                    },
+                    {
+                        "access": "Access",
+                        "type": "fg-s",
+                        "timestamp": "2026-04-17 06:18:12.885000"
+                    }
+                ],
+                "access": "all"
+            },
+            {
+                "name": "WAKE_LOCK",
+                "entries": [
+                    {
+                        "access": "Access",
+                        "type": "fg-s",
+                        "timestamp": "2026-04-17 06:22:03.813000"
+                    }
+                ],
+                "access": "allow"
+            },
+            {
+                "name": "GET_USAGE_STATS",
+                "entries": [
+                    {
+                        "access": "Reject",
+                        "type": "fg-s",
+                        "timestamp": "2026-04-17 06:22:08.128000"
+                    },
+                    {
+                        "access": "Reject",
+                        "type": "bg-s",
+                        "timestamp": "2026-04-17 06:16:49.267000"
+                    },
+                    {
+                        "access": "Reject",
+                        "type": "fg-s",
+                        "timestamp": "2026-04-17 06:27:42.317000"
+                    },
+                    {
+                        "access": "Reject",
+                        "type": "fg-s",
+                        "timestamp": "2026-04-17 06:27:25.458000"
+                    }
+                ],
+                "access": "default"
+            },
+            {
+                "name": "BLUETOOTH_SCAN",
+                "entries": [
+                    {
+                        "access": "Access",
+                        "type": "fg-s",
+                        "timestamp": "2026-04-17 06:21:20.490000"
+                    },
+                    {
+                        "access": "Access",
+                        "type": "fg-s",
+                        "timestamp": "2026-04-17 06:18:17.001000"
+                    }
+                ],
+                "access": "allow"
+            },
+            {
+                "name": "USE_BIOMETRIC",
+                "entries": [
+                    {
+                        "access": "Access",
+                        "type": "fg-s",
+                        "timestamp": "2026-04-17 06:27:16.830000"
+                    }
+                ],
+                "access": "allow"
+            },
+            {
+                "name": "ACTIVITY_RECOGNITION",
+                "entries": [
+                    {
+                        "access": "Access",
+                        "type": "fg-s",
+                        "timestamp": "2026-04-17 06:18:12.437000"
+                    }
+                ],
+                "access": "allow"
+            },
+            {
+                "name": "READ_MEDIA_AUDIO",
+                "entries": [
+                    {
+                        "access": "Access",
+                        "type": "fg-s",
+                        "timestamp": "2026-04-17 06:16:15.123000"
+                    }
+                ],
+                "access": "allow"
+            },
+            {
+                "name": "WRITE_MEDIA_AUDIO",
+                "entries": [
+                    {
+                        "access": "Reject",
+                        "type": "fg-s",
+                        "timestamp": "2026-04-17 06:16:15.334000"
+                    }
+                ],
+                "access": "deny"
+            },
+            {
+                "name": "READ_MEDIA_VIDEO",
+                "entries": [
+                    {
+                        "access": "Access",
+                        "type": "fg-s",
+                        "timestamp": "2026-04-17 06:16:15.139000"
+                    }
+                ],
+                "access": "allow"
+            },
+            {
+                "name": "WRITE_MEDIA_VIDEO",
+                "entries": [
+                    {
+                        "access": "Reject",
+                        "type": "fg-s",
+                        "timestamp": "2026-04-17 06:16:15.348000"
+                    }
+                ],
+                "access": "deny"
+            },
+            {
+                "name": "READ_MEDIA_IMAGES",
+                "entries": [
+                    {
+                        "access": "Access",
+                        "type": "fg-s",
+                        "timestamp": "2026-04-17 06:16:15.158000"
+                    }
+                ],
+                "access": "allow"
+            },
+            {
+                "name": "WRITE_MEDIA_IMAGES",
+                "entries": [
+                    {
+                        "access": "Reject",
+                        "type": "fg-s",
+                        "timestamp": "2026-04-17 06:16:15.357000"
+                    }
+                ],
+                "access": "deny"
+            },
+            {
+                "name": "MANAGE_EXTERNAL_STORAGE",
+                "entries": [
+                    {
+                        "access": "Reject",
+                        "type": "fg-s",
+                        "timestamp": "2026-04-17 06:16:14.943000"
+                    }
+                ],
+                "access": "default"
+            },
+            {
+                "name": "NO_ISOLATED_STORAGE",
+                "entries": [
+                    {
+                        "access": "Reject",
+                        "type": "fg-s",
+                        "timestamp": "2026-04-17 06:16:14.942000"
+                    }
+                ],
+                "access": "deny"
+            },
+            {
+                "name": "USE_ICC_AUTH_WITH_DEVICE_IDENTIFIER",
+                "entries": [
+                    {
+                        "access": "Reject",
+                        "type": "fg-s",
+                        "timestamp": "2026-04-17 06:21:13.858000"
+                    },
+                    {
+                        "access": "Reject",
+                        "type": "fg-s",
+                        "timestamp": "2026-04-17 06:21:34.150000"
+                    },
+                    {
+                        "access": "Reject",
+                        "type": "fg-s",
+                        "timestamp": "2026-04-17 06:23:38.792000"
+                    },
+                    {
+                        "access": "Reject",
+                        "type": "fg-s",
+                        "timestamp": "2026-04-17 06:23:38.963000"
+                    }
+                ],
+                "access": "default"
+            },
+            {
+                "name": "FINE_LOCATION_SOURCE",
+                "entries": [
+                    {
+                        "access": "Access",
+                        "type": "fg-s",
+                        "timestamp": "2026-04-17 06:18:20.133000"
+                    },
+                    {
+                        "access": "Access",
+                        "type": "fg-s",
+                        "timestamp": "2026-04-17 06:18:13.936000"
+                    },
+                    {
+                        "access": "Access",
+                        "type": "fg-s",
+                        "timestamp": "2026-04-17 06:13:55.640000"
+                    },
+                    {
+                        "access": "Access",
+                        "type": "fg-s",
+                        "timestamp": "2026-04-17 06:18:12.885000"
+                    }
+                ],
+                "access": "all"
+            },
+            {
+                "name": "BLUETOOTH_CONNECT",
+                "entries": [
+                    {
+                        "access": "Access",
+                        "type": "fg-s",
+                        "timestamp": "2026-04-17 06:19:25.768000"
+                    },
+                    {
+                        "access": "Access",
+                        "type": "fg-s",
+                        "timestamp": "2026-04-17 06:18:31.676000"
+                    },
+                    {
+                        "access": "Access",
+                        "type": "fg-s",
+                        "timestamp": "2026-04-17 06:22:03.859000"
+                    },
+                    {
+                        "access": "Access",
+                        "type": "fg-s",
+                        "timestamp": "2026-04-17 06:22:53.075000"
+                    }
+                ],
+                "access": "allow"
+            },
+            {
+                "name": "ACTIVITY_RECOGNITION_SOURCE",
+                "entries": [
+                    {
+                        "access": "Access",
+                        "type": "fg-s",
+                        "timestamp": "2026-04-17 06:18:12.435000"
+                    }
+                ],
+                "access": "all"
+            }
+        ],
+        "uid": "u0a119"
+    },
+    {
+        "package_name": "com.google.android.googlequicksearchbox",
+        "permissions": [
+            {
+                "name": "READ_CONTACTS",
+                "entries": [
+                    {
+                        "access": "Access",
+                        "type": "fg-s",
+                        "timestamp": "2026-04-17 06:16:16.410000"
+                    }
+                ],
+                "access": "allow"
+            },
+            {
+                "name": "SYSTEM_ALERT_WINDOW",
+                "entries": [],
+                "access": "allow"
+            },
+            {
+                "name": "WAKE_LOCK",
+                "entries": [
+                    {
+                        "access": "Access",
+                        "type": "fg-s",
+                        "timestamp": "2026-04-17 06:20:59.765000"
+                    }
+                ],
+                "access": "allow"
+            },
+            {
+                "name": "START_FOREGROUND",
+                "entries": [
+                    {
+                        "access": "Access",
+                        "type": "fg-s",
+                        "timestamp": "2026-04-17 06:22:39.065000"
+                    }
+                ],
+                "access": "allow"
+            },
+            {
+                "name": "MANAGE_EXTERNAL_STORAGE",
+                "entries": [
+                    {
+                        "access": "Reject",
+                        "type": "fg-s",
+                        "timestamp": "2026-04-17 06:16:14.444000"
+                    }
+                ],
+                "access": "default"
+            },
+            {
+                "name": "NO_ISOLATED_STORAGE",
+                "entries": [
+                    {
+                        "access": "Reject",
+                        "type": "fg-s",
+                        "timestamp": "2026-04-17 06:16:14.416000"
+                    }
+                ],
+                "access": "deny"
+            },
+            {
+                "name": "BLUETOOTH_CONNECT",
+                "entries": [
+                    {
+                        "access": "Access",
+                        "type": "fg-s",
+                        "timestamp": "2026-04-17 06:22:43.152000"
+                    }
+                ],
+                "access": "allow"
+            }
+        ],
+        "uid": "u0a120"
+    },
+    {
+        "package_name": "com.google.android.apps.youtube.music",
+        "permissions": [
+            {
+                "name": "SYSTEM_ALERT_WINDOW",
+                "entries": [
+                    {
+                        "access": "Reject",
+                        "type": "bg-s",
+                        "timestamp": "2026-04-17 06:26:37.331000"
+                    },
+                    {
+                        "access": "Reject",
+                        "type": "cch-s",
+                        "timestamp": "2026-04-17 06:26:40.938000"
+                    }
+                ],
+                "access": "default"
+            },
+            {
+                "name": "WAKE_LOCK",
+                "entries": [
+                    {
+                        "access": "Access",
+                        "type": "bg-s",
+                        "timestamp": "2026-04-17 06:18:23.394000"
+                    },
+                    {
+                        "access": "Access",
+                        "type": "cch-s",
+                        "timestamp": "2026-04-17 06:18:23.173000"
+                    }
+                ],
+                "access": "allow"
+            },
+            {
+                "name": "WRITE_MEDIA_VIDEO",
+                "entries": [
+                    {
+                        "access": "Reject",
+                        "type": "bg-s",
+                        "timestamp": "2026-04-17 06:15:49.997000"
+                    }
+                ],
+                "access": "deny"
+            },
+            {
+                "name": "WRITE_MEDIA_IMAGES",
+                "entries": [
+                    {
+                        "access": "Reject",
+                        "type": "bg-s",
+                        "timestamp": "2026-04-17 06:15:49.994000"
+                    }
+                ],
+                "access": "deny"
+            },
+            {
+                "name": "MANAGE_EXTERNAL_STORAGE",
+                "entries": [
+                    {
+                        "access": "Reject",
+                        "type": "bg-s",
+                        "timestamp": "2026-04-17 06:15:49.991000"
+                    }
+                ],
+                "access": "default"
+            },
+            {
+                "name": "NO_ISOLATED_STORAGE",
+                "entries": [
+                    {
+                        "access": "Reject",
+                        "type": "bg-s",
+                        "timestamp": "2026-04-17 06:15:49.989000"
+                    }
+                ],
+                "access": "deny"
+            }
+        ],
+        "uid": "u0a121"
+    },
+    {
+        "package_name": "com.google.android.calendar",
+        "permissions": [
+            {
+                "name": "READ_CALENDAR",
+                "entries": [
+                    {
+                        "access": "Access",
+                        "type": "bg-s",
+                        "timestamp": "2026-04-17 06:26:24.581000"
+                    }
+                ],
+                "access": "allow"
+            },
+            {
+                "name": "SYSTEM_ALERT_WINDOW",
+                "entries": [
+                    {
+                        "access": "Reject",
+                        "type": "bg-s",
+                        "timestamp": "2026-04-17 06:19:03.372000"
+                    }
+                ],
+                "access": "default"
+            },
+            {
+                "name": "WAKE_LOCK",
+                "entries": [
+                    {
+                        "access": "Access",
+                        "type": "bg-s",
+                        "timestamp": "2026-04-17 06:20:41.738000"
+                    }
+                ],
+                "access": "allow"
+            }
+        ],
+        "uid": "u0a122"
+    },
+    {
+        "package_name": "com.google.android.contacts",
+        "permissions": [
+            {
+                "name": "READ_CONTACTS",
+                "entries": [
+                    {
+                        "access": "Access",
+                        "type": "fg-s",
+                        "timestamp": "2026-04-17 06:27:19.497000"
+                    },
+                    {
+                        "access": "Access",
+                        "type": "bg-s",
+                        "timestamp": "2026-04-17 06:27:14.449000"
+                    },
+                    {
+                        "access": "Access",
+                        "type": "cch-s",
+                        "timestamp": "2026-04-17 06:27:27.054000"
+                    }
+                ],
+                "access": "allow"
+            },
+            {
+                "name": "WRITE_SMS",
+                "entries": [
+                    {
+                        "access": "Reject",
+                        "type": "fg-s",
+                        "timestamp": "2026-04-17 06:14:13.021000"
+                    },
+                    {
+                        "access": "Reject",
+                        "type": "bg-s",
+                        "timestamp": "2026-04-17 06:27:13.025000"
+                    },
+                    {
+                        "access": "Reject",
+                        "type": "cch-s",
+                        "timestamp": "2026-04-17 06:27:15.876000"
+                    }
+                ],
+                "access": "ignore"
+            },
+            {
+                "name": "READ_PHONE_STATE",
+                "entries": [
+                    {
+                        "access": "Access",
+                        "type": "fg-s",
+                        "timestamp": "2026-04-17 06:14:12.997000"
+                    },
+                    {
+                        "access": "Access",
+                        "type": "bg-s",
+                        "timestamp": "2026-04-17 06:27:13.019000"
+                    },
+                    {
+                        "access": "Access",
+                        "type": "cch-s",
+                        "timestamp": "2026-04-17 06:27:15.873000"
+                    }
+                ],
+                "access": "allow"
+            },
+            {
+                "name": "READ_DEVICE_IDENTIFIERS",
+                "entries": [
+                    {
+                        "access": "Reject",
+                        "type": "fg-s",
+                        "timestamp": "2026-04-17 06:14:13.019000"
+                    },
+                    {
+                        "access": "Reject",
+                        "type": "bg-s",
+                        "timestamp": "2026-04-17 06:27:13.020000"
+                    },
+                    {
+                        "access": "Reject",
+                        "type": "cch-s",
+                        "timestamp": "2026-04-17 06:27:15.875000"
+                    }
+                ],
+                "access": "deny"
+            },
+            {
+                "name": "USE_ICC_AUTH_WITH_DEVICE_IDENTIFIER",
+                "entries": [
+                    {
+                        "access": "Reject",
+                        "type": "fg-s",
+                        "timestamp": "2026-04-17 06:14:13.008000"
+                    },
+                    {
+                        "access": "Reject",
+                        "type": "bg-s",
+                        "timestamp": "2026-04-17 06:27:13.020000"
+                    },
+                    {
+                        "access": "Reject",
+                        "type": "cch-s",
+                        "timestamp": "2026-04-17 06:27:15.875000"
+                    }
+                ],
+                "access": "default"
+            }
+        ],
+        "uid": "u0a123"
+    },
+    {
+        "package_name": "com.google.android.apps.docs",
+        "permissions": [
+            {
+                "name": "SYSTEM_ALERT_WINDOW",
+                "entries": [
+                    {
+                        "access": "Reject",
+                        "type": "bg-s",
+                        "timestamp": "2026-04-17 06:27:27.559000"
+                    },
+                    {
+                        "access": "Reject",
+                        "type": "cch-s",
+                        "timestamp": "2026-04-17 06:27:38.113000"
+                    }
+                ],
+                "access": "default"
+            },
+            {
+                "name": "WAKE_LOCK",
+                "entries": [
+                    {
+                        "access": "Access",
+                        "type": "bg-s",
+                        "timestamp": "2026-04-17 06:20:15.500000"
+                    }
+                ],
+                "access": "allow"
+            },
+            {
+                "name": "MANAGE_EXTERNAL_STORAGE",
+                "entries": [
+                    {
+                        "access": "Reject",
+                        "type": "cch-s",
+                        "timestamp": "2026-04-17 06:19:59.457000"
+                    }
+                ],
+                "access": "default"
+            },
+            {
+                "name": "NO_ISOLATED_STORAGE",
+                "entries": [
+                    {
+                        "access": "Reject",
+                        "type": "cch-s",
+                        "timestamp": "2026-04-17 06:19:59.441000"
+                    }
+                ],
+                "access": "deny"
+            }
+        ],
+        "uid": "u0a130"
+    },
+    {
+        "package_name": "com.google.android.inputmethod.latin",
+        "permissions": [
+            {
+                "name": "READ_CLIPBOARD",
+                "entries": [
+                    {
+                        "access": "Access",
+                        "type": "bg-s",
+                        "timestamp": "2026-04-17 06:16:00.103000"
+                    }
+                ],
+                "access": "allow"
+            },
+            {
+                "name": "WAKE_LOCK",
+                "entries": [
+                    {
+                        "access": "Access",
+                        "type": "fgsvc-s",
+                        "timestamp": "2026-04-17 06:22:14.458000"
+                    },
+                    {
+                        "access": "Access",
+                        "type": "bg-s",
+                        "timestamp": "2026-04-17 06:22:33.819000"
+                    }
+                ],
+                "access": "allow"
+            },
+            {
+                "name": "START_FOREGROUND",
+                "entries": [
+                    {
+                        "access": "Access",
+                        "type": "fgsvc-s",
+                        "timestamp": "2026-04-17 06:22:14.289000"
+                    },
+                    {
+                        "access": "Access",
+                        "type": "bg-s",
+                        "timestamp": "2026-04-17 06:22:33.820000"
+                    }
+                ],
+                "access": "allow"
+            }
+        ],
+        "uid": "u0a135"
+    },
+    {
+        "package_name": "com.google.android.deskclock",
+        "permissions": [
+            {
+                "name": "WAKE_LOCK",
+                "entries": [
+                    {
+                        "access": "Access",
+                        "type": "bg-s",
+                        "timestamp": "2026-04-17 06:20:43.309000"
+                    },
+                    {
+                        "access": "Access",
+                        "type": "cch-s",
+                        "timestamp": "2026-04-17 06:20:43.391000"
+                    }
+                ],
+                "access": "allow"
+            }
+        ],
+        "uid": "u0a137"
+    },
+    {
+        "package_name": "com.google.android.youtube",
+        "permissions": [
+            {
+                "name": "SYSTEM_ALERT_WINDOW",
+                "entries": [
+                    {
+                        "access": "Reject",
+                        "type": "bg-s",
+                        "timestamp": "2026-04-17 06:18:42.659000"
+                    },
+                    {
+                        "access": "Reject",
+                        "type": "cch-s",
+                        "timestamp": "2026-04-17 06:26:22.194000"
+                    }
+                ],
+                "access": "default"
+            },
+            {
+                "name": "WAKE_LOCK",
+                "entries": [
+                    {
+                        "access": "Access",
+                        "type": "bg-s",
+                        "timestamp": "2026-04-17 06:18:42.575000"
+                    },
+                    {
+                        "access": "Access",
+                        "type": "cch-s",
+                        "timestamp": "2026-04-17 06:18:36.776000"
+                    }
+                ],
+                "access": "allow"
+            },
+            {
+                "name": "MANAGE_EXTERNAL_STORAGE",
+                "entries": [
+                    {
+                        "access": "Reject",
+                        "type": "bg-s",
+                        "timestamp": "2026-04-17 06:16:02.882000"
+                    }
+                ],
+                "access": "default"
+            },
+            {
+                "name": "NO_ISOLATED_STORAGE",
+                "entries": [
+                    {
+                        "access": "Reject",
+                        "type": "bg-s",
+                        "timestamp": "2026-04-17 06:16:02.879000"
+                    }
+                ],
+                "access": "deny"
+            }
+        ],
+        "uid": "u0a138"
+    },
+    {
+        "package_name": "com.google.android.apps.maps",
+        "permissions": [
+            {
+                "name": "MANAGE_EXTERNAL_STORAGE",
+                "entries": [
+                    {
+                        "access": "Reject",
+                        "type": "bg-s",
+                        "timestamp": "2026-04-17 06:20:17.996000"
+                    }
+                ],
+                "access": "default"
+            },
+            {
+                "name": "NO_ISOLATED_STORAGE",
+                "entries": [
+                    {
+                        "access": "Reject",
+                        "type": "bg-s",
+                        "timestamp": "2026-04-17 06:20:17.995000"
+                    }
+                ],
+                "access": "deny"
+            }
+        ],
+        "uid": "u0a139"
+    },
+    {
+        "package_name": "com.google.android.apps.wallpaper.nexus",
+        "permissions": [
+            {
+                "name": "MANAGE_EXTERNAL_STORAGE",
+                "entries": [
+                    {
+                        "access": "Reject",
+                        "type": "bg-s",
+                        "timestamp": "2026-04-17 06:16:50.839000"
+                    }
+                ],
+                "access": "default"
+            },
+            {
+                "name": "NO_ISOLATED_STORAGE",
+                "entries": [
+                    {
+                        "access": "Reject",
+                        "type": "bg-s",
+                        "timestamp": "2026-04-17 06:16:50.838000"
+                    }
+                ],
+                "access": "deny"
+            }
+        ],
+        "uid": "u0a140"
+    },
+    {
+        "package_name": "com.google.android.apps.photos",
+        "permissions": [
+            {
+                "name": "WAKE_LOCK",
+                "entries": [
+                    {
+                        "access": "Access",
+                        "type": "bg-s",
+                        "timestamp": "2026-04-17 06:27:09.957000"
+                    }
+                ],
+                "access": "allow"
+            }
+        ],
+        "uid": "u0a141"
+    },
+    {
+        "package_name": "com.google.android.gm",
+        "permissions": [
+            {
+                "name": "READ_CONTACTS",
+                "entries": [
+                    {
+                        "access": "Access",
+                        "type": "fg-up",
+                        "timestamp": "2026-04-17 06:21:19.603000"
+                    },
+                    {
+                        "access": "Access",
+                        "type": "cch-up",
+                        "timestamp": "2026-04-17 06:27:16.106000"
+                    }
+                ],
+                "access": "allow"
+            },
+            {
+                "name": "SYSTEM_ALERT_WINDOW",
+                "entries": [
+                    {
+                        "access": "Reject",
+                        "type": "bg-s",
+                        "timestamp": "2026-04-17 06:26:03.385000"
+                    },
+                    {
+                        "access": "Reject",
+                        "type": "cch-s",
+                        "timestamp": "2026-04-17 06:19:50.832000"
+                    }
+                ],
+                "access": "default"
+            },
+            {
+                "name": "WAKE_LOCK",
+                "entries": [
+                    {
+                        "access": "Access",
+                        "type": "fg-s",
+                        "timestamp": "2026-04-17 06:20:53.420000"
+                    },
+                    {
+                        "access": "Access",
+                        "type": "bg-s",
+                        "timestamp": "2026-04-17 06:19:53.075000"
+                    },
+                    {
+                        "access": "Access",
+                        "type": "cch-s",
+                        "timestamp": "2026-04-17 06:19:53.075000"
+                    }
+                ],
+                "access": "allow"
+            }
+        ],
+        "uid": "u0a144"
+    },
+    {
+        "package_name": "com.google.android.marvin.talkback",
+        "permissions": [
+            {
+                "name": "BIND_ACCESSIBILITY_SERVICE",
+                "entries": [
+                    {
+                        "access": "Access",
+                        "type": "cch-s",
+                        "timestamp": "2026-04-17 06:20:13.555000"
+                    }
+                ],
+                "access": "allow"
+            }
+        ],
+        "uid": "u0a145"
+    },
+    {
+        "package_name": "com.google.android.sdksetup",
+        "permissions": [
+            {
+                "name": "CHANGE_WIFI_STATE",
+                "entries": [
+                    {
+                        "access": "Access",
+                        "type": "top-s",
+                        "timestamp": "2026-04-17 06:13:56.275000"
+                    }
+                ],
+                "access": "allow"
+            }
+        ],
+        "uid": "u0a149"
+    },
+    {
+        "package_name": "com.google.android.apps.wallpaper",
+        "permissions": [
+            {
+                "name": "WAKE_LOCK",
+                "entries": [
+                    {
+                        "access": "Access",
+                        "type": "bg-s",
+                        "timestamp": "2026-04-17 06:23:26.540000"
+                    }
+                ],
+                "access": "allow"
+            }
+        ],
+        "uid": "u0a152"
+    },
+    {
+        "package_name": "com.google.android.apps.nexuslauncher",
+        "permissions": [
+            {
+                "name": "VIBRATE",
+                "entries": [
+                    {
+                        "access": "Access",
+                        "type": "top-s",
+                        "timestamp": "2026-04-17 06:20:28.256000"
+                    }
+                ],
+                "access": "allow"
+            }
+        ],
+        "uid": "u0a153"
+    },
+    {
+        "package_name": "com.android.systemui",
+        "permissions": [
+            {
+                "name": "SYSTEM_ALERT_WINDOW",
+                "entries": [
+                    {
+                        "access": "Access",
+                        "type": "pers-s",
+                        "timestamp": "2026-04-17 06:13:58.403000"
+                    },
+                    {
+                        "access": "Reject",
+                        "type": "pers-s",
+                        "timestamp": "2026-04-17 06:13:58.370000"
+                    }
+                ],
+                "access": "default"
+            },
+            {
+                "name": "TAKE_AUDIO_FOCUS",
+                "entries": [
+                    {
+                        "access": "Access",
+                        "type": "pers-s",
+                        "timestamp": "2026-04-17 06:22:42.196000"
+                    }
+                ],
+                "access": "allow"
+            },
+            {
+                "name": "WAKE_LOCK",
+                "entries": [
+                    {
+                        "access": "Access",
+                        "type": "pers-s",
+                        "timestamp": "2026-04-17 06:22:45.060000"
+                    }
+                ],
+                "access": "allow"
+            },
+            {
+                "name": "TOAST_WINDOW",
+                "entries": [
+                    {
+                        "access": "Access",
+                        "type": "pers-s",
+                        "timestamp": "2026-04-17 06:16:52.486000"
+                    }
+                ],
+                "access": "allow"
+            },
+            {
+                "name": "READ_MEDIA_IMAGES",
+                "entries": [
+                    {
+                        "access": "Access",
+                        "type": "pers-s",
+                        "timestamp": "2026-04-17 06:20:09.016000"
+                    }
+                ],
+                "access": "allow"
+            },
+            {
+                "name": "MANAGE_EXTERNAL_STORAGE",
+                "entries": [
+                    {
+                        "access": "Reject",
+                        "type": "pers-s",
+                        "timestamp": "2026-04-17 06:20:09.016000"
+                    }
+                ],
+                "access": "default"
+            },
+            {
+                "name": "USE_ICC_AUTH_WITH_DEVICE_IDENTIFIER",
+                "entries": [
+                    {
+                        "access": "Reject",
+                        "type": "pers-s",
+                        "timestamp": "2026-04-17 06:20:11.576000"
+                    }
+                ],
+                "access": "default"
+            },
+            {
+                "name": "BLUETOOTH_CONNECT",
+                "entries": [
+                    {
+                        "access": "Access",
+                        "type": "pers-s",
+                        "timestamp": "2026-04-17 06:18:17.494000"
+                    }
+                ],
+                "access": "allow"
+            }
+        ],
+        "uid": "u0a157"
+    },
+    {
+        "package_name": "com.google.android.providers.media.module",
+        "permissions": [
+            {
+                "name": "WRITE_SETTINGS",
+                "entries": [
+                    {
+                        "access": "Reject",
+                        "type": "pers-s",
+                        "timestamp": "2026-04-17 06:18:07.736000"
+                    }
+                ],
+                "access": "default"
+            },
+            {
+                "name": "MANAGE_EXTERNAL_STORAGE",
+                "entries": [
+                    {
+                        "access": "Reject",
+                        "type": "pers-s",
+                        "timestamp": "2026-04-17 06:18:07.630000"
+                    }
+                ],
+                "access": "default"
+            }
+        ],
+        "uid": "u0a163"
+    },
+    {
+        "package_name": "com.android.cts.priv.ctsshim",
+        "permissions": [
+            {
+                "name": "MANAGE_EXTERNAL_STORAGE",
+                "entries": [
+                    {
+                        "access": "Reject",
+                        "type": "bg-s",
+                        "timestamp": "2026-04-17 06:16:43.500000"
+                    }
+                ],
+                "access": "default"
+            },
+            {
+                "name": "NO_ISOLATED_STORAGE",
+                "entries": [
+                    {
+                        "access": "Reject",
+                        "type": "bg-s",
+                        "timestamp": "2026-04-17 06:16:43.498000"
+                    }
+                ],
+                "access": "deny"
+            }
+        ],
+        "uid": "u0a169"
+    },
+    {
+        "package_name": "com.android.cts.ctsshim",
+        "permissions": [
+            {
+                "name": "MANAGE_EXTERNAL_STORAGE",
+                "entries": [
+                    {
+                        "access": "Reject",
+                        "type": "bg-s",
+                        "timestamp": "2026-04-17 06:16:40.842000"
+                    }
+                ],
+                "access": "default"
+            },
+            {
+                "name": "NO_ISOLATED_STORAGE",
+                "entries": [
+                    {
+                        "access": "Reject",
+                        "type": "bg-s",
+                        "timestamp": "2026-04-17 06:16:40.839000"
+                    }
+                ],
+                "access": "deny"
+            }
+        ],
+        "uid": "u0a170"
+    },
+    {
+        "package_name": "com.google.android.cellbroadcastreceiver",
+        "permissions": [
+            {
+                "name": "READ_CELL_BROADCASTS",
+                "entries": [
+                    {
+                        "access": "Access",
+                        "type": "bg-upd",
+                        "timestamp": "2026-04-17 06:16:49.790000"
+                    }
+                ],
+                "access": "allow"
+            },
+            {
+                "name": "USE_ICC_AUTH_WITH_DEVICE_IDENTIFIER",
+                "entries": [
+                    {
+                        "access": "Reject",
+                        "type": "bg-s",
+                        "timestamp": "2026-04-17 06:19:25.013000"
+                    }
+                ],
+                "access": "default"
+            }
+        ],
+        "uid": "u0a171"
+    }
+]

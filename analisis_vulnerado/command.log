@@ -1,0 +1,91 @@
+2026-04-17 13:16:49,904 - mvt.android.cmd_check_androidqf - INFO - Loaded a total of 0 unique indicators
+2026-04-17 13:16:49,907 - mvt - INFO - Checking AndroidQF acquisition at path: ./Vulnerado/
+2026-04-17 13:16:50,014 - mvt.android.modules.androidqf.aqf_packages - INFO - Running module AQFPackages...
+2026-04-17 13:16:50,069 - mvt.android.modules.androidqf.aqf_packages - INFO - Found 208 packages in packages.json
+2026-04-17 13:16:50,072 - mvt.android.modules.androidqf.aqf_packages - WARNING - Found a non-system package installed via adb or another method: "com.michalbednarski.abxoverflow"
+2026-04-17 13:16:50,073 - mvt.android.modules.androidqf.aqf_packages - WARNING - Found a non-system package installed via adb or another method: "com.michalbednarski.com.michalbednarski.abxoverflow"
+2026-04-17 13:16:50,077 - mvt.android.modules.androidqf.aqf_packages - WARNING - Found a non-system package installed via adb or another method: "com.example.com.michalbednarski.abxoverflow.droppedapk"
+2026-04-17 13:16:50,145 - mvt.android.modules.androidqf.aqf_processes - INFO - Running module AQFProcesses...
+2026-04-17 13:16:50,149 - mvt.android.modules.androidqf.aqf_getprop - INFO - Running module AQFGetProp...
+2026-04-17 13:16:50,174 - mvt.android.modules.androidqf.aqf_getprop - INFO - Extracted a total of 532 properties
+2026-04-17 13:16:50,176 - mvt.android.modules.androidqf.aqf_getprop - INFO - gsm.sim.operator.alpha: T-Mobile
+2026-04-17 13:16:50,178 - mvt.android.modules.androidqf.aqf_getprop - INFO - gsm.sim.operator.iso-country: us
+2026-04-17 13:16:50,179 - mvt.android.modules.androidqf.aqf_getprop - INFO - persist.sys.timezone: America/Mexico_City
+2026-04-17 13:16:50,180 - mvt.android.modules.androidqf.aqf_getprop - INFO - ro.boot.serialno: EMULATOR36X3X10X0
+2026-04-17 13:16:50,180 - mvt.android.modules.androidqf.aqf_getprop - INFO - ro.build.version.sdk: 33
+2026-04-17 13:16:50,182 - mvt.android.modules.androidqf.aqf_getprop - INFO - ro.build.version.security_patch: 2024-03-01
+2026-04-17 13:16:50,186 - mvt.android.modules.androidqf.aqf_getprop - WARNING - This phone has not received security updates for more than six months (last update: 2024-03-01)
+2026-04-17 13:16:50,187 - mvt.android.modules.androidqf.aqf_getprop - INFO - ro.product.cpu.abi: x86_64
+2026-04-17 13:16:50,189 - mvt.android.modules.androidqf.aqf_getprop - INFO - ro.product.locale: en-US
+2026-04-17 13:16:50,191 - mvt.android.modules.androidqf.aqf_getprop - INFO - ro.product.vendor.manufacturer: Google
+2026-04-17 13:16:50,192 - mvt.android.modules.androidqf.aqf_getprop - INFO - ro.product.vendor.model: sdk_gphone64_x86_64
+2026-04-17 13:16:50,195 - mvt.android.modules.androidqf.aqf_getprop - INFO - ro.product.vendor.name: sdk_gphone64_x86_64
+2026-04-17 13:16:50,213 - mvt.android.modules.androidqf.aqf_settings - INFO - Running module AQFSettings...
+2026-04-17 13:16:50,288 - mvt.android.modules.androidqf.aqf_settings - INFO - Identified 343 settings
+2026-04-17 13:16:50,290 - mvt.android.modules.androidqf.aqf_settings - WARNING - Found suspicious "global" setting "verifier_verify_adb_installs = 0" (disabled Google Play Services apps verification)
+2026-04-17 13:16:50,300 - mvt.android.modules.androidqf.aqf_files - INFO - Running module AQFFiles...
+2026-04-17 13:16:50,307 - mvt.android.modules.androidqf.aqf_files - DEBUG - Identified local phone timezone: America/Mexico_City
+2026-04-17 13:16:58,886 - mvt.android.modules.androidqf.aqf_files - INFO - Found a total of 135458 files
+2026-04-17 13:17:14,430 - mvt.android.modules.androidqf.sms - INFO - Running module SMS...
+2026-04-17 13:17:14,511 - mvt.android.modules.androidqf.sms - INFO - Identified 0 SMS in backup data
+2026-04-17 13:17:14,513 - mvt.android.modules.androidqf.root_binaries - INFO - Running module RootBinaries...
+2026-04-17 13:17:14,528 - mvt.android.modules.androidqf.root_binaries - INFO - Found 1 root binaries
+2026-04-17 13:17:14,530 - mvt.android.modules.androidqf.root_binaries - WARNING - Found root binary "su" at path "/system/xbin/su"
+2026-04-17 13:17:14,531 - mvt.android.modules.androidqf.root_binaries - WARNING - Device shows signs of rooting with 1 root binaries found
+2026-04-17 13:17:14,547 - mvt.android.modules.androidqf.mounts - INFO - Running module Mounts...
+2026-04-17 13:17:14,550 - mvt.android.modules.androidqf.mounts - INFO - Found mount information file: Vulnerado/3411ae42-f2f5-4067-9ffc-fa3d3eb3171d/mounts.json
+2026-04-17 13:17:14,571 - mvt.android.modules.androidqf.mounts - INFO - Extracted a total of 114 mount entries
+2026-04-17 13:17:14,572 - mvt.android.modules.androidqf.mounts - INFO - Data partition: /data mounted as ext4 with options: rw,seclabel,nosuid,nodev,noatime,resgid=1065,errors=panic
+2026-04-17 13:17:14,574 - mvt.android.modules.androidqf.mounts - INFO - Parsed 114 mount entries
+2026-04-17 13:17:14,624 - mvt.android.modules.bugreport.dumpsys_accessibility - INFO - Running module DumpsysAccessibility...
+2026-04-17 13:17:17,387 - mvt.android.modules.bugreport.dumpsys_accessibility - INFO - Identified a total of 0 accessibility services
+2026-04-17 13:17:17,391 - mvt.android.modules.bugreport.dumpsys_activities - INFO - Running module DumpsysActivities...
+2026-04-17 13:17:17,860 - mvt.android.modules.bugreport.dumpsys_activities - INFO - Extracted 1433 package activities
+2026-04-17 13:17:17,918 - mvt.android.modules.bugreport.dumpsys_appops - INFO - Running module DumpsysAppops...
+2026-04-17 13:17:18,416 - mvt.android.modules.bugreport.dumpsys_appops - INFO - Identified a total of 63 packages in App-Ops Manager
+2026-04-17 13:17:18,424 - mvt.android.modules.bugreport.dumpsys_appops - WARNING - Risky package 'com.android.shell' had 'VIBRATE' permission set to 'Access' at 2026-04-17 06:42:07.409000
+2026-04-17 13:17:18,454 - mvt.android.modules.bugreport.dumpsys_battery_daily - INFO - Running module DumpsysBatteryDaily...
+2026-04-17 13:17:18,810 - mvt.android.modules.bugreport.dumpsys_battery_daily - INFO - Extracted a total of 6 battery daily stats
+2026-04-17 13:17:18,818 - mvt.android.modules.bugreport.dumpsys_battery_history - INFO - Running module DumpsysBatteryHistory...
+2026-04-17 13:17:19,206 - mvt.android.modules.bugreport.dumpsys_battery_history - INFO - Extracted a total of 1686 battery history records
+2026-04-17 13:17:19,292 - mvt.android.modules.bugreport.dumpsys_dbinfo - INFO - Running module DumpsysDBInfo...
+2026-04-17 13:17:19,701 - mvt.android.modules.bugreport.dumpsys_dbinfo - INFO - Extracted a total of 907 database connection pool records
+2026-04-17 13:17:19,762 - mvt.android.modules.bugreport.dumpsys_getprop - INFO - Running module DumpsysGetProp...
+2026-04-17 13:17:20,432 - mvt.android.modules.bugreport.dumpsys_getprop - INFO - Extracted 930 Android system properties
+2026-04-17 13:17:20,449 - mvt.android.modules.bugreport.dumpsys_getprop - INFO - gsm.sim.operator.alpha: T-Mobile
+2026-04-17 13:17:20,451 - mvt.android.modules.bugreport.dumpsys_getprop - INFO - gsm.sim.operator.iso-country: us
+2026-04-17 13:17:20,452 - mvt.android.modules.bugreport.dumpsys_getprop - INFO - persist.sys.timezone: America/Mexico_City
+2026-04-17 13:17:20,454 - mvt.android.modules.bugreport.dumpsys_getprop - INFO - ro.boot.serialno: EMULATOR36X3X10X0
+2026-04-17 13:17:20,455 - mvt.android.modules.bugreport.dumpsys_getprop - INFO - ro.build.version.sdk: 33
+2026-04-17 13:17:20,456 - mvt.android.modules.bugreport.dumpsys_getprop - INFO - ro.build.version.security_patch: 2024-03-01
+2026-04-17 13:17:20,458 - mvt.android.modules.bugreport.dumpsys_getprop - WARNING - This phone has not received security updates for more than six months (last update: 2024-03-01)
+2026-04-17 13:17:20,460 - mvt.android.modules.bugreport.dumpsys_getprop - INFO - ro.product.cpu.abi: x86_64
+2026-04-17 13:17:20,462 - mvt.android.modules.bugreport.dumpsys_getprop - INFO - ro.product.locale: en-US
+2026-04-17 13:17:20,464 - mvt.android.modules.bugreport.dumpsys_getprop - INFO - ro.product.vendor.manufacturer: Google
+2026-04-17 13:17:20,467 - mvt.android.modules.bugreport.dumpsys_getprop - INFO - ro.product.vendor.model: sdk_gphone64_x86_64
+2026-04-17 13:17:20,468 - mvt.android.modules.bugreport.dumpsys_getprop - INFO - ro.product.vendor.name: sdk_gphone64_x86_64
+2026-04-17 13:17:20,492 - mvt.android.modules.bugreport.dumpsys_packages - INFO - Running module DumpsysPackages...
+2026-04-17 13:17:20,945 - mvt.android.modules.bugreport.dumpsys_packages - INFO - Found package "com.google.android.googlequicksearchbox" requested 13 potentially dangerous permissions
+2026-04-17 13:17:20,946 - mvt.android.modules.bugreport.dumpsys_packages - INFO - Found package "com.google.android.apps.messaging" requested 11 potentially dangerous permissions
+2026-04-17 13:17:20,948 - mvt.android.modules.bugreport.dumpsys_packages - INFO - Found package "android" requested 20 potentially dangerous permissions
+2026-04-17 13:17:20,950 - mvt.android.modules.bugreport.dumpsys_packages - INFO - Found package "com.google.android.dialer" requested 11 potentially dangerous permissions
+2026-04-17 13:17:20,952 - mvt.android.modules.bugreport.dumpsys_packages - INFO - Extracted details on 209 packages
+2026-04-17 13:17:21,062 - mvt.android.modules.bugreport.dumpsys_platform_compat - INFO - Running module DumpsysPlatformCompat...
+2026-04-17 13:17:22,160 - mvt.android.modules.bugreport.dumpsys_platform_compat - INFO - Found 4 uninstalled apps
+2026-04-17 13:17:22,201 - mvt.android.modules.bugreport.dumpsys_receivers - INFO - Running module DumpsysReceivers...
+2026-04-17 13:17:22,669 - mvt.android.modules.bugreport.dumpsys_receivers - INFO - Extracted receivers for 628 intents
+2026-04-17 13:17:22,753 - mvt.android.modules.bugreport.dumpsys_adb_state - INFO - Running module DumpsysADBState...
+2026-04-17 13:17:22,964 - mvt.android.modules.bugreport.dumpsys_adb_state - INFO - Identified a total of 1 trusted ADB keys
+2026-04-17 13:17:22,967 - mvt.android.modules.bugreport.dumpsys_adb_state - DEBUG - Found trusted ADB key for user '@unknown' with fingerprint 'BD:CE:F6:BF:A9:83:F1:1C:25:1A:E4:20:56:8E:E8:0F'
+2026-04-17 13:17:22,971 - mvt.android.modules.bugreport.fs_timestamps - INFO - Running module BugReportTimestamps...
+2026-04-17 13:17:22,974 - mvt.android.modules.bugreport.fs_timestamps - INFO - Extracted a total of 260 filesystem timestamps from bugreport.
+2026-04-17 13:17:22,975 - mvt.android.modules.bugreport.fs_timestamps - INFO - The BugReportTimestamps module does not support checking for indicators
+2026-04-17 13:17:22,996 - mvt.android.modules.bugreport.tombstones - INFO - Running module Tombstones...
+2026-04-17 13:17:35,836 - mvt.android.modules.bugreport.tombstones - INFO - Extracted a total of 40 tombstone files
+2026-04-17 13:17:35,867 - mvt.android.modules.backup.sms - INFO - Running module SMS...
+2026-04-17 13:17:35,869 - mvt.android.modules.backup.sms - INFO - Extracted a total of 0 SMS & MMS messages
+2026-04-17 13:17:39,959 - mvt.android.cmd_check_androidqf - INFO - Please disable Developer Options and ADB (Android Debug Bridge) on the device once finished with the acquisition. ADB is a powerful tool which can allow unauthorized access to the device.
+2026-04-17 13:17:39,961 - mvt.android.cmd_check_androidqf - WARNING - [bold]NOTE: Detected indicators of compromise[/bold]. Only expert review can confirm if the detected indicators are signs of an attack.
+
+Please seek reputable expert help if you have serious concerns about a possible spyware attack. Such support is available to human rights defenders and civil society through Amnesty International's Security Lab at https://securitylab.amnesty.org/get-help/?c=mvt
+2026-04-17 13:17:39,964 - mvt - WARNING - The analysis of the AndroidQF acquisition produced 5 detections!

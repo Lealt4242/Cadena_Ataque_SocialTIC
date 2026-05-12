@@ -1,0 +1,2767 @@
+[
+    {
+        "time_elapsed": "+1m37s419ms",
+        "event": "start_top",
+        "uid": "u0a116",
+        "package_name": "com.google.android.setupwizard",
+        "service": ""
+    },
+    {
+        "time_elapsed": "+1m41s653ms",
+        "event": "end_top",
+        "uid": "u0a116",
+        "package_name": "com.google.android.setupwizard",
+        "service": ""
+    },
+    {
+        "time_elapsed": "+1m41s653ms",
+        "event": "start_top",
+        "uid": "1000",
+        "package_name": "com.android.settings",
+        "service": ""
+    },
+    {
+        "time_elapsed": "+1m45s881ms",
+        "event": "start_job",
+        "uid": "1000",
+        "package_name": "android",
+        "service": "android/com.android.server.notification.NotificationHistoryJobService"
+    },
+    {
+        "time_elapsed": "+1m59s231ms",
+        "event": "end_job",
+        "uid": "1000",
+        "package_name": "android",
+        "service": "android/com.android.server.notification.NotificationHistoryJobService"
+    },
+    {
+        "time_elapsed": "+2m10s655ms",
+        "event": "end_top",
+        "uid": "1000",
+        "package_name": "com.android.settings",
+        "service": ""
+    },
+    {
+        "time_elapsed": "+2m10s656ms",
+        "event": "start_top",
+        "uid": "u0a149",
+        "package_name": "com.google.android.sdksetup",
+        "service": ""
+    },
+    {
+        "time_elapsed": "+2m11s743ms",
+        "event": "start_job",
+        "uid": "u0a163",
+        "package_name": "com.google.android.providers.media.module",
+        "service": "com.google.android.providers.media.module/com.android.providers.media.MediaService"
+    },
+    {
+        "time_elapsed": "+2m13s692ms",
+        "event": "end_top",
+        "uid": "u0a149",
+        "package_name": "com.google.android.sdksetup",
+        "service": ""
+    },
+    {
+        "time_elapsed": "+2m13s692ms",
+        "event": "start_top",
+        "uid": "u0a153",
+        "package_name": "com.google.android.apps.nexuslauncher",
+        "service": ""
+    },
+    {
+        "time_elapsed": "+2m13s943ms",
+        "event": "start_job",
+        "uid": "u0a111",
+        "package_name": "com.google.android.apps.wellbeing",
+        "service": "com.google.android.apps.wellbeing/androidx.work.impl.background.systemjob.SystemJobService"
+    },
+    {
+        "time_elapsed": "+2m14s212ms",
+        "event": "start_job",
+        "uid": "u0a117",
+        "package_name": "com.google.android.as",
+        "service": "com.google.android.as/com.google.android.apps.miphone.aiai.echo.scheduler.EchoJobService"
+    },
+    {
+        "time_elapsed": "+2m14s597ms",
+        "event": "start_job",
+        "uid": "u0a117",
+        "package_name": "com.google.android.as",
+        "service": "com.google.android.as/com.google.android.apps.miphone.aiai.echo.notificationintelligence.scheduler.impl.NotificationJobService"
+    },
+    {
+        "time_elapsed": "+2m15s263ms",
+        "event": "start_job",
+        "uid": "u0a117",
+        "package_name": "com.google.android.as",
+        "service": "com.google.android.as/androidx.work.impl.background.systemjob.SystemJobService"
+    },
+    {
+        "time_elapsed": "+2m16s155ms",
+        "event": "end_job",
+        "uid": "u0a111",
+        "package_name": "com.google.android.apps.wellbeing",
+        "service": "com.google.android.apps.wellbeing/androidx.work.impl.background.systemjob.SystemJobService"
+    },
+    {
+        "time_elapsed": "+2m24s913ms",
+        "event": "start_job",
+        "uid": "u0a168",
+        "package_name": "com.google.android.permissioncontroller",
+        "service": "com.google.android.permissioncontroller/com.android.permissioncontroller.permission.service.PermissionEventCleanupJobService"
+    },
+    {
+        "time_elapsed": "+2m26s086ms",
+        "event": "start_job",
+        "uid": "u0a120",
+        "package_name": "com.google.android.googlequicksearchbox",
+        "service": "com.google.android.googlequicksearchbox/com.google.android.apps.gsa.tasks.BackgroundTasksJobService"
+    },
+    {
+        "time_elapsed": "+2m26s781ms",
+        "event": "end_job",
+        "uid": "u0a168",
+        "package_name": "com.google.android.permissioncontroller",
+        "service": "com.google.android.permissioncontroller/com.android.permissioncontroller.permission.service.PermissionEventCleanupJobService"
+    },
+    {
+        "time_elapsed": "+2m30s333ms",
+        "event": "start_job",
+        "uid": "u0a117",
+        "package_name": "com.google.android.as",
+        "service": "com.google.android.as/com.google.android.apps.miphone.aiai.common.superpacks.impl.PeriodicCleanupService"
+    },
+    {
+        "time_elapsed": "+2m39s832ms",
+        "event": "end_job",
+        "uid": "u0a117",
+        "package_name": "com.google.android.as",
+        "service": "com.google.android.as/com.google.android.apps.miphone.aiai.echo.scheduler.EchoJobService"
+    },
+    {
+        "time_elapsed": "+2m42s282ms",
+        "event": "end_job",
+        "uid": "u0a117",
+        "package_name": "com.google.android.as",
+        "service": "com.google.android.as/com.google.android.apps.miphone.aiai.echo.notificationintelligence.scheduler.impl.NotificationJobService"
+    },
+    {
+        "time_elapsed": "+2m44s347ms",
+        "event": "end_job",
+        "uid": "u0a117",
+        "package_name": "com.google.android.as",
+        "service": "com.google.android.as/androidx.work.impl.background.systemjob.SystemJobService"
+    },
+    {
+        "time_elapsed": "+2m45s360ms",
+        "event": "start_job",
+        "uid": "u0a117",
+        "package_name": "com.google.android.as",
+        "service": "com.google.android.as/com.google.android.apps.miphone.aiai.common.superpacks.impl.AiAiPersistentDownloadJobService"
+    },
+    {
+        "time_elapsed": "+2m46s636ms",
+        "event": "end_job",
+        "uid": "u0a120",
+        "package_name": "com.google.android.googlequicksearchbox",
+        "service": "com.google.android.googlequicksearchbox/com.google.android.apps.gsa.tasks.BackgroundTasksJobService"
+    },
+    {
+        "time_elapsed": "+2m47s690ms",
+        "event": "start_job",
+        "uid": "u0a120",
+        "package_name": "com.google.android.googlequicksearchbox",
+        "service": "com.google.android.googlequicksearchbox/com.google.android.apps.gsa.tasks.BackgroundTasksJobService"
+    },
+    {
+        "time_elapsed": "+2m47s698ms",
+        "event": "end_job",
+        "uid": "u0a120",
+        "package_name": "com.google.android.googlequicksearchbox",
+        "service": "com.google.android.googlequicksearchbox/com.google.android.apps.gsa.tasks.BackgroundTasksJobService"
+    },
+    {
+        "time_elapsed": "+2m48s556ms",
+        "event": "start_job",
+        "uid": "u0a116",
+        "package_name": "com.google.android.setupwizard",
+        "service": "com.google.android.setupwizard/.logging.ClearcutLogsUploaderService"
+    },
+    {
+        "time_elapsed": "+2m48s965ms",
+        "event": "start_job",
+        "uid": "u0a135",
+        "package_name": "com.google.android.inputmethod.latin",
+        "service": "com.google.android.inputmethod.latin/com.google.android.apps.inputmethod.libs.dataservice.superpacks.SuperpacksBackgroundJobService"
+    },
+    {
+        "time_elapsed": "+2m52s622ms",
+        "event": "start_job",
+        "uid": "u0a117",
+        "package_name": "com.google.android.as",
+        "service": "com.google.android.as/androidx.work.impl.background.systemjob.SystemJobService"
+    },
+    {
+        "time_elapsed": "+2m53s489ms",
+        "event": "end_job",
+        "uid": "u0a117",
+        "package_name": "com.google.android.as",
+        "service": "com.google.android.as/com.google.android.apps.miphone.aiai.common.superpacks.impl.AiAiPersistentDownloadJobService"
+    },
+    {
+        "time_elapsed": "+2m54s035ms",
+        "event": "end_job",
+        "uid": "u0a117",
+        "package_name": "com.google.android.as",
+        "service": "com.google.android.as/com.google.android.apps.miphone.aiai.common.superpacks.impl.PeriodicCleanupService"
+    },
+    {
+        "time_elapsed": "+2m55s815ms",
+        "event": "start_job",
+        "uid": "u0a123",
+        "package_name": "com.google.android.contacts",
+        "service": "com.google.android.contacts/com.google.android.apps.contacts.shortcut.ShortcutJobService"
+    },
+    {
+        "time_elapsed": "+2m56s745ms",
+        "event": "start_job",
+        "uid": "u0a144",
+        "package_name": "com.google.android.gm",
+        "service": "com.google.android.gm/com.google.android.libraries.internal.growth.growthkit.internal.jobs.impl.GrowthKitJobService"
+    },
+    {
+        "time_elapsed": "+2m56s751ms",
+        "event": "end_job",
+        "uid": "u0a116",
+        "package_name": "com.google.android.setupwizard",
+        "service": "com.google.android.setupwizard/.logging.ClearcutLogsUploaderService"
+    },
+    {
+        "time_elapsed": "+2m57s781ms",
+        "event": "start_job",
+        "uid": "u0a111",
+        "package_name": "com.google.android.apps.wellbeing",
+        "service": "com.google.android.apps.wellbeing/.powerstate.impl.PowerStateJobService"
+    },
+    {
+        "time_elapsed": "+2m58s580ms",
+        "event": "end_job",
+        "uid": "u0a117",
+        "package_name": "com.google.android.as",
+        "service": "com.google.android.as/androidx.work.impl.background.systemjob.SystemJobService"
+    },
+    {
+        "time_elapsed": "+3m01s999ms",
+        "event": "end_job",
+        "uid": "u0a123",
+        "package_name": "com.google.android.contacts",
+        "service": "com.google.android.contacts/com.google.android.apps.contacts.shortcut.ShortcutJobService"
+    },
+    {
+        "time_elapsed": "+3m02s548ms",
+        "event": "end_job",
+        "uid": "u0a144",
+        "package_name": "com.google.android.gm",
+        "service": "com.google.android.gm/com.google.android.libraries.internal.growth.growthkit.internal.jobs.impl.GrowthKitJobService"
+    },
+    {
+        "time_elapsed": "+3m04s579ms",
+        "event": "start_job",
+        "uid": "u0a112",
+        "package_name": "com.google.android.dialer",
+        "service": "com.google.android.dialer/androidx.work.impl.background.systemjob.SystemJobService"
+    },
+    {
+        "time_elapsed": "+3m05s828ms",
+        "event": "end_job",
+        "uid": "u0a111",
+        "package_name": "com.google.android.apps.wellbeing",
+        "service": "com.google.android.apps.wellbeing/.powerstate.impl.PowerStateJobService"
+    },
+    {
+        "time_elapsed": "+3m08s850ms",
+        "event": "end_job",
+        "uid": "u0a112",
+        "package_name": "com.google.android.dialer",
+        "service": "com.google.android.dialer/androidx.work.impl.background.systemjob.SystemJobService"
+    },
+    {
+        "time_elapsed": "+3m09s226ms",
+        "event": "end_top",
+        "uid": "u0a153",
+        "package_name": "com.google.android.apps.nexuslauncher",
+        "service": ""
+    },
+    {
+        "time_elapsed": "+3m09s871ms",
+        "event": "start_top",
+        "uid": "u0a70",
+        "package_name": "com.android.backupconfirm",
+        "service": ""
+    },
+    {
+        "time_elapsed": "+3m11s591ms",
+        "event": "start_job",
+        "uid": "u0a120",
+        "package_name": "com.google.android.googlequicksearchbox",
+        "service": "com.google.android.googlequicksearchbox/com.google.android.apps.gsa.tasks.BackgroundTasksJobService"
+    },
+    {
+        "time_elapsed": "+3m12s637ms",
+        "event": "end_job",
+        "uid": "u0a135",
+        "package_name": "com.google.android.inputmethod.latin",
+        "service": "com.google.android.inputmethod.latin/com.google.android.apps.inputmethod.libs.dataservice.superpacks.SuperpacksBackgroundJobService"
+    },
+    {
+        "time_elapsed": "+3m17s172ms",
+        "event": "end_job",
+        "uid": "u0a120",
+        "package_name": "com.google.android.googlequicksearchbox",
+        "service": "com.google.android.googlequicksearchbox/com.google.android.apps.gsa.tasks.BackgroundTasksJobService"
+    },
+    {
+        "time_elapsed": "+3m18s236ms",
+        "event": "start_job",
+        "uid": "u0a117",
+        "package_name": "com.google.android.as",
+        "service": "com.google.android.as/androidx.work.impl.background.systemjob.SystemJobService"
+    },
+    {
+        "time_elapsed": "+3m20s083ms",
+        "event": "start_job",
+        "uid": "u0a117",
+        "package_name": "com.google.android.as",
+        "service": "com.google.android.as/com.google.android.apps.miphone.aiai.common.superpacks.impl.AiAiPersistentDownloadJobService"
+    },
+    {
+        "time_elapsed": "+3m21s985ms",
+        "event": "end_job",
+        "uid": "u0a117",
+        "package_name": "com.google.android.as",
+        "service": "com.google.android.as/androidx.work.impl.background.systemjob.SystemJobService"
+    },
+    {
+        "time_elapsed": "+3m23s513ms",
+        "event": "start_job",
+        "uid": "u0a117",
+        "package_name": "com.google.android.as",
+        "service": "com.google.android.as/com.google.android.apps.miphone.aiai.common.superpacks.impl.PeriodicCleanupService"
+    },
+    {
+        "time_elapsed": "+3m24s874ms",
+        "event": "start_job",
+        "uid": "u0a121",
+        "package_name": "com.google.android.apps.youtube.music",
+        "service": "com.google.android.apps.youtube.music/androidx.work.impl.background.systemjob.SystemJobService"
+    },
+    {
+        "time_elapsed": "+3m25s942ms",
+        "event": "start_job",
+        "uid": "u0a120",
+        "package_name": "com.google.android.googlequicksearchbox",
+        "service": "com.google.android.googlequicksearchbox/com.google.android.apps.gsa.tasks.BackgroundTasksJobService"
+    },
+    {
+        "time_elapsed": "+3m26s216ms",
+        "event": "end_job",
+        "uid": "u0a121",
+        "package_name": "com.google.android.apps.youtube.music",
+        "service": "com.google.android.apps.youtube.music/androidx.work.impl.background.systemjob.SystemJobService"
+    },
+    {
+        "time_elapsed": "+3m26s587ms",
+        "event": "start_job",
+        "uid": "u0a117",
+        "package_name": "com.google.android.as",
+        "service": "com.google.android.as/androidx.work.impl.background.systemjob.SystemJobService"
+    },
+    {
+        "time_elapsed": "+3m27s545ms",
+        "event": "end_job",
+        "uid": "u0a117",
+        "package_name": "com.google.android.as",
+        "service": "com.google.android.as/androidx.work.impl.background.systemjob.SystemJobService"
+    },
+    {
+        "time_elapsed": "+3m28s816ms",
+        "event": "end_job",
+        "uid": "u0a120",
+        "package_name": "com.google.android.googlequicksearchbox",
+        "service": "com.google.android.googlequicksearchbox/com.google.android.apps.gsa.tasks.BackgroundTasksJobService"
+    },
+    {
+        "time_elapsed": "+3m29s605ms",
+        "event": "start_job",
+        "uid": "u0a120",
+        "package_name": "com.google.android.googlequicksearchbox",
+        "service": "com.google.android.googlequicksearchbox/com.google.android.apps.gsa.tasks.BackgroundTasksJobService"
+    },
+    {
+        "time_elapsed": "+3m29s644ms",
+        "event": "end_job",
+        "uid": "u0a117",
+        "package_name": "com.google.android.as",
+        "service": "com.google.android.as/com.google.android.apps.miphone.aiai.common.superpacks.impl.PeriodicCleanupService"
+    },
+    {
+        "time_elapsed": "+3m30s108ms",
+        "event": "start_job",
+        "uid": "u0a135",
+        "package_name": "com.google.android.inputmethod.latin",
+        "service": "com.google.android.inputmethod.latin/com.google.android.apps.inputmethod.libs.dataservice.superpacks.SuperpacksBackgroundJobService"
+    },
+    {
+        "time_elapsed": "+3m30s113ms",
+        "event": "end_job",
+        "uid": "u0a117",
+        "package_name": "com.google.android.as",
+        "service": "com.google.android.as/com.google.android.apps.miphone.aiai.common.superpacks.impl.AiAiPersistentDownloadJobService"
+    },
+    {
+        "time_elapsed": "+3m30s428ms",
+        "event": "start_job",
+        "uid": "u0a117",
+        "package_name": "com.google.android.as",
+        "service": "com.google.android.as/com.google.android.apps.miphone.aiai.common.superpacks.impl.AiAiPersistentDownloadJobService"
+    },
+    {
+        "time_elapsed": "+3m32s430ms",
+        "event": "end_job",
+        "uid": "u0a120",
+        "package_name": "com.google.android.googlequicksearchbox",
+        "service": "com.google.android.googlequicksearchbox/com.google.android.apps.gsa.tasks.BackgroundTasksJobService"
+    },
+    {
+        "time_elapsed": "+3m33s633ms",
+        "event": "start_job",
+        "uid": "u0a120",
+        "package_name": "com.google.android.googlequicksearchbox",
+        "service": "com.google.android.googlequicksearchbox/com.google.android.apps.gsa.tasks.BackgroundTasksJobService"
+    },
+    {
+        "time_elapsed": "+3m36s053ms",
+        "event": "end_job",
+        "uid": "u0a135",
+        "package_name": "com.google.android.inputmethod.latin",
+        "service": "com.google.android.inputmethod.latin/com.google.android.apps.inputmethod.libs.dataservice.superpacks.SuperpacksBackgroundJobService"
+    },
+    {
+        "time_elapsed": "+3m38s306ms",
+        "event": "start_job",
+        "uid": "u0a144",
+        "package_name": "com.google.android.gm",
+        "service": "com.google.android.gm/com.google.android.libraries.internal.growth.growthkit.internal.jobs.impl.GrowthKitJobService"
+    },
+    {
+        "time_elapsed": "+3m38s429ms",
+        "event": "end_job",
+        "uid": "u0a120",
+        "package_name": "com.google.android.googlequicksearchbox",
+        "service": "com.google.android.googlequicksearchbox/com.google.android.apps.gsa.tasks.BackgroundTasksJobService"
+    },
+    {
+        "time_elapsed": "+3m38s778ms",
+        "event": "start_job",
+        "uid": "u0a120",
+        "package_name": "com.google.android.googlequicksearchbox",
+        "service": "com.google.android.googlequicksearchbox/com.google.android.apps.gsa.tasks.BackgroundTasksJobService"
+    },
+    {
+        "time_elapsed": "+3m39s109ms",
+        "event": "end_job",
+        "uid": "u0a120",
+        "package_name": "com.google.android.googlequicksearchbox",
+        "service": "com.google.android.googlequicksearchbox/com.google.android.apps.gsa.tasks.BackgroundTasksJobService"
+    },
+    {
+        "time_elapsed": "+3m39s376ms",
+        "event": "start_job",
+        "uid": "u0a120",
+        "package_name": "com.google.android.googlequicksearchbox",
+        "service": "com.google.android.googlequicksearchbox/com.google.android.apps.gsa.tasks.BackgroundTasksJobService"
+    },
+    {
+        "time_elapsed": "+3m40s157ms",
+        "event": "end_job",
+        "uid": "u0a144",
+        "package_name": "com.google.android.gm",
+        "service": "com.google.android.gm/com.google.android.libraries.internal.growth.growthkit.internal.jobs.impl.GrowthKitJobService"
+    },
+    {
+        "time_elapsed": "+3m40s538ms",
+        "event": "start_job",
+        "uid": "u0a138",
+        "package_name": "com.google.android.youtube",
+        "service": "com.google.android.youtube/androidx.work.impl.background.systemjob.SystemJobService"
+    },
+    {
+        "time_elapsed": "+3m40s540ms",
+        "event": "end_job",
+        "uid": "u0a120",
+        "package_name": "com.google.android.googlequicksearchbox",
+        "service": "com.google.android.googlequicksearchbox/com.google.android.apps.gsa.tasks.BackgroundTasksJobService"
+    },
+    {
+        "time_elapsed": "+3m40s961ms",
+        "event": "start_job",
+        "uid": "u0a120",
+        "package_name": "com.google.android.googlequicksearchbox",
+        "service": "com.google.android.googlequicksearchbox/com.google.android.apps.gsa.tasks.BackgroundTasksJobService"
+    },
+    {
+        "time_elapsed": "+3m41s635ms",
+        "event": "end_job",
+        "uid": "u0a120",
+        "package_name": "com.google.android.googlequicksearchbox",
+        "service": "com.google.android.googlequicksearchbox/com.google.android.apps.gsa.tasks.BackgroundTasksJobService"
+    },
+    {
+        "time_elapsed": "+3m42s136ms",
+        "event": "start_job",
+        "uid": "u0a135",
+        "package_name": "com.google.android.inputmethod.latin",
+        "service": "com.google.android.inputmethod.latin/com.google.android.apps.inputmethod.libs.dataservice.superpacks.SuperpacksBackgroundJobService"
+    },
+    {
+        "time_elapsed": "+3m42s607ms",
+        "event": "start_job",
+        "uid": "u0a120",
+        "package_name": "com.google.android.googlequicksearchbox",
+        "service": "com.google.android.googlequicksearchbox/com.google.android.apps.gsa.tasks.BackgroundTasksJobService"
+    },
+    {
+        "time_elapsed": "+3m43s614ms",
+        "event": "end_job",
+        "uid": "u0a120",
+        "package_name": "com.google.android.googlequicksearchbox",
+        "service": "com.google.android.googlequicksearchbox/com.google.android.apps.gsa.tasks.BackgroundTasksJobService"
+    },
+    {
+        "time_elapsed": "+3m43s743ms",
+        "event": "start_job",
+        "uid": "u0a120",
+        "package_name": "com.google.android.googlequicksearchbox",
+        "service": "com.google.android.googlequicksearchbox/com.google.android.apps.gsa.tasks.BackgroundTasksJobService"
+    },
+    {
+        "time_elapsed": "+3m43s889ms",
+        "event": "end_job",
+        "uid": "u0a120",
+        "package_name": "com.google.android.googlequicksearchbox",
+        "service": "com.google.android.googlequicksearchbox/com.google.android.apps.gsa.tasks.BackgroundTasksJobService"
+    },
+    {
+        "time_elapsed": "+3m44s778ms",
+        "event": "start_job",
+        "uid": "u0a120",
+        "package_name": "com.google.android.googlequicksearchbox",
+        "service": "com.google.android.googlequicksearchbox/com.google.android.apps.gsa.tasks.BackgroundTasksJobService"
+    },
+    {
+        "time_elapsed": "+3m44s793ms",
+        "event": "end_job",
+        "uid": "u0a138",
+        "package_name": "com.google.android.youtube",
+        "service": "com.google.android.youtube/androidx.work.impl.background.systemjob.SystemJobService"
+    },
+    {
+        "time_elapsed": "+3m45s238ms",
+        "event": "end_job",
+        "uid": "u0a117",
+        "package_name": "com.google.android.as",
+        "service": "com.google.android.as/com.google.android.apps.miphone.aiai.common.superpacks.impl.AiAiPersistentDownloadJobService"
+    },
+    {
+        "time_elapsed": "+3m45s964ms",
+        "event": "start_job",
+        "uid": "u0a120",
+        "package_name": "DownloadManager:com.android.providers.downloads",
+        "service": "DownloadManager:com.android.providers.downloads"
+    },
+    {
+        "time_elapsed": "+3m45s968ms",
+        "event": "end_job",
+        "uid": "u0a120",
+        "package_name": "com.google.android.googlequicksearchbox",
+        "service": "com.google.android.googlequicksearchbox/com.google.android.apps.gsa.tasks.BackgroundTasksJobService"
+    },
+    {
+        "time_elapsed": "+3m46s245ms",
+        "event": "start_job",
+        "uid": "u0a120",
+        "package_name": "com.google.android.googlequicksearchbox",
+        "service": "com.google.android.googlequicksearchbox/com.google.android.apps.gsa.tasks.BackgroundTasksJobService"
+    },
+    {
+        "time_elapsed": "+3m46s289ms",
+        "event": "end_job",
+        "uid": "u0a120",
+        "package_name": "com.google.android.googlequicksearchbox",
+        "service": "com.google.android.googlequicksearchbox/com.google.android.apps.gsa.tasks.BackgroundTasksJobService"
+    },
+    {
+        "time_elapsed": "+3m47s070ms",
+        "event": "start_job",
+        "uid": "u0a120",
+        "package_name": "com.google.android.googlequicksearchbox",
+        "service": "com.google.android.googlequicksearchbox/com.google.android.apps.gsa.tasks.BackgroundTasksJobService"
+    },
+    {
+        "time_elapsed": "+3m47s124ms",
+        "event": "end_job",
+        "uid": "u0a120",
+        "package_name": "com.google.android.googlequicksearchbox",
+        "service": "com.google.android.googlequicksearchbox/com.google.android.apps.gsa.tasks.BackgroundTasksJobService"
+    },
+    {
+        "time_elapsed": "+3m47s427ms",
+        "event": "start_job",
+        "uid": "u0a120",
+        "package_name": "com.google.android.googlequicksearchbox",
+        "service": "com.google.android.googlequicksearchbox/com.google.android.apps.gsa.tasks.BackgroundTasksJobService"
+    },
+    {
+        "time_elapsed": "+3m48s141ms",
+        "event": "end_job",
+        "uid": "u0a120",
+        "package_name": "com.google.android.googlequicksearchbox",
+        "service": "com.google.android.googlequicksearchbox/com.google.android.apps.gsa.tasks.BackgroundTasksJobService"
+    },
+    {
+        "time_elapsed": "+3m48s391ms",
+        "event": "start_job",
+        "uid": "u0a120",
+        "package_name": "com.google.android.googlequicksearchbox",
+        "service": "com.google.android.googlequicksearchbox/com.google.android.apps.gsa.tasks.BackgroundTasksJobService"
+    },
+    {
+        "time_elapsed": "+3m48s451ms",
+        "event": "end_job",
+        "uid": "u0a120",
+        "package_name": "com.google.android.googlequicksearchbox",
+        "service": "com.google.android.googlequicksearchbox/com.google.android.apps.gsa.tasks.BackgroundTasksJobService"
+    },
+    {
+        "time_elapsed": "+3m48s585ms",
+        "event": "start_job",
+        "uid": "u0a120",
+        "package_name": "com.google.android.googlequicksearchbox",
+        "service": "com.google.android.googlequicksearchbox/com.google.android.apps.gsa.tasks.BackgroundTasksJobService"
+    },
+    {
+        "time_elapsed": "+3m48s611ms",
+        "event": "end_job",
+        "uid": "u0a120",
+        "package_name": "com.google.android.googlequicksearchbox",
+        "service": "com.google.android.googlequicksearchbox/com.google.android.apps.gsa.tasks.BackgroundTasksJobService"
+    },
+    {
+        "time_elapsed": "+3m48s897ms",
+        "event": "start_job",
+        "uid": "u0a120",
+        "package_name": "com.google.android.googlequicksearchbox",
+        "service": "com.google.android.googlequicksearchbox/com.google.android.apps.gsa.tasks.BackgroundTasksJobService"
+    },
+    {
+        "time_elapsed": "+3m48s979ms",
+        "event": "end_job",
+        "uid": "u0a120",
+        "package_name": "com.google.android.googlequicksearchbox",
+        "service": "com.google.android.googlequicksearchbox/com.google.android.apps.gsa.tasks.BackgroundTasksJobService"
+    },
+    {
+        "time_elapsed": "+3m49s277ms",
+        "event": "start_job",
+        "uid": "u0a120",
+        "package_name": "com.google.android.googlequicksearchbox",
+        "service": "com.google.android.googlequicksearchbox/com.google.android.apps.gsa.tasks.BackgroundTasksJobService"
+    },
+    {
+        "time_elapsed": "+3m49s355ms",
+        "event": "end_job",
+        "uid": "u0a135",
+        "package_name": "com.google.android.inputmethod.latin",
+        "service": "com.google.android.inputmethod.latin/com.google.android.apps.inputmethod.libs.dataservice.superpacks.SuperpacksBackgroundJobService"
+    },
+    {
+        "time_elapsed": "+3m49s745ms",
+        "event": "end_job",
+        "uid": "u0a120",
+        "package_name": "com.google.android.googlequicksearchbox",
+        "service": "com.google.android.googlequicksearchbox/com.google.android.apps.gsa.tasks.BackgroundTasksJobService"
+    },
+    {
+        "time_elapsed": "+3m50s110ms",
+        "event": "start_job",
+        "uid": "u0a120",
+        "package_name": "com.google.android.googlequicksearchbox",
+        "service": "com.google.android.googlequicksearchbox/com.google.android.apps.gsa.tasks.BackgroundTasksJobService"
+    },
+    {
+        "time_elapsed": "+3m50s611ms",
+        "event": "end_job",
+        "uid": "u0a120",
+        "package_name": "com.google.android.googlequicksearchbox",
+        "service": "com.google.android.googlequicksearchbox/com.google.android.apps.gsa.tasks.BackgroundTasksJobService"
+    },
+    {
+        "time_elapsed": "+3m51s493ms",
+        "event": "start_job",
+        "uid": "u0a120",
+        "package_name": "com.google.android.googlequicksearchbox",
+        "service": "com.google.android.googlequicksearchbox/com.google.android.apps.gsa.tasks.BackgroundTasksJobService"
+    },
+    {
+        "time_elapsed": "+3m52s594ms",
+        "event": "end_job",
+        "uid": "u0a120",
+        "package_name": "com.google.android.googlequicksearchbox",
+        "service": "com.google.android.googlequicksearchbox/com.google.android.apps.gsa.tasks.BackgroundTasksJobService"
+    },
+    {
+        "time_elapsed": "+3m53s278ms",
+        "event": "start_job",
+        "uid": "u0a120",
+        "package_name": "com.google.android.googlequicksearchbox",
+        "service": "com.google.android.googlequicksearchbox/com.google.android.apps.gsa.tasks.BackgroundTasksJobService"
+    },
+    {
+        "time_elapsed": "+3m53s330ms",
+        "event": "end_job",
+        "uid": "u0a120",
+        "package_name": "com.google.android.googlequicksearchbox",
+        "service": "com.google.android.googlequicksearchbox/com.google.android.apps.gsa.tasks.BackgroundTasksJobService"
+    },
+    {
+        "time_elapsed": "+3m54s083ms",
+        "event": "start_job",
+        "uid": "u0a120",
+        "package_name": "com.google.android.googlequicksearchbox",
+        "service": "com.google.android.googlequicksearchbox/com.google.android.apps.gsa.tasks.BackgroundTasksJobService"
+    },
+    {
+        "time_elapsed": "+3m54s433ms",
+        "event": "end_job",
+        "uid": "u0a120",
+        "package_name": "com.google.android.googlequicksearchbox",
+        "service": "com.google.android.googlequicksearchbox/com.google.android.apps.gsa.tasks.BackgroundTasksJobService"
+    },
+    {
+        "time_elapsed": "+3m55s035ms",
+        "event": "start_job",
+        "uid": "u0a120",
+        "package_name": "com.google.android.googlequicksearchbox",
+        "service": "com.google.android.googlequicksearchbox/com.google.android.apps.gsa.tasks.BackgroundTasksJobService"
+    },
+    {
+        "time_elapsed": "+3m56s495ms",
+        "event": "end_job",
+        "uid": "u0a120",
+        "package_name": "com.google.android.googlequicksearchbox",
+        "service": "com.google.android.googlequicksearchbox/com.google.android.apps.gsa.tasks.BackgroundTasksJobService"
+    },
+    {
+        "time_elapsed": "+4m14s080ms",
+        "event": "start_job",
+        "uid": "u0a117",
+        "package_name": "com.google.android.as",
+        "service": "com.google.android.as/com.google.android.apps.miphone.aiai.common.superpacks.impl.AiAiPersistentDownloadJobService"
+    },
+    {
+        "time_elapsed": "+4m22s602ms",
+        "event": "end_top",
+        "uid": "u0a70",
+        "package_name": "com.android.backupconfirm",
+        "service": ""
+    },
+    {
+        "time_elapsed": "+4m22s602ms",
+        "event": "start_top",
+        "uid": "u0a153",
+        "package_name": "com.google.android.apps.nexuslauncher",
+        "service": ""
+    },
+    {
+        "time_elapsed": "+4m34s771ms",
+        "event": "start_job",
+        "uid": "u0a138",
+        "package_name": "com.google.android.youtube",
+        "service": "com.google.android.youtube/androidx.work.impl.background.systemjob.SystemJobService"
+    },
+    {
+        "time_elapsed": "+4m35s001ms",
+        "event": "end_job",
+        "uid": "u0a138",
+        "package_name": "com.google.android.youtube",
+        "service": "com.google.android.youtube/androidx.work.impl.background.systemjob.SystemJobService"
+    },
+    {
+        "time_elapsed": "+4m36s184ms",
+        "event": "start_job",
+        "uid": "u0a113",
+        "package_name": "com.google.android.apps.messaging",
+        "service": "com.google.android.apps.messaging/com.google.android.libraries.internal.growth.growthkit.internal.jobs.impl.GrowthKitJobService"
+    },
+    {
+        "time_elapsed": "+4m39s055ms",
+        "event": "end_job",
+        "uid": "u0a113",
+        "package_name": "com.google.android.apps.messaging",
+        "service": "com.google.android.apps.messaging/com.google.android.libraries.internal.growth.growthkit.internal.jobs.impl.GrowthKitJobService"
+    },
+    {
+        "time_elapsed": "+4m47s957ms",
+        "event": "start_job",
+        "uid": "u0a113",
+        "package_name": "com.google.android.apps.messaging",
+        "service": "com.google.android.apps.messaging/androidx.work.impl.background.systemjob.SystemJobService"
+    },
+    {
+        "time_elapsed": "+4m53s774ms",
+        "event": "start_job",
+        "uid": "u0a120",
+        "package_name": "com.google.android.googlequicksearchbox",
+        "service": "com.google.android.googlequicksearchbox/com.google.android.apps.gsa.tasks.BackgroundTasksJobService"
+    },
+    {
+        "time_elapsed": "+4m53s824ms",
+        "event": "end_job",
+        "uid": "u0a113",
+        "package_name": "com.google.android.apps.messaging",
+        "service": "com.google.android.apps.messaging/androidx.work.impl.background.systemjob.SystemJobService"
+    },
+    {
+        "time_elapsed": "+5m02s340ms",
+        "event": "end_job",
+        "uid": "u0a120",
+        "package_name": "DownloadManager:com.android.providers.downloads",
+        "service": "DownloadManager:com.android.providers.downloads"
+    },
+    {
+        "time_elapsed": "+5m05s589ms",
+        "event": "start_job",
+        "uid": "u0a114",
+        "package_name": "com.google.android.ims",
+        "service": "com.google.android.ims/.metrics.PeriodicMetricsJobService"
+    },
+    {
+        "time_elapsed": "+5m06s155ms",
+        "event": "start_job",
+        "uid": "u0a113",
+        "package_name": "com.google.android.apps.messaging",
+        "service": "com.google.android.apps.messaging/.shared.datamodel.action.execution.ActionJobService"
+    },
+    {
+        "time_elapsed": "+5m08s229ms",
+        "event": "end_job",
+        "uid": "u0a113",
+        "package_name": "com.google.android.apps.messaging",
+        "service": "com.google.android.apps.messaging/.shared.datamodel.action.execution.ActionJobService"
+    },
+    {
+        "time_elapsed": "+5m11s085ms",
+        "event": "end_job",
+        "uid": "u0a114",
+        "package_name": "com.google.android.ims",
+        "service": "com.google.android.ims/.metrics.PeriodicMetricsJobService"
+    },
+    {
+        "time_elapsed": "+5m18s812ms",
+        "event": "end_job",
+        "uid": "u0a120",
+        "package_name": "com.google.android.googlequicksearchbox",
+        "service": "com.google.android.googlequicksearchbox/com.google.android.apps.gsa.tasks.BackgroundTasksJobService"
+    },
+    {
+        "time_elapsed": "+5m44s311ms",
+        "event": "start_job",
+        "uid": "u0a120",
+        "package_name": "DownloadManager:com.android.providers.downloads",
+        "service": "DownloadManager:com.android.providers.downloads"
+    },
+    {
+        "time_elapsed": "+5m46s036ms",
+        "event": "start_job",
+        "uid": "u0a123",
+        "package_name": "com.google.android.contacts",
+        "service": "com.google.android.contacts/com.google.android.apps.contacts.shortcut.ShortcutJobService"
+    },
+    {
+        "time_elapsed": "+5m47s998ms",
+        "event": "end_job",
+        "uid": "u0a123",
+        "package_name": "com.google.android.contacts",
+        "service": "com.google.android.contacts/com.google.android.apps.contacts.shortcut.ShortcutJobService"
+    },
+    {
+        "time_elapsed": "+5m48s398ms",
+        "event": "end_job",
+        "uid": "u0a120",
+        "package_name": "DownloadManager:com.android.providers.downloads",
+        "service": "DownloadManager:com.android.providers.downloads"
+    },
+    {
+        "time_elapsed": "+5m57s416ms",
+        "event": "start_job",
+        "uid": "u0a123",
+        "package_name": "com.google.android.contacts",
+        "service": "com.google.android.contacts/com.google.android.apps.contacts.shortcut.ShortcutJobService"
+    },
+    {
+        "time_elapsed": "+5m58s932ms",
+        "event": "end_job",
+        "uid": "u0a123",
+        "package_name": "com.google.android.contacts",
+        "service": "com.google.android.contacts/com.google.android.apps.contacts.shortcut.ShortcutJobService"
+    },
+    {
+        "time_elapsed": "+6m02s444ms",
+        "event": "start_job",
+        "uid": "u0a113",
+        "package_name": "com.google.android.apps.messaging",
+        "service": "com.google.android.apps.messaging/androidx.work.impl.background.systemjob.SystemJobService"
+    },
+    {
+        "time_elapsed": "+6m05s493ms",
+        "event": "start_job",
+        "uid": "u0a111",
+        "package_name": "com.google.android.apps.wellbeing",
+        "service": "com.google.android.apps.wellbeing/.powerstate.impl.PowerStateJobService"
+    },
+    {
+        "time_elapsed": "+6m05s583ms",
+        "event": "end_job",
+        "uid": "u0a113",
+        "package_name": "com.google.android.apps.messaging",
+        "service": "com.google.android.apps.messaging/androidx.work.impl.background.systemjob.SystemJobService"
+    },
+    {
+        "time_elapsed": "+6m07s165ms",
+        "event": "start_job",
+        "uid": "u0a113",
+        "package_name": "com.google.android.apps.messaging",
+        "service": "com.google.android.apps.messaging/androidx.work.impl.background.systemjob.SystemJobService"
+    },
+    {
+        "time_elapsed": "+6m07s909ms",
+        "event": "end_job",
+        "uid": "u0a113",
+        "package_name": "com.google.android.apps.messaging",
+        "service": "com.google.android.apps.messaging/androidx.work.impl.background.systemjob.SystemJobService"
+    },
+    {
+        "time_elapsed": "+6m11s868ms",
+        "event": "end_job",
+        "uid": "u0a111",
+        "package_name": "com.google.android.apps.wellbeing",
+        "service": "com.google.android.apps.wellbeing/.powerstate.impl.PowerStateJobService"
+    },
+    {
+        "time_elapsed": "+6m19s113ms",
+        "event": "start_job",
+        "uid": "u0a113",
+        "package_name": "com.google.android.apps.messaging",
+        "service": "com.google.android.apps.messaging/.shared.datamodel.action.execution.ActionJobService"
+    },
+    {
+        "time_elapsed": "+6m19s428ms",
+        "event": "end_job",
+        "uid": "u0a113",
+        "package_name": "com.google.android.apps.messaging",
+        "service": "com.google.android.apps.messaging/.shared.datamodel.action.execution.ActionJobService"
+    },
+    {
+        "time_elapsed": "+6m21s549ms",
+        "event": "start_job",
+        "uid": "u0a144",
+        "package_name": "com.google.android.gm",
+        "service": "com.google.android.gm/.job.ProviderCreatedJob$ProviderCreatedJobService"
+    },
+    {
+        "time_elapsed": "+6m21s767ms",
+        "event": "end_job",
+        "uid": "u0a144",
+        "package_name": "com.google.android.gm",
+        "service": "com.google.android.gm/.job.ProviderCreatedJob$ProviderCreatedJobService"
+    },
+    {
+        "time_elapsed": "+6m23s349ms",
+        "event": "start_job",
+        "uid": "u0a144",
+        "package_name": "com.google.android.gm",
+        "service": "com.google.android.gm/com.android.mail.widget.NotifyDatasetChangedJob$NotifyDatasetChangedJobService"
+    },
+    {
+        "time_elapsed": "+6m23s543ms",
+        "event": "end_job",
+        "uid": "u0a144",
+        "package_name": "com.google.android.gm",
+        "service": "com.google.android.gm/com.android.mail.widget.NotifyDatasetChangedJob$NotifyDatasetChangedJobService"
+    },
+    {
+        "time_elapsed": "+6m23s627ms",
+        "event": "start_job",
+        "uid": "u0a144",
+        "package_name": "com.google.android.gm",
+        "service": "com.google.android.gm/com.android.mail.widget.NotifyDatasetChangedJob$NotifyDatasetChangedJobService"
+    },
+    {
+        "time_elapsed": "+6m23s666ms",
+        "event": "end_job",
+        "uid": "u0a144",
+        "package_name": "com.google.android.gm",
+        "service": "com.google.android.gm/com.android.mail.widget.NotifyDatasetChangedJob$NotifyDatasetChangedJobService"
+    },
+    {
+        "time_elapsed": "+6m24s370ms",
+        "event": "start_job",
+        "uid": "u0a144",
+        "package_name": "com.google.android.gm",
+        "service": "com.google.android.gm/.job.ProviderCreatedJob$ProviderCreatedJobService"
+    },
+    {
+        "time_elapsed": "+6m24s425ms",
+        "event": "end_job",
+        "uid": "u0a144",
+        "package_name": "com.google.android.gm",
+        "service": "com.google.android.gm/.job.ProviderCreatedJob$ProviderCreatedJobService"
+    },
+    {
+        "time_elapsed": "+6m24s681ms",
+        "event": "start_job",
+        "uid": "u0a144",
+        "package_name": "com.google.android.gm",
+        "service": "com.google.android.gm/com.android.mail.widget.NotifyDatasetChangedJob$NotifyDatasetChangedJobService"
+    },
+    {
+        "time_elapsed": "+6m24s794ms",
+        "event": "end_job",
+        "uid": "u0a144",
+        "package_name": "com.google.android.gm",
+        "service": "com.google.android.gm/com.android.mail.widget.NotifyDatasetChangedJob$NotifyDatasetChangedJobService"
+    },
+    {
+        "time_elapsed": "+6m50s926ms",
+        "event": "start_job",
+        "uid": "u0a144",
+        "package_name": "com.google.android.gm",
+        "service": "com.google.android.gm/.job.ProviderCreatedJob$ProviderCreatedJobService"
+    },
+    {
+        "time_elapsed": "+6m51s133ms",
+        "event": "end_job",
+        "uid": "u0a144",
+        "package_name": "com.google.android.gm",
+        "service": "com.google.android.gm/.job.ProviderCreatedJob$ProviderCreatedJobService"
+    },
+    {
+        "time_elapsed": "+6m51s276ms",
+        "event": "start_job",
+        "uid": "u0a144",
+        "package_name": "com.google.android.gm",
+        "service": "com.google.android.gm/com.android.mail.widget.NotifyDatasetChangedJob$NotifyDatasetChangedJobService"
+    },
+    {
+        "time_elapsed": "+6m51s325ms",
+        "event": "end_job",
+        "uid": "u0a144",
+        "package_name": "com.google.android.gm",
+        "service": "com.google.android.gm/com.android.mail.widget.NotifyDatasetChangedJob$NotifyDatasetChangedJobService"
+    },
+    {
+        "time_elapsed": "+6m51s429ms",
+        "event": "start_job",
+        "uid": "u0a144",
+        "package_name": "com.google.android.gm",
+        "service": "com.google.android.gm/com.android.mail.widget.NotifyDatasetChangedJob$NotifyDatasetChangedJobService"
+    },
+    {
+        "time_elapsed": "+6m51s547ms",
+        "event": "end_job",
+        "uid": "u0a144",
+        "package_name": "com.google.android.gm",
+        "service": "com.google.android.gm/com.android.mail.widget.NotifyDatasetChangedJob$NotifyDatasetChangedJobService"
+    },
+    {
+        "time_elapsed": "+6m56s746ms",
+        "event": "start_job",
+        "uid": "u0a113",
+        "package_name": "com.google.android.apps.messaging",
+        "service": "com.google.android.apps.messaging/androidx.work.impl.background.systemjob.SystemJobService"
+    },
+    {
+        "time_elapsed": "+6m57s664ms",
+        "event": "end_job",
+        "uid": "u0a113",
+        "package_name": "com.google.android.apps.messaging",
+        "service": "com.google.android.apps.messaging/androidx.work.impl.background.systemjob.SystemJobService"
+    },
+    {
+        "time_elapsed": "+6m58s504ms",
+        "event": "start_job",
+        "uid": "u0a120",
+        "package_name": "com.google.android.googlequicksearchbox",
+        "service": "com.google.android.googlequicksearchbox/com.google.android.apps.gsa.tasks.BackgroundTasksJobService"
+    },
+    {
+        "time_elapsed": "+6m59s153ms",
+        "event": "end_job",
+        "uid": "u0a120",
+        "package_name": "com.google.android.googlequicksearchbox",
+        "service": "com.google.android.googlequicksearchbox/com.google.android.apps.gsa.tasks.BackgroundTasksJobService"
+    },
+    {
+        "time_elapsed": "+7m01s481ms",
+        "event": "end_job",
+        "uid": "u0a163",
+        "package_name": "com.google.android.providers.media.module",
+        "service": "com.google.android.providers.media.module/com.android.providers.media.MediaService"
+    },
+    {
+        "time_elapsed": "+7m07s751ms",
+        "event": "start_job",
+        "uid": "u0a120",
+        "package_name": "com.google.android.googlequicksearchbox",
+        "service": "com.google.android.googlequicksearchbox/com.google.android.apps.gsa.tasks.BackgroundTasksJobService"
+    },
+    {
+        "time_elapsed": "+7m08s944ms",
+        "event": "start_job",
+        "uid": "u0a144",
+        "package_name": "com.google.android.gm",
+        "service": "com.google.android.gm/com.android.mail.widget.NotifyDatasetChangedJob$NotifyDatasetChangedJobService"
+    },
+    {
+        "time_elapsed": "+7m09s002ms",
+        "event": "end_job",
+        "uid": "u0a144",
+        "package_name": "com.google.android.gm",
+        "service": "com.google.android.gm/com.android.mail.widget.NotifyDatasetChangedJob$NotifyDatasetChangedJobService"
+    },
+    {
+        "time_elapsed": "+7m09s931ms",
+        "event": "start_job",
+        "uid": "u0a144",
+        "package_name": "com.google.android.gm",
+        "service": "com.google.android.gm/com.android.mail.widget.NotifyDatasetChangedJob$NotifyDatasetChangedJobService"
+    },
+    {
+        "time_elapsed": "+7m10s006ms",
+        "event": "end_job",
+        "uid": "u0a144",
+        "package_name": "com.google.android.gm",
+        "service": "com.google.android.gm/com.android.mail.widget.NotifyDatasetChangedJob$NotifyDatasetChangedJobService"
+    },
+    {
+        "time_elapsed": "+7m10s190ms",
+        "event": "start_job",
+        "uid": "u0a144",
+        "package_name": "com.google.android.gm",
+        "service": "com.google.android.gm/com.android.mail.widget.NotifyDatasetChangedJob$NotifyDatasetChangedJobService"
+    },
+    {
+        "time_elapsed": "+7m10s217ms",
+        "event": "end_job",
+        "uid": "u0a144",
+        "package_name": "com.google.android.gm",
+        "service": "com.google.android.gm/com.android.mail.widget.NotifyDatasetChangedJob$NotifyDatasetChangedJobService"
+    },
+    {
+        "time_elapsed": "+7m14s227ms",
+        "event": "start_job",
+        "uid": "u0a144",
+        "package_name": "com.google.android.gm",
+        "service": "com.google.android.gm/com.android.mail.widget.NotifyDatasetChangedJob$NotifyDatasetChangedJobService"
+    },
+    {
+        "time_elapsed": "+7m14s390ms",
+        "event": "end_job",
+        "uid": "u0a144",
+        "package_name": "com.google.android.gm",
+        "service": "com.google.android.gm/com.android.mail.widget.NotifyDatasetChangedJob$NotifyDatasetChangedJobService"
+    },
+    {
+        "time_elapsed": "+7m14s921ms",
+        "event": "end_job",
+        "uid": "u0a120",
+        "package_name": "com.google.android.googlequicksearchbox",
+        "service": "com.google.android.googlequicksearchbox/com.google.android.apps.gsa.tasks.BackgroundTasksJobService"
+    },
+    {
+        "time_elapsed": "+7m17s397ms",
+        "event": "end_job",
+        "uid": "u0a117",
+        "package_name": "com.google.android.as",
+        "service": "com.google.android.as/com.google.android.apps.miphone.aiai.common.superpacks.impl.AiAiPersistentDownloadJobService"
+    },
+    {
+        "time_elapsed": "+7m17s725ms",
+        "event": "start_job",
+        "uid": "u0a117",
+        "package_name": "com.google.android.as",
+        "service": "com.google.android.as/com.google.android.apps.miphone.aiai.common.superpacks.impl.AiAiPersistentDownloadJobService"
+    },
+    {
+        "time_elapsed": "+7m18s162ms",
+        "event": "start_job",
+        "uid": "u0a120",
+        "package_name": "com.google.android.googlequicksearchbox",
+        "service": "com.google.android.googlequicksearchbox/com.google.android.apps.gsa.tasks.BackgroundTasksJobService"
+    },
+    {
+        "time_elapsed": "+7m18s373ms",
+        "event": "end_job",
+        "uid": "u0a120",
+        "package_name": "com.google.android.googlequicksearchbox",
+        "service": "com.google.android.googlequicksearchbox/com.google.android.apps.gsa.tasks.BackgroundTasksJobService"
+    },
+    {
+        "time_elapsed": "+7m20s200ms",
+        "event": "start_job",
+        "uid": "u0a120",
+        "package_name": "com.google.android.googlequicksearchbox",
+        "service": "com.google.android.googlequicksearchbox/com.google.android.apps.gsa.tasks.BackgroundTasksJobService"
+    },
+    {
+        "time_elapsed": "+7m20s320ms",
+        "event": "end_job",
+        "uid": "u0a120",
+        "package_name": "com.google.android.googlequicksearchbox",
+        "service": "com.google.android.googlequicksearchbox/com.google.android.apps.gsa.tasks.BackgroundTasksJobService"
+    },
+    {
+        "time_elapsed": "+7m23s018ms",
+        "event": "end_job",
+        "uid": "u0a117",
+        "package_name": "com.google.android.as",
+        "service": "com.google.android.as/com.google.android.apps.miphone.aiai.common.superpacks.impl.AiAiPersistentDownloadJobService"
+    },
+    {
+        "time_elapsed": "+7m26s149ms",
+        "event": "start_job",
+        "uid": "u0a117",
+        "package_name": "com.google.android.as",
+        "service": "com.google.android.as/com.google.android.apps.miphone.aiai.common.superpacks.impl.AiAiPersistentDownloadJobService"
+    },
+    {
+        "time_elapsed": "+7m32s624ms",
+        "event": "start_job",
+        "uid": "u0a130",
+        "package_name": "com.google.android.apps.docs",
+        "service": "com.google.android.apps.docs/com.google.android.libraries.internal.growth.growthkit.internal.jobs.impl.GrowthKitJobService"
+    },
+    {
+        "time_elapsed": "+7m33s523ms",
+        "event": "end_job",
+        "uid": "u0a130",
+        "package_name": "com.google.android.apps.docs",
+        "service": "com.google.android.apps.docs/com.google.android.libraries.internal.growth.growthkit.internal.jobs.impl.GrowthKitJobService"
+    },
+    {
+        "time_elapsed": "+7m36s737ms",
+        "event": "start_job",
+        "uid": "u0a111",
+        "package_name": "com.google.android.apps.wellbeing",
+        "service": "com.google.android.apps.wellbeing/androidx.work.impl.background.systemjob.SystemJobService"
+    },
+    {
+        "time_elapsed": "+7m36s849ms",
+        "event": "end_job",
+        "uid": "u0a111",
+        "package_name": "com.google.android.apps.wellbeing",
+        "service": "com.google.android.apps.wellbeing/androidx.work.impl.background.systemjob.SystemJobService"
+    },
+    {
+        "time_elapsed": "+7m37s192ms",
+        "event": "end_job",
+        "uid": "u0a117",
+        "package_name": "com.google.android.as",
+        "service": "com.google.android.as/com.google.android.apps.miphone.aiai.common.superpacks.impl.AiAiPersistentDownloadJobService"
+    },
+    {
+        "time_elapsed": "+7m41s029ms",
+        "event": "start_job",
+        "uid": "u0a106",
+        "package_name": "com.android.imsserviceentitlement",
+        "service": "com.android.imsserviceentitlement/.fcm.FcmRegistrationService"
+    },
+    {
+        "time_elapsed": "+7m41s366ms",
+        "event": "end_job",
+        "uid": "u0a106",
+        "package_name": "com.android.imsserviceentitlement",
+        "service": "com.android.imsserviceentitlement/.fcm.FcmRegistrationService"
+    },
+    {
+        "time_elapsed": "+7m43s680ms",
+        "event": "start_job",
+        "uid": "u0a150",
+        "package_name": "com.android.remoteprovisioner",
+        "service": "com.android.remoteprovisioner/androidx.work.impl.background.systemjob.SystemJobService"
+    },
+    {
+        "time_elapsed": "+7m43s993ms",
+        "event": "end_job",
+        "uid": "u0a150",
+        "package_name": "com.android.remoteprovisioner",
+        "service": "com.android.remoteprovisioner/androidx.work.impl.background.systemjob.SystemJobService"
+    },
+    {
+        "time_elapsed": "+7m44s669ms",
+        "event": "start_job",
+        "uid": "u0a130",
+        "package_name": "com.google.android.apps.docs",
+        "service": "com.google.android.apps.docs/com.google.android.libraries.internal.growth.growthkit.internal.jobs.impl.GrowthKitJobService"
+    },
+    {
+        "time_elapsed": "+7m44s971ms",
+        "event": "start_job",
+        "uid": "u0a130",
+        "package_name": "com.google.android.apps.docs",
+        "service": "com.google.android.apps.docs/com.google.android.libraries.notifications.entrypoints.scheduled.ScheduledTaskService"
+    },
+    {
+        "time_elapsed": "+7m44s974ms",
+        "event": "end_job",
+        "uid": "u0a130",
+        "package_name": "com.google.android.apps.docs",
+        "service": "com.google.android.apps.docs/com.google.android.libraries.internal.growth.growthkit.internal.jobs.impl.GrowthKitJobService"
+    },
+    {
+        "time_elapsed": "+7m45s349ms",
+        "event": "end_job",
+        "uid": "u0a130",
+        "package_name": "com.google.android.apps.docs",
+        "service": "com.google.android.apps.docs/com.google.android.libraries.notifications.entrypoints.scheduled.ScheduledTaskService"
+    },
+    {
+        "time_elapsed": "+7m48s344ms",
+        "event": "start_job",
+        "uid": "u0a83",
+        "package_name": "com.android.providers.calendar",
+        "service": "com.android.providers.calendar/.CalendarProviderJobService"
+    },
+    {
+        "time_elapsed": "+7m48s636ms",
+        "event": "start_job",
+        "uid": "u0a139",
+        "package_name": "com.google.android.apps.maps",
+        "service": "com.google.android.apps.maps/com.google.android.apps.gmm.cloudmessage.chime.common.GmmChimeTaskService"
+    },
+    {
+        "time_elapsed": "+7m49s007ms",
+        "event": "end_job",
+        "uid": "u0a83",
+        "package_name": "com.android.providers.calendar",
+        "service": "com.android.providers.calendar/.CalendarProviderJobService"
+    },
+    {
+        "time_elapsed": "+7m49s581ms",
+        "event": "end_job",
+        "uid": "u0a139",
+        "package_name": "com.google.android.apps.maps",
+        "service": "com.google.android.apps.maps/com.google.android.apps.gmm.cloudmessage.chime.common.GmmChimeTaskService"
+    },
+    {
+        "time_elapsed": "+7m50s303ms",
+        "event": "start_job",
+        "uid": "u0a113",
+        "package_name": "com.google.android.apps.messaging",
+        "service": "com.google.android.apps.messaging/com.google.android.libraries.internal.growth.growthkit.internal.jobs.impl.GrowthKitJobService"
+    },
+    {
+        "time_elapsed": "+7m50s687ms",
+        "event": "end_job",
+        "uid": "u0a113",
+        "package_name": "com.google.android.apps.messaging",
+        "service": "com.google.android.apps.messaging/com.google.android.libraries.internal.growth.growthkit.internal.jobs.impl.GrowthKitJobService"
+    },
+    {
+        "time_elapsed": "+7m51s566ms",
+        "event": "start_job",
+        "uid": "u0a113",
+        "package_name": "com.google.android.apps.messaging",
+        "service": "com.google.android.apps.messaging/androidx.work.impl.background.systemjob.SystemJobService"
+    },
+    {
+        "time_elapsed": "+7m51s753ms",
+        "event": "end_job",
+        "uid": "u0a113",
+        "package_name": "com.google.android.apps.messaging",
+        "service": "com.google.android.apps.messaging/androidx.work.impl.background.systemjob.SystemJobService"
+    },
+    {
+        "time_elapsed": "+7m54s531ms",
+        "event": "start_job",
+        "uid": "u0a113",
+        "package_name": "com.google.android.apps.messaging",
+        "service": "com.google.android.apps.messaging/androidx.work.impl.background.systemjob.SystemJobService"
+    },
+    {
+        "time_elapsed": "+7m56s006ms",
+        "event": "start_job",
+        "uid": "u0a141",
+        "package_name": "com.google.android.apps.photos",
+        "service": "com.google.android.apps.photos/androidx.work.impl.background.systemjob.SystemJobService"
+    },
+    {
+        "time_elapsed": "+7m56s022ms",
+        "event": "end_job",
+        "uid": "u0a113",
+        "package_name": "com.google.android.apps.messaging",
+        "service": "com.google.android.apps.messaging/androidx.work.impl.background.systemjob.SystemJobService"
+    },
+    {
+        "time_elapsed": "+7m57s146ms",
+        "event": "start_job",
+        "uid": "u0a141",
+        "package_name": "com.google.android.apps.photos",
+        "service": "com.google.android.apps.photos/com.google.android.libraries.social.async.BackgroundTaskJobService"
+    },
+    {
+        "time_elapsed": "+7m58s202ms",
+        "event": "end_job",
+        "uid": "u0a141",
+        "package_name": "com.google.android.apps.photos",
+        "service": "com.google.android.apps.photos/androidx.work.impl.background.systemjob.SystemJobService"
+    },
+    {
+        "time_elapsed": "+7m58s267ms",
+        "event": "end_job",
+        "uid": "u0a141",
+        "package_name": "com.google.android.apps.photos",
+        "service": "com.google.android.apps.photos/com.google.android.libraries.social.async.BackgroundTaskJobService"
+    },
+    {
+        "time_elapsed": "+7m59s909ms",
+        "event": "start_job",
+        "uid": "u0a141",
+        "package_name": "com.google.android.apps.photos",
+        "service": "com.google.android.apps.photos/com.google.android.libraries.notifications.entrypoints.scheduled.ScheduledTaskService"
+    },
+    {
+        "time_elapsed": "+8m00s766ms",
+        "event": "start_job",
+        "uid": "u0a113",
+        "package_name": "com.google.android.apps.messaging",
+        "service": "com.google.android.apps.messaging/.shared.datamodel.action.execution.ActionJobService"
+    },
+    {
+        "time_elapsed": "+8m00s881ms",
+        "event": "start_job",
+        "uid": "u0a141",
+        "package_name": "com.google.android.apps.photos",
+        "service": "com.google.android.apps.photos/.jobqueue.PhotosJobQueueJobsService"
+    },
+    {
+        "time_elapsed": "+8m01s193ms",
+        "event": "start_job",
+        "uid": "u0a141",
+        "package_name": "com.google.android.apps.photos",
+        "service": "com.google.android.apps.photos/.jobqueue.PhotosOfflineJobQueueJobsService"
+    },
+    {
+        "time_elapsed": "+8m01s385ms",
+        "event": "end_job",
+        "uid": "u0a141",
+        "package_name": "com.google.android.apps.photos",
+        "service": "com.google.android.apps.photos/.jobqueue.PhotosJobQueueJobsService"
+    },
+    {
+        "time_elapsed": "+8m01s498ms",
+        "event": "end_job",
+        "uid": "u0a141",
+        "package_name": "com.google.android.apps.photos",
+        "service": "com.google.android.apps.photos/.jobqueue.PhotosOfflineJobQueueJobsService"
+    },
+    {
+        "time_elapsed": "+8m01s664ms",
+        "event": "end_job",
+        "uid": "u0a113",
+        "package_name": "com.google.android.apps.messaging",
+        "service": "com.google.android.apps.messaging/.shared.datamodel.action.execution.ActionJobService"
+    },
+    {
+        "time_elapsed": "+8m01s869ms",
+        "event": "end_job",
+        "uid": "u0a141",
+        "package_name": "com.google.android.apps.photos",
+        "service": "com.google.android.apps.photos/com.google.android.libraries.notifications.entrypoints.scheduled.ScheduledTaskService"
+    },
+    {
+        "time_elapsed": "+8m02s056ms",
+        "event": "start_job",
+        "uid": "u0a141",
+        "package_name": "com.google.android.apps.photos",
+        "service": "com.google.android.apps.photos/.account.full.SyncAccountsForLoginService"
+    },
+    {
+        "time_elapsed": "+8m02s339ms",
+        "event": "end_job",
+        "uid": "u0a141",
+        "package_name": "com.google.android.apps.photos",
+        "service": "com.google.android.apps.photos/.account.full.SyncAccountsForLoginService"
+    },
+    {
+        "time_elapsed": "+8m02s580ms",
+        "event": "start_job",
+        "uid": "u0a123",
+        "package_name": "com.google.android.contacts",
+        "service": "com.google.android.contacts/com.google.android.apps.contacts.shortcut.ShortcutJobService"
+    },
+    {
+        "time_elapsed": "+8m02s759ms",
+        "event": "start_job",
+        "uid": "u0a111",
+        "package_name": "com.google.android.apps.wellbeing",
+        "service": "com.google.android.apps.wellbeing/androidx.work.impl.background.systemjob.SystemJobService"
+    },
+    {
+        "time_elapsed": "+8m03s198ms",
+        "event": "end_job",
+        "uid": "u0a111",
+        "package_name": "com.google.android.apps.wellbeing",
+        "service": "com.google.android.apps.wellbeing/androidx.work.impl.background.systemjob.SystemJobService"
+    },
+    {
+        "time_elapsed": "+8m03s347ms",
+        "event": "end_job",
+        "uid": "u0a123",
+        "package_name": "com.google.android.contacts",
+        "service": "com.google.android.contacts/com.google.android.apps.contacts.shortcut.ShortcutJobService"
+    },
+    {
+        "time_elapsed": "+8m05s171ms",
+        "event": "start_job",
+        "uid": "u0a112",
+        "package_name": "com.google.android.dialer",
+        "service": "com.google.android.dialer/androidx.work.impl.background.systemjob.SystemJobService"
+    },
+    {
+        "time_elapsed": "+8m05s849ms",
+        "event": "end_job",
+        "uid": "u0a112",
+        "package_name": "com.google.android.dialer",
+        "service": "com.google.android.dialer/androidx.work.impl.background.systemjob.SystemJobService"
+    },
+    {
+        "time_elapsed": "+8m07s690ms",
+        "event": "start_job",
+        "uid": "u0a111",
+        "package_name": "com.google.android.apps.wellbeing",
+        "service": "com.google.android.apps.wellbeing/androidx.work.impl.background.systemjob.SystemJobService"
+    },
+    {
+        "time_elapsed": "+8m07s979ms",
+        "event": "start_job",
+        "uid": "u0a141",
+        "package_name": "com.google.android.apps.photos",
+        "service": "com.google.android.apps.photos/com.google.android.libraries.social.async.BackgroundTaskJobService"
+    },
+    {
+        "time_elapsed": "+8m07s989ms",
+        "event": "end_job",
+        "uid": "u0a111",
+        "package_name": "com.google.android.apps.wellbeing",
+        "service": "com.google.android.apps.wellbeing/androidx.work.impl.background.systemjob.SystemJobService"
+    },
+    {
+        "time_elapsed": "+8m08s028ms",
+        "event": "end_job",
+        "uid": "u0a141",
+        "package_name": "com.google.android.apps.photos",
+        "service": "com.google.android.apps.photos/com.google.android.libraries.social.async.BackgroundTaskJobService"
+    },
+    {
+        "time_elapsed": "+8m09s287ms",
+        "event": "start_job",
+        "uid": "u0a121",
+        "package_name": "com.google.android.apps.youtube.music",
+        "service": "com.google.android.apps.youtube.music/androidx.work.impl.background.systemjob.SystemJobService"
+    },
+    {
+        "time_elapsed": "+8m09s527ms",
+        "event": "end_job",
+        "uid": "u0a121",
+        "package_name": "com.google.android.apps.youtube.music",
+        "service": "com.google.android.apps.youtube.music/androidx.work.impl.background.systemjob.SystemJobService"
+    },
+    {
+        "time_elapsed": "+8m11s199ms",
+        "event": "start_job",
+        "uid": "u0a122",
+        "package_name": "com.google.android.calendar",
+        "service": "com.google.android.calendar/com.google.android.libraries.notifications.entrypoints.scheduled.ScheduledTaskService"
+    },
+    {
+        "time_elapsed": "+8m11s580ms",
+        "event": "end_job",
+        "uid": "u0a122",
+        "package_name": "com.google.android.calendar",
+        "service": "com.google.android.calendar/com.google.android.libraries.notifications.entrypoints.scheduled.ScheduledTaskService"
+    },
+    {
+        "time_elapsed": "+8m12s555ms",
+        "event": "start_job",
+        "uid": "u0a137",
+        "package_name": "com.google.android.deskclock",
+        "service": "com.google.android.deskclock/com.android.deskclock.indexing.IndexingJobService"
+    },
+    {
+        "time_elapsed": "+8m12s809ms",
+        "event": "start_job",
+        "uid": "u0a123",
+        "package_name": "com.google.android.contacts",
+        "service": "com.google.android.contacts/com.google.android.apps.contacts.shortcut.ShortcutJobService"
+    },
+    {
+        "time_elapsed": "+8m12s871ms",
+        "event": "end_job",
+        "uid": "u0a123",
+        "package_name": "com.google.android.contacts",
+        "service": "com.google.android.contacts/com.google.android.apps.contacts.shortcut.ShortcutJobService"
+    },
+    {
+        "time_elapsed": "+8m13s721ms",
+        "event": "start_job",
+        "uid": "u0a112",
+        "package_name": "com.google.android.dialer",
+        "service": "com.google.android.dialer/androidx.work.impl.background.systemjob.SystemJobService"
+    },
+    {
+        "time_elapsed": "+8m14s464ms",
+        "event": "end_job",
+        "uid": "u0a112",
+        "package_name": "com.google.android.dialer",
+        "service": "com.google.android.dialer/androidx.work.impl.background.systemjob.SystemJobService"
+    },
+    {
+        "time_elapsed": "+8m15s486ms",
+        "event": "start_job",
+        "uid": "u0a144",
+        "package_name": "com.google.android.gm",
+        "service": "com.google.android.gm/.job.GoogleMailWidgetAndShortcutSwitchJob$GoogleMailWidgetAndShortcutSwitchJobService"
+    },
+    {
+        "time_elapsed": "+8m15s906ms",
+        "event": "end_job",
+        "uid": "u0a144",
+        "package_name": "com.google.android.gm",
+        "service": "com.google.android.gm/.job.GoogleMailWidgetAndShortcutSwitchJob$GoogleMailWidgetAndShortcutSwitchJobService"
+    },
+    {
+        "time_elapsed": "+8m16s307ms",
+        "event": "start_job",
+        "uid": "u0a144",
+        "package_name": "com.google.android.gm",
+        "service": "com.google.android.gm/com.android.email.job.UpgradeJob$UpgradeJobService"
+    },
+    {
+        "time_elapsed": "+8m16s435ms",
+        "event": "start_job",
+        "uid": "u0a144",
+        "package_name": "com.google.android.gm",
+        "service": "com.google.android.gm/androidx.work.impl.background.systemjob.SystemJobService"
+    },
+    {
+        "time_elapsed": "+8m16s624ms",
+        "event": "start_job",
+        "uid": "u0a144",
+        "package_name": "com.google.android.gm",
+        "service": "com.google.android.gm/com.android.email.job.MigrateDaJob$MigrateDaJobService"
+    },
+    {
+        "time_elapsed": "+8m16s654ms",
+        "event": "end_job",
+        "uid": "u0a137",
+        "package_name": "com.google.android.deskclock",
+        "service": "com.google.android.deskclock/com.android.deskclock.indexing.IndexingJobService"
+    },
+    {
+        "time_elapsed": "+8m17s090ms",
+        "event": "start_job",
+        "uid": "u0a144",
+        "package_name": "com.google.android.gm",
+        "service": "com.google.android.gm/com.android.email.job.BootCompletedJob$BootCompletedJobService"
+    },
+    {
+        "time_elapsed": "+8m17s099ms",
+        "event": "end_job",
+        "uid": "u0a144",
+        "package_name": "com.google.android.gm",
+        "service": "com.google.android.gm/com.android.email.job.UpgradeJob$UpgradeJobService"
+    },
+    {
+        "time_elapsed": "+8m17s479ms",
+        "event": "end_job",
+        "uid": "u0a144",
+        "package_name": "com.google.android.gm",
+        "service": "com.google.android.gm/com.android.email.job.MigrateDaJob$MigrateDaJobService"
+    },
+    {
+        "time_elapsed": "+8m17s930ms",
+        "event": "end_job",
+        "uid": "u0a144",
+        "package_name": "com.google.android.gm",
+        "service": "com.google.android.gm/androidx.work.impl.background.systemjob.SystemJobService"
+    },
+    {
+        "time_elapsed": "+8m18s136ms",
+        "event": "end_job",
+        "uid": "u0a144",
+        "package_name": "com.google.android.gm",
+        "service": "com.google.android.gm/com.android.email.job.BootCompletedJob$BootCompletedJobService"
+    },
+    {
+        "time_elapsed": "+8m21s922ms",
+        "event": "start_job",
+        "uid": "u0a144",
+        "package_name": "com.google.android.gm",
+        "service": "com.google.android.gm/.job.ProviderCreatedJob$ProviderCreatedJobService"
+    },
+    {
+        "time_elapsed": "+8m22s096ms",
+        "event": "start_job",
+        "uid": "u0a144",
+        "package_name": "com.google.android.gm",
+        "service": "com.google.android.gm/com.android.mail.widget.NotifyDatasetChangedJob$NotifyDatasetChangedJobService"
+    },
+    {
+        "time_elapsed": "+8m22s199ms",
+        "event": "start_job",
+        "uid": "u0a144",
+        "package_name": "com.google.android.gm",
+        "service": "com.google.android.gm/com.google.android.libraries.internal.growth.growthkit.internal.jobs.impl.GrowthKitJobService"
+    },
+    {
+        "time_elapsed": "+8m22s293ms",
+        "event": "end_job",
+        "uid": "u0a144",
+        "package_name": "com.google.android.gm",
+        "service": "com.google.android.gm/.job.ProviderCreatedJob$ProviderCreatedJobService"
+    },
+    {
+        "time_elapsed": "+8m22s444ms",
+        "event": "end_job",
+        "uid": "u0a144",
+        "package_name": "com.google.android.gm",
+        "service": "com.google.android.gm/com.android.mail.widget.NotifyDatasetChangedJob$NotifyDatasetChangedJobService"
+    },
+    {
+        "time_elapsed": "+8m22s464ms",
+        "event": "end_job",
+        "uid": "u0a144",
+        "package_name": "com.google.android.gm",
+        "service": "com.google.android.gm/com.google.android.libraries.internal.growth.growthkit.internal.jobs.impl.GrowthKitJobService"
+    },
+    {
+        "time_elapsed": "+8m22s791ms",
+        "event": "start_job",
+        "uid": "u0a144",
+        "package_name": "com.google.android.gm",
+        "service": "com.google.android.gm/com.google.android.libraries.notifications.entrypoints.scheduled.ScheduledTaskService"
+    },
+    {
+        "time_elapsed": "+8m22s984ms",
+        "event": "end_job",
+        "uid": "u0a144",
+        "package_name": "com.google.android.gm",
+        "service": "com.google.android.gm/com.google.android.libraries.notifications.entrypoints.scheduled.ScheduledTaskService"
+    },
+    {
+        "time_elapsed": "+8m26s564ms",
+        "event": "start_job",
+        "uid": "u0a120",
+        "package_name": "com.google.android.googlequicksearchbox",
+        "service": "com.google.android.googlequicksearchbox/com.google.android.apps.gsa.tasks.BackgroundTasksJobService"
+    },
+    {
+        "time_elapsed": "+8m26s924ms",
+        "event": "start_job",
+        "uid": "u0a120",
+        "package_name": "com.google.android.googlequicksearchbox",
+        "service": "com.google.android.googlequicksearchbox/androidx.work.impl.background.systemjob.SystemJobService"
+    },
+    {
+        "time_elapsed": "+8m28s951ms",
+        "event": "end_job",
+        "uid": "u0a120",
+        "package_name": "com.google.android.googlequicksearchbox",
+        "service": "com.google.android.googlequicksearchbox/com.google.android.apps.gsa.tasks.BackgroundTasksJobService"
+    },
+    {
+        "time_elapsed": "+8m30s435ms",
+        "event": "start_job",
+        "uid": "u0a120",
+        "package_name": "com.google.android.googlequicksearchbox",
+        "service": "com.google.android.googlequicksearchbox/com.google.android.libraries.notifications.entrypoints.scheduled.ScheduledTaskService"
+    },
+    {
+        "time_elapsed": "+8m30s450ms",
+        "event": "end_job",
+        "uid": "u0a120",
+        "package_name": "com.google.android.googlequicksearchbox",
+        "service": "com.google.android.googlequicksearchbox/androidx.work.impl.background.systemjob.SystemJobService"
+    },
+    {
+        "time_elapsed": "+8m31s224ms",
+        "event": "end_job",
+        "uid": "u0a120",
+        "package_name": "com.google.android.googlequicksearchbox",
+        "service": "com.google.android.googlequicksearchbox/com.google.android.libraries.notifications.entrypoints.scheduled.ScheduledTaskService"
+    },
+    {
+        "time_elapsed": "+8m34s060ms",
+        "event": "start_job",
+        "uid": "u0a104",
+        "package_name": "com.google.android.partnersetup",
+        "service": "com.google.android.partnersetup/.PhenotypeJobService"
+    },
+    {
+        "time_elapsed": "+8m36s104ms",
+        "event": "start_job",
+        "uid": "u0a168",
+        "package_name": "com.google.android.permissioncontroller",
+        "service": "com.google.android.permissioncontroller/com.android.permissioncontroller.hibernation.HibernationJobService"
+    },
+    {
+        "time_elapsed": "+8m36s166ms",
+        "event": "end_job",
+        "uid": "u0a168",
+        "package_name": "com.google.android.permissioncontroller",
+        "service": "com.google.android.permissioncontroller/com.android.permissioncontroller.hibernation.HibernationJobService"
+    },
+    {
+        "time_elapsed": "+8m42s941ms",
+        "event": "start_job",
+        "uid": "u0a123",
+        "package_name": "com.google.android.contacts",
+        "service": "com.google.android.contacts/com.google.android.apps.contacts.shortcut.ShortcutJobService"
+    },
+    {
+        "time_elapsed": "+8m44s592ms",
+        "event": "end_job",
+        "uid": "u0a123",
+        "package_name": "com.google.android.contacts",
+        "service": "com.google.android.contacts/com.google.android.apps.contacts.shortcut.ShortcutJobService"
+    },
+    {
+        "time_elapsed": "+8m46s833ms",
+        "event": "start_job",
+        "uid": "u0a120",
+        "package_name": "com.google.android.googlequicksearchbox",
+        "service": "com.google.android.googlequicksearchbox/com.google.android.apps.gsa.tasks.BackgroundTasksJobService"
+    },
+    {
+        "time_elapsed": "+8m47s557ms",
+        "event": "start_job",
+        "uid": "u0a144",
+        "package_name": "com.google.android.gm",
+        "service": "com.google.android.gm/androidx.work.impl.background.systemjob.SystemJobService"
+    },
+    {
+        "time_elapsed": "+8m47s750ms",
+        "event": "end_job",
+        "uid": "u0a144",
+        "package_name": "com.google.android.gm",
+        "service": "com.google.android.gm/androidx.work.impl.background.systemjob.SystemJobService"
+    },
+    {
+        "time_elapsed": "+8m47s963ms",
+        "event": "end_job",
+        "uid": "u0a120",
+        "package_name": "com.google.android.googlequicksearchbox",
+        "service": "com.google.android.googlequicksearchbox/com.google.android.apps.gsa.tasks.BackgroundTasksJobService"
+    },
+    {
+        "time_elapsed": "+8m48s790ms",
+        "event": "start_job",
+        "uid": "u0a144",
+        "package_name": "com.google.android.gm",
+        "service": "com.google.android.gm/com.android.email.job.BootCompletedJob$BootCompletedJobService"
+    },
+    {
+        "time_elapsed": "+8m49s203ms",
+        "event": "end_job",
+        "uid": "u0a144",
+        "package_name": "com.google.android.gm",
+        "service": "com.google.android.gm/com.android.email.job.BootCompletedJob$BootCompletedJobService"
+    },
+    {
+        "time_elapsed": "+8m50s257ms",
+        "event": "start_job",
+        "uid": "u0a120",
+        "package_name": "com.google.android.googlequicksearchbox",
+        "service": "com.google.android.googlequicksearchbox/com.google.android.apps.gsa.tasks.BackgroundTasksJobService"
+    },
+    {
+        "time_elapsed": "+8m50s768ms",
+        "event": "end_job",
+        "uid": "u0a120",
+        "package_name": "com.google.android.googlequicksearchbox",
+        "service": "com.google.android.googlequicksearchbox/com.google.android.apps.gsa.tasks.BackgroundTasksJobService"
+    },
+    {
+        "time_elapsed": "+8m53s959ms",
+        "event": "start_job",
+        "uid": "u0a123",
+        "package_name": "com.google.android.contacts",
+        "service": "com.google.android.contacts/com.google.android.apps.contacts.shortcut.ShortcutJobService"
+    },
+    {
+        "time_elapsed": "+8m54s314ms",
+        "event": "start_job",
+        "uid": "u0a138",
+        "package_name": "com.google.android.youtube",
+        "service": "com.google.android.youtube/androidx.work.impl.background.systemjob.SystemJobService"
+    },
+    {
+        "time_elapsed": "+8m54s633ms",
+        "event": "end_job",
+        "uid": "u0a138",
+        "package_name": "com.google.android.youtube",
+        "service": "com.google.android.youtube/androidx.work.impl.background.systemjob.SystemJobService"
+    },
+    {
+        "time_elapsed": "+8m55s379ms",
+        "event": "end_job",
+        "uid": "u0a123",
+        "package_name": "com.google.android.contacts",
+        "service": "com.google.android.contacts/com.google.android.apps.contacts.shortcut.ShortcutJobService"
+    },
+    {
+        "time_elapsed": "+8m56s016ms",
+        "event": "start_job",
+        "uid": "u0a105",
+        "package_name": "com.google.android.configupdater",
+        "service": "com.google.android.configupdater/.MainJobService"
+    },
+    {
+        "time_elapsed": "+8m56s332ms",
+        "event": "end_job",
+        "uid": "u0a105",
+        "package_name": "com.google.android.configupdater",
+        "service": "com.google.android.configupdater/.MainJobService"
+    },
+    {
+        "time_elapsed": "+9m13s765ms",
+        "event": "start_job",
+        "uid": "u0a107",
+        "package_name": "com.google.android.settings.intelligence",
+        "service": "com.google.android.settings.intelligence/.modules.appsearchindexing.impl.AppSearchIndexUpdateJobService"
+    },
+    {
+        "time_elapsed": "+9m28s803ms",
+        "event": "end_job",
+        "uid": "u0a107",
+        "package_name": "com.google.android.settings.intelligence",
+        "service": "com.google.android.settings.intelligence/.modules.appsearchindexing.impl.AppSearchIndexUpdateJobService"
+    },
+    {
+        "time_elapsed": "+9m32s695ms",
+        "event": "end_job",
+        "uid": "u0a104",
+        "package_name": "com.google.android.partnersetup",
+        "service": "com.google.android.partnersetup/.PhenotypeJobService"
+    },
+    {
+        "time_elapsed": "+9m34s710ms",
+        "event": "start_job",
+        "uid": "u0a135",
+        "package_name": "com.google.android.inputmethod.latin",
+        "service": "com.google.android.inputmethod.latin/com.google.android.apps.inputmethod.libs.dataservice.superpacks.SuperpacksBackgroundJobService"
+    },
+    {
+        "time_elapsed": "+9m36s464ms",
+        "event": "end_job",
+        "uid": "u0a135",
+        "package_name": "com.google.android.inputmethod.latin",
+        "service": "com.google.android.inputmethod.latin/com.google.android.apps.inputmethod.libs.dataservice.superpacks.SuperpacksBackgroundJobService"
+    },
+    {
+        "time_elapsed": "+9m37s311ms",
+        "event": "start_job",
+        "uid": "u0a120",
+        "package_name": "com.google.android.googlequicksearchbox",
+        "service": "com.google.android.googlequicksearchbox/com.google.android.apps.gsa.tasks.BackgroundTasksJobService"
+    },
+    {
+        "time_elapsed": "+9m37s620ms",
+        "event": "start_job",
+        "uid": "u0a104",
+        "package_name": "com.google.android.partnersetup",
+        "service": "com.google.android.partnersetup/.PhenotypeJobService"
+    },
+    {
+        "time_elapsed": "+9m38s124ms",
+        "event": "end_job",
+        "uid": "u0a120",
+        "package_name": "com.google.android.googlequicksearchbox",
+        "service": "com.google.android.googlequicksearchbox/com.google.android.apps.gsa.tasks.BackgroundTasksJobService"
+    },
+    {
+        "time_elapsed": "+9m39s517ms",
+        "event": "end_job",
+        "uid": "u0a104",
+        "package_name": "com.google.android.partnersetup",
+        "service": "com.google.android.partnersetup/.PhenotypeJobService"
+    },
+    {
+        "time_elapsed": "+9m40s455ms",
+        "event": "start_job",
+        "uid": "u0a135",
+        "package_name": "com.google.android.inputmethod.latin",
+        "service": "com.google.android.inputmethod.latin/com.google.android.apps.inputmethod.libs.dataservice.superpacks.SuperpacksBackgroundJobService"
+    },
+    {
+        "time_elapsed": "+9m42s835ms",
+        "event": "start_job",
+        "uid": "u0a120",
+        "package_name": "com.google.android.googlequicksearchbox",
+        "service": "com.google.android.googlequicksearchbox/com.google.android.apps.gsa.tasks.BackgroundTasksJobService"
+    },
+    {
+        "time_elapsed": "+9m44s220ms",
+        "event": "end_job",
+        "uid": "u0a135",
+        "package_name": "com.google.android.inputmethod.latin",
+        "service": "com.google.android.inputmethod.latin/com.google.android.apps.inputmethod.libs.dataservice.superpacks.SuperpacksBackgroundJobService"
+    },
+    {
+        "time_elapsed": "+10m02s897ms",
+        "event": "start_job",
+        "uid": "u0a135",
+        "package_name": "com.google.android.inputmethod.latin",
+        "service": "com.google.android.inputmethod.latin/com.google.android.apps.inputmethod.libs.dataservice.superpacks.SuperpacksBackgroundJobService"
+    },
+    {
+        "time_elapsed": "+10m06s160ms",
+        "event": "end_job",
+        "uid": "u0a135",
+        "package_name": "com.google.android.inputmethod.latin",
+        "service": "com.google.android.inputmethod.latin/com.google.android.apps.inputmethod.libs.dataservice.superpacks.SuperpacksBackgroundJobService"
+    },
+    {
+        "time_elapsed": "+10m06s409ms",
+        "event": "end_job",
+        "uid": "u0a120",
+        "package_name": "com.google.android.googlequicksearchbox",
+        "service": "com.google.android.googlequicksearchbox/com.google.android.apps.gsa.tasks.BackgroundTasksJobService"
+    },
+    {
+        "time_elapsed": "+10m06s622ms",
+        "event": "start_job",
+        "uid": "u0a120",
+        "package_name": "com.google.android.googlequicksearchbox",
+        "service": "com.google.android.googlequicksearchbox/com.google.android.apps.gsa.tasks.BackgroundTasksJobService"
+    },
+    {
+        "time_elapsed": "+10m06s689ms",
+        "event": "end_job",
+        "uid": "u0a120",
+        "package_name": "com.google.android.googlequicksearchbox",
+        "service": "com.google.android.googlequicksearchbox/com.google.android.apps.gsa.tasks.BackgroundTasksJobService"
+    },
+    {
+        "time_elapsed": "+10m06s711ms",
+        "event": "start_job",
+        "uid": "u0a120",
+        "package_name": "com.google.android.googlequicksearchbox",
+        "service": "com.google.android.googlequicksearchbox/com.google.android.apps.gsa.tasks.BackgroundTasksJobService"
+    },
+    {
+        "time_elapsed": "+10m13s166ms",
+        "event": "end_job",
+        "uid": "u0a120",
+        "package_name": "com.google.android.googlequicksearchbox",
+        "service": "com.google.android.googlequicksearchbox/com.google.android.apps.gsa.tasks.BackgroundTasksJobService"
+    },
+    {
+        "time_elapsed": "+10m51s870ms",
+        "event": "start_job",
+        "uid": "u0a105",
+        "package_name": "DownloadManager:com.android.providers.downloads",
+        "service": "DownloadManager:com.android.providers.downloads"
+    },
+    {
+        "time_elapsed": "+10m52s500ms",
+        "event": "start_job",
+        "uid": "u0a113",
+        "package_name": "com.google.android.apps.messaging",
+        "service": "com.google.android.apps.messaging/androidx.work.impl.background.systemjob.SystemJobService"
+    },
+    {
+        "time_elapsed": "+10m53s041ms",
+        "event": "start_job",
+        "uid": "u0a120",
+        "package_name": "com.google.android.googlequicksearchbox",
+        "service": "com.google.android.googlequicksearchbox/com.google.android.apps.gsa.tasks.BackgroundTasksJobService"
+    },
+    {
+        "time_elapsed": "+10m56s531ms",
+        "event": "end_job",
+        "uid": "u0a105",
+        "package_name": "DownloadManager:com.android.providers.downloads",
+        "service": "DownloadManager:com.android.providers.downloads"
+    },
+    {
+        "time_elapsed": "+10m58s903ms",
+        "event": "end_job",
+        "uid": "u0a120",
+        "package_name": "com.google.android.googlequicksearchbox",
+        "service": "com.google.android.googlequicksearchbox/com.google.android.apps.gsa.tasks.BackgroundTasksJobService"
+    },
+    {
+        "time_elapsed": "+11m17s131ms",
+        "event": "start_job",
+        "uid": "u0a120",
+        "package_name": "com.google.android.googlequicksearchbox",
+        "service": "com.google.android.googlequicksearchbox/com.google.android.apps.gsa.tasks.BackgroundTasksJobService"
+    },
+    {
+        "time_elapsed": "+11m19s137ms",
+        "event": "end_job",
+        "uid": "u0a120",
+        "package_name": "com.google.android.googlequicksearchbox",
+        "service": "com.google.android.googlequicksearchbox/com.google.android.apps.gsa.tasks.BackgroundTasksJobService"
+    },
+    {
+        "time_elapsed": "+12m22s321ms",
+        "event": "start_job",
+        "uid": "u0a121",
+        "package_name": "com.google.android.apps.youtube.music",
+        "service": "com.google.android.apps.youtube.music/androidx.work.impl.background.systemjob.SystemJobService"
+    },
+    {
+        "time_elapsed": "+12m26s627ms",
+        "event": "end_job",
+        "uid": "u0a121",
+        "package_name": "com.google.android.apps.youtube.music",
+        "service": "com.google.android.apps.youtube.music/androidx.work.impl.background.systemjob.SystemJobService"
+    },
+    {
+        "time_elapsed": "+12m59s368ms",
+        "event": "start_job",
+        "uid": "u0a107",
+        "package_name": "com.google.android.settings.intelligence",
+        "service": "com.google.android.settings.intelligence/.modules.routines.impl.RoutinesJobIntentService"
+    },
+    {
+        "time_elapsed": "+12m59s480ms",
+        "event": "start_job",
+        "uid": "u0a107",
+        "package_name": "com.google.android.settings.intelligence",
+        "service": "com.google.android.settings.intelligence/.modules.routines.impl.PruneDatabaseJobService"
+    },
+    {
+        "time_elapsed": "+12m59s600ms",
+        "event": "start_job",
+        "uid": "u0a107",
+        "package_name": "com.google.android.settings.intelligence",
+        "service": "com.google.android.settings.intelligence/.modules.routines.impl.ComputeNewInferencesJobService"
+    },
+    {
+        "time_elapsed": "+12m59s633ms",
+        "event": "start_job",
+        "uid": "u0a120",
+        "package_name": "com.google.android.googlequicksearchbox",
+        "service": "com.google.android.googlequicksearchbox/com.google.android.apps.gsa.tasks.BackgroundTasksJobService"
+    },
+    {
+        "time_elapsed": "+13m00s864ms",
+        "event": "end_job",
+        "uid": "u0a120",
+        "package_name": "com.google.android.googlequicksearchbox",
+        "service": "com.google.android.googlequicksearchbox/com.google.android.apps.gsa.tasks.BackgroundTasksJobService"
+    },
+    {
+        "time_elapsed": "+13m02s256ms",
+        "event": "start_job",
+        "uid": "u0a120",
+        "package_name": "com.google.android.googlequicksearchbox",
+        "service": "com.google.android.googlequicksearchbox/com.google.android.apps.gsa.tasks.BackgroundTasksJobService"
+    },
+    {
+        "time_elapsed": "+13m02s265ms",
+        "event": "end_job",
+        "uid": "u0a107",
+        "package_name": "com.google.android.settings.intelligence",
+        "service": "com.google.android.settings.intelligence/.modules.routines.impl.ComputeNewInferencesJobService"
+    },
+    {
+        "time_elapsed": "+13m02s389ms",
+        "event": "end_job",
+        "uid": "u0a107",
+        "package_name": "com.google.android.settings.intelligence",
+        "service": "com.google.android.settings.intelligence/.modules.routines.impl.PruneDatabaseJobService"
+    },
+    {
+        "time_elapsed": "+13m02s444ms",
+        "event": "end_job",
+        "uid": "u0a120",
+        "package_name": "com.google.android.googlequicksearchbox",
+        "service": "com.google.android.googlequicksearchbox/com.google.android.apps.gsa.tasks.BackgroundTasksJobService"
+    },
+    {
+        "time_elapsed": "+13m03s034ms",
+        "event": "end_job",
+        "uid": "u0a107",
+        "package_name": "com.google.android.settings.intelligence",
+        "service": "com.google.android.settings.intelligence/.modules.routines.impl.RoutinesJobIntentService"
+    },
+    {
+        "time_elapsed": "+13m03s472ms",
+        "event": "start_job",
+        "uid": "u0a120",
+        "package_name": "com.google.android.googlequicksearchbox",
+        "service": "com.google.android.googlequicksearchbox/com.google.android.apps.gsa.tasks.BackgroundTasksJobService"
+    },
+    {
+        "time_elapsed": "+13m03s480ms",
+        "event": "end_job",
+        "uid": "u0a120",
+        "package_name": "com.google.android.googlequicksearchbox",
+        "service": "com.google.android.googlequicksearchbox/com.google.android.apps.gsa.tasks.BackgroundTasksJobService"
+    },
+    {
+        "time_elapsed": "+13m04s987ms",
+        "event": "start_job",
+        "uid": "u0a120",
+        "package_name": "com.google.android.googlequicksearchbox",
+        "service": "com.google.android.googlequicksearchbox/com.google.android.apps.gsa.tasks.BackgroundTasksJobService"
+    },
+    {
+        "time_elapsed": "+13m05s004ms",
+        "event": "end_job",
+        "uid": "u0a120",
+        "package_name": "com.google.android.googlequicksearchbox",
+        "service": "com.google.android.googlequicksearchbox/com.google.android.apps.gsa.tasks.BackgroundTasksJobService"
+    },
+    {
+        "time_elapsed": "+13m05s197ms",
+        "event": "start_job",
+        "uid": "u0a107",
+        "package_name": "com.google.android.settings.intelligence",
+        "service": "com.google.android.settings.intelligence/.modules.routines.impl.RoutinesJobIntentService"
+    },
+    {
+        "time_elapsed": "+13m05s268ms",
+        "event": "end_job",
+        "uid": "u0a107",
+        "package_name": "com.google.android.settings.intelligence",
+        "service": "com.google.android.settings.intelligence/.modules.routines.impl.RoutinesJobIntentService"
+    },
+    {
+        "time_elapsed": "+13m05s416ms",
+        "event": "start_job",
+        "uid": "u0a120",
+        "package_name": "com.google.android.googlequicksearchbox",
+        "service": "com.google.android.googlequicksearchbox/com.google.android.apps.gsa.tasks.BackgroundTasksJobService"
+    },
+    {
+        "time_elapsed": "+13m05s486ms",
+        "event": "end_job",
+        "uid": "u0a120",
+        "package_name": "com.google.android.googlequicksearchbox",
+        "service": "com.google.android.googlequicksearchbox/com.google.android.apps.gsa.tasks.BackgroundTasksJobService"
+    },
+    {
+        "time_elapsed": "+13m05s675ms",
+        "event": "start_job",
+        "uid": "u0a120",
+        "package_name": "com.google.android.googlequicksearchbox",
+        "service": "com.google.android.googlequicksearchbox/com.google.android.apps.gsa.tasks.BackgroundTasksJobService"
+    },
+    {
+        "time_elapsed": "+13m05s791ms",
+        "event": "end_job",
+        "uid": "u0a120",
+        "package_name": "com.google.android.googlequicksearchbox",
+        "service": "com.google.android.googlequicksearchbox/com.google.android.apps.gsa.tasks.BackgroundTasksJobService"
+    },
+    {
+        "time_elapsed": "+13m06s576ms",
+        "event": "start_job",
+        "uid": "u0a120",
+        "package_name": "com.google.android.googlequicksearchbox",
+        "service": "com.google.android.googlequicksearchbox/com.google.android.apps.gsa.tasks.BackgroundTasksJobService"
+    },
+    {
+        "time_elapsed": "+13m06s588ms",
+        "event": "end_job",
+        "uid": "u0a120",
+        "package_name": "com.google.android.googlequicksearchbox",
+        "service": "com.google.android.googlequicksearchbox/com.google.android.apps.gsa.tasks.BackgroundTasksJobService"
+    },
+    {
+        "time_elapsed": "+13m07s094ms",
+        "event": "start_job",
+        "uid": "u0a120",
+        "package_name": "com.google.android.googlequicksearchbox",
+        "service": "com.google.android.googlequicksearchbox/com.google.android.apps.gsa.tasks.BackgroundTasksJobService"
+    },
+    {
+        "time_elapsed": "+13m07s098ms",
+        "event": "end_job",
+        "uid": "u0a120",
+        "package_name": "com.google.android.googlequicksearchbox",
+        "service": "com.google.android.googlequicksearchbox/com.google.android.apps.gsa.tasks.BackgroundTasksJobService"
+    },
+    {
+        "time_elapsed": "+13m08s132ms",
+        "event": "start_job",
+        "uid": "u0a120",
+        "package_name": "com.google.android.googlequicksearchbox",
+        "service": "com.google.android.googlequicksearchbox/com.google.android.apps.gsa.tasks.BackgroundTasksJobService"
+    },
+    {
+        "time_elapsed": "+13m08s242ms",
+        "event": "end_job",
+        "uid": "u0a120",
+        "package_name": "com.google.android.googlequicksearchbox",
+        "service": "com.google.android.googlequicksearchbox/com.google.android.apps.gsa.tasks.BackgroundTasksJobService"
+    },
+    {
+        "time_elapsed": "+13m08s753ms",
+        "event": "start_job",
+        "uid": "u0a120",
+        "package_name": "com.google.android.googlequicksearchbox",
+        "service": "com.google.android.googlequicksearchbox/com.google.android.apps.gsa.tasks.BackgroundTasksJobService"
+    },
+    {
+        "time_elapsed": "+13m08s764ms",
+        "event": "end_job",
+        "uid": "u0a120",
+        "package_name": "com.google.android.googlequicksearchbox",
+        "service": "com.google.android.googlequicksearchbox/com.google.android.apps.gsa.tasks.BackgroundTasksJobService"
+    },
+    {
+        "time_elapsed": "+13m09s285ms",
+        "event": "start_job",
+        "uid": "u0a120",
+        "package_name": "com.google.android.googlequicksearchbox",
+        "service": "com.google.android.googlequicksearchbox/com.google.android.apps.gsa.tasks.BackgroundTasksJobService"
+    },
+    {
+        "time_elapsed": "+13m09s296ms",
+        "event": "end_job",
+        "uid": "u0a120",
+        "package_name": "com.google.android.googlequicksearchbox",
+        "service": "com.google.android.googlequicksearchbox/com.google.android.apps.gsa.tasks.BackgroundTasksJobService"
+    },
+    {
+        "time_elapsed": "+13m09s973ms",
+        "event": "start_job",
+        "uid": "u0a120",
+        "package_name": "com.google.android.googlequicksearchbox",
+        "service": "com.google.android.googlequicksearchbox/com.google.android.apps.gsa.tasks.BackgroundTasksJobService"
+    },
+    {
+        "time_elapsed": "+13m09s978ms",
+        "event": "end_job",
+        "uid": "u0a120",
+        "package_name": "com.google.android.googlequicksearchbox",
+        "service": "com.google.android.googlequicksearchbox/com.google.android.apps.gsa.tasks.BackgroundTasksJobService"
+    },
+    {
+        "time_elapsed": "+13m10s422ms",
+        "event": "start_job",
+        "uid": "u0a120",
+        "package_name": "com.google.android.googlequicksearchbox",
+        "service": "com.google.android.googlequicksearchbox/com.google.android.apps.gsa.tasks.BackgroundTasksJobService"
+    },
+    {
+        "time_elapsed": "+13m10s615ms",
+        "event": "end_job",
+        "uid": "u0a120",
+        "package_name": "com.google.android.googlequicksearchbox",
+        "service": "com.google.android.googlequicksearchbox/com.google.android.apps.gsa.tasks.BackgroundTasksJobService"
+    },
+    {
+        "time_elapsed": "+13m11s033ms",
+        "event": "start_job",
+        "uid": "u0a120",
+        "package_name": "com.google.android.googlequicksearchbox",
+        "service": "com.google.android.googlequicksearchbox/com.google.android.apps.gsa.tasks.BackgroundTasksJobService"
+    },
+    {
+        "time_elapsed": "+13m11s040ms",
+        "event": "end_job",
+        "uid": "u0a120",
+        "package_name": "com.google.android.googlequicksearchbox",
+        "service": "com.google.android.googlequicksearchbox/com.google.android.apps.gsa.tasks.BackgroundTasksJobService"
+    },
+    {
+        "time_elapsed": "+13m11s508ms",
+        "event": "start_job",
+        "uid": "u0a120",
+        "package_name": "com.google.android.googlequicksearchbox",
+        "service": "com.google.android.googlequicksearchbox/com.google.android.apps.gsa.tasks.BackgroundTasksJobService"
+    },
+    {
+        "time_elapsed": "+13m11s515ms",
+        "event": "end_job",
+        "uid": "u0a120",
+        "package_name": "com.google.android.googlequicksearchbox",
+        "service": "com.google.android.googlequicksearchbox/com.google.android.apps.gsa.tasks.BackgroundTasksJobService"
+    },
+    {
+        "time_elapsed": "+13m11s983ms",
+        "event": "start_job",
+        "uid": "u0a120",
+        "package_name": "com.google.android.googlequicksearchbox",
+        "service": "com.google.android.googlequicksearchbox/com.google.android.apps.gsa.tasks.BackgroundTasksJobService"
+    },
+    {
+        "time_elapsed": "+13m11s989ms",
+        "event": "end_job",
+        "uid": "u0a120",
+        "package_name": "com.google.android.googlequicksearchbox",
+        "service": "com.google.android.googlequicksearchbox/com.google.android.apps.gsa.tasks.BackgroundTasksJobService"
+    },
+    {
+        "time_elapsed": "+13m12s171ms",
+        "event": "start_job",
+        "uid": "u0a120",
+        "package_name": "com.google.android.googlequicksearchbox",
+        "service": "com.google.android.googlequicksearchbox/com.google.android.apps.gsa.tasks.BackgroundTasksJobService"
+    },
+    {
+        "time_elapsed": "+13m12s201ms",
+        "event": "end_job",
+        "uid": "u0a120",
+        "package_name": "com.google.android.googlequicksearchbox",
+        "service": "com.google.android.googlequicksearchbox/com.google.android.apps.gsa.tasks.BackgroundTasksJobService"
+    },
+    {
+        "time_elapsed": "+13m12s348ms",
+        "event": "start_job",
+        "uid": "u0a120",
+        "package_name": "com.google.android.googlequicksearchbox",
+        "service": "com.google.android.googlequicksearchbox/com.google.android.apps.gsa.tasks.BackgroundTasksJobService"
+    },
+    {
+        "time_elapsed": "+13m12s564ms",
+        "event": "end_job",
+        "uid": "u0a120",
+        "package_name": "com.google.android.googlequicksearchbox",
+        "service": "com.google.android.googlequicksearchbox/com.google.android.apps.gsa.tasks.BackgroundTasksJobService"
+    },
+    {
+        "time_elapsed": "+13m13s050ms",
+        "event": "start_job",
+        "uid": "u0a120",
+        "package_name": "com.google.android.googlequicksearchbox",
+        "service": "com.google.android.googlequicksearchbox/com.google.android.apps.gsa.tasks.BackgroundTasksJobService"
+    },
+    {
+        "time_elapsed": "+13m13s057ms",
+        "event": "end_job",
+        "uid": "u0a120",
+        "package_name": "com.google.android.googlequicksearchbox",
+        "service": "com.google.android.googlequicksearchbox/com.google.android.apps.gsa.tasks.BackgroundTasksJobService"
+    },
+    {
+        "time_elapsed": "+13m13s484ms",
+        "event": "start_job",
+        "uid": "u0a120",
+        "package_name": "com.google.android.googlequicksearchbox",
+        "service": "com.google.android.googlequicksearchbox/com.google.android.apps.gsa.tasks.BackgroundTasksJobService"
+    },
+    {
+        "time_elapsed": "+13m13s497ms",
+        "event": "end_job",
+        "uid": "u0a120",
+        "package_name": "com.google.android.googlequicksearchbox",
+        "service": "com.google.android.googlequicksearchbox/com.google.android.apps.gsa.tasks.BackgroundTasksJobService"
+    },
+    {
+        "time_elapsed": "+13m15s328ms",
+        "event": "start_job",
+        "uid": "u0a123",
+        "package_name": "com.google.android.contacts",
+        "service": "com.google.android.contacts/com.google.android.libraries.internal.growth.growthkit.internal.jobs.impl.GrowthKitJobService"
+    },
+    {
+        "time_elapsed": "+13m15s674ms",
+        "event": "end_job",
+        "uid": "u0a123",
+        "package_name": "com.google.android.contacts",
+        "service": "com.google.android.contacts/com.google.android.libraries.internal.growth.growthkit.internal.jobs.impl.GrowthKitJobService"
+    },
+    {
+        "time_elapsed": "+13m21s036ms",
+        "event": "start_job",
+        "uid": "u0a104",
+        "package_name": "com.google.android.partnersetup",
+        "service": "com.google.android.partnersetup/.PhenotypeJobService"
+    },
+    {
+        "time_elapsed": "+13m22s180ms",
+        "event": "end_job",
+        "uid": "u0a104",
+        "package_name": "com.google.android.partnersetup",
+        "service": "com.google.android.partnersetup/.PhenotypeJobService"
+    },
+    {
+        "time_elapsed": "+13m26s357ms",
+        "event": "start_job",
+        "uid": "u0a141",
+        "package_name": "com.google.android.apps.photos",
+        "service": "com.google.android.apps.photos/com.google.android.libraries.social.async.BackgroundTaskJobService"
+    },
+    {
+        "time_elapsed": "+13m29s480ms",
+        "event": "start_job",
+        "uid": "u0a141",
+        "package_name": "com.google.android.apps.photos",
+        "service": "com.google.android.apps.photos/.dbprocessor.impl.DatabaseProcessorJobService"
+    },
+    {
+        "time_elapsed": "+13m29s782ms",
+        "event": "end_job",
+        "uid": "u0a141",
+        "package_name": "com.google.android.apps.photos",
+        "service": "com.google.android.apps.photos/.dbprocessor.impl.DatabaseProcessorJobService"
+    },
+    {
+        "time_elapsed": "+13m36s698ms",
+        "event": "start_job",
+        "uid": "u0a130",
+        "package_name": "com.google.android.apps.docs",
+        "service": "com.google.android.apps.docs/com.google.android.libraries.internal.growth.growthkit.internal.jobs.impl.GrowthKitJobService"
+    },
+    {
+        "time_elapsed": "+13m37s111ms",
+        "event": "end_job",
+        "uid": "u0a130",
+        "package_name": "com.google.android.apps.docs",
+        "service": "com.google.android.apps.docs/com.google.android.libraries.internal.growth.growthkit.internal.jobs.impl.GrowthKitJobService"
+    },
+    {
+        "time_elapsed": "+13m40s193ms",
+        "event": "end_job",
+        "uid": "u0a141",
+        "package_name": "com.google.android.apps.photos",
+        "service": "com.google.android.apps.photos/com.google.android.libraries.social.async.BackgroundTaskJobService"
+    },
+    {
+        "time_elapsed": "+13m52s165ms",
+        "event": "start_job",
+        "uid": "u0a138",
+        "package_name": "com.google.android.youtube",
+        "service": "com.google.android.youtube/androidx.work.impl.background.systemjob.SystemJobService"
+    },
+    {
+        "time_elapsed": "+13m52s431ms",
+        "event": "end_job",
+        "uid": "u0a138",
+        "package_name": "com.google.android.youtube",
+        "service": "com.google.android.youtube/androidx.work.impl.background.systemjob.SystemJobService"
+    },
+    {
+        "time_elapsed": "+14m06s600ms",
+        "event": "start_job",
+        "uid": "u0a141",
+        "package_name": "com.google.android.apps.photos",
+        "service": "com.google.android.apps.photos/.dbprocessor.impl.DatabaseProcessorJobService"
+    },
+    {
+        "time_elapsed": "+14m06s969ms",
+        "event": "end_job",
+        "uid": "u0a141",
+        "package_name": "com.google.android.apps.photos",
+        "service": "com.google.android.apps.photos/.dbprocessor.impl.DatabaseProcessorJobService"
+    },
+    {
+        "time_elapsed": "+14m07s484ms",
+        "event": "start_job",
+        "uid": "u0a121",
+        "package_name": "com.google.android.apps.youtube.music",
+        "service": "com.google.android.apps.youtube.music/androidx.work.impl.background.systemjob.SystemJobService"
+    },
+    {
+        "time_elapsed": "+14m07s855ms",
+        "event": "end_job",
+        "uid": "u0a121",
+        "package_name": "com.google.android.apps.youtube.music",
+        "service": "com.google.android.apps.youtube.music/androidx.work.impl.background.systemjob.SystemJobService"
+    },
+    {
+        "time_elapsed": "+14m22s769ms",
+        "event": "start_job",
+        "uid": "u0a107",
+        "package_name": "com.google.android.settings.intelligence",
+        "service": "com.google.android.settings.intelligence/.modules.routines.impl.RoutinesJobIntentService"
+    },
+    {
+        "time_elapsed": "+14m23s440ms",
+        "event": "end_job",
+        "uid": "u0a107",
+        "package_name": "com.google.android.settings.intelligence",
+        "service": "com.google.android.settings.intelligence/.modules.routines.impl.RoutinesJobIntentService"
+    },
+    {
+        "time_elapsed": "+14m26s221ms",
+        "event": "start_job",
+        "uid": "u0a107",
+        "package_name": "com.google.android.settings.intelligence",
+        "service": "com.google.android.settings.intelligence/.modules.routines.impl.RoutinesJobIntentService"
+    },
+    {
+        "time_elapsed": "+14m26s423ms",
+        "event": "end_job",
+        "uid": "u0a107",
+        "package_name": "com.google.android.settings.intelligence",
+        "service": "com.google.android.settings.intelligence/.modules.routines.impl.RoutinesJobIntentService"
+    },
+    {
+        "time_elapsed": "+14m29s234ms",
+        "event": "start_job",
+        "uid": "u0a120",
+        "package_name": "com.google.android.googlequicksearchbox",
+        "service": "com.google.android.googlequicksearchbox/com.google.android.apps.gsa.tasks.BackgroundTasksJobService"
+    },
+    {
+        "time_elapsed": "+14m31s541ms",
+        "event": "end_job",
+        "uid": "u0a120",
+        "package_name": "com.google.android.googlequicksearchbox",
+        "service": "com.google.android.googlequicksearchbox/com.google.android.apps.gsa.tasks.BackgroundTasksJobService"
+    },
+    {
+        "time_elapsed": "+14m34s473ms",
+        "event": "start_job",
+        "uid": "u0a120",
+        "package_name": "com.google.android.googlequicksearchbox",
+        "service": "com.google.android.googlequicksearchbox/com.google.android.apps.gsa.tasks.BackgroundTasksJobService"
+    },
+    {
+        "time_elapsed": "+14m34s988ms",
+        "event": "end_job",
+        "uid": "u0a120",
+        "package_name": "com.google.android.googlequicksearchbox",
+        "service": "com.google.android.googlequicksearchbox/com.google.android.apps.gsa.tasks.BackgroundTasksJobService"
+    },
+    {
+        "time_elapsed": "+14m36s290ms",
+        "event": "start_job",
+        "uid": "u0a120",
+        "package_name": "com.google.android.googlequicksearchbox",
+        "service": "com.google.android.googlequicksearchbox/com.google.android.apps.gsa.tasks.BackgroundTasksJobService"
+    },
+    {
+        "time_elapsed": "+14m36s297ms",
+        "event": "end_job",
+        "uid": "u0a120",
+        "package_name": "com.google.android.googlequicksearchbox",
+        "service": "com.google.android.googlequicksearchbox/com.google.android.apps.gsa.tasks.BackgroundTasksJobService"
+    },
+    {
+        "time_elapsed": "+14m38s179ms",
+        "event": "start_job",
+        "uid": "u0a120",
+        "package_name": "com.google.android.googlequicksearchbox",
+        "service": "com.google.android.googlequicksearchbox/com.google.android.apps.gsa.tasks.BackgroundTasksJobService"
+    },
+    {
+        "time_elapsed": "+14m38s343ms",
+        "event": "end_job",
+        "uid": "u0a120",
+        "package_name": "com.google.android.googlequicksearchbox",
+        "service": "com.google.android.googlequicksearchbox/com.google.android.apps.gsa.tasks.BackgroundTasksJobService"
+    },
+    {
+        "time_elapsed": "+14m39s015ms",
+        "event": "start_job",
+        "uid": "u0a141",
+        "package_name": "com.google.android.apps.photos",
+        "service": "com.google.android.apps.photos/com.google.android.libraries.social.async.BackgroundTaskJobService"
+    },
+    {
+        "time_elapsed": "+14m48s161ms",
+        "event": "start_job",
+        "uid": "u0a108",
+        "package_name": "com.google.android.projection.gearhead",
+        "service": "com.google.android.projection.gearhead/com.google.android.apps.auto.components.app.fzero.LauncherIconStateVerificationService"
+    },
+    {
+        "time_elapsed": "+14m48s327ms",
+        "event": "start_job",
+        "uid": "u0a123",
+        "package_name": "com.google.android.contacts",
+        "service": "com.google.android.contacts/com.google.android.apps.contacts.shortcut.ShortcutJobService"
+    },
+    {
+        "time_elapsed": "+14m48s635ms",
+        "event": "start_job",
+        "uid": "u0a123",
+        "package_name": "com.google.android.contacts",
+        "service": "com.google.android.contacts/androidx.work.impl.background.systemjob.SystemJobService"
+    },
+    {
+        "time_elapsed": "+14m48s826ms",
+        "event": "end_job",
+        "uid": "u0a123",
+        "package_name": "com.google.android.contacts",
+        "service": "com.google.android.contacts/com.google.android.apps.contacts.shortcut.ShortcutJobService"
+    },
+    {
+        "time_elapsed": "+14m50s029ms",
+        "event": "end_job",
+        "uid": "u0a123",
+        "package_name": "com.google.android.contacts",
+        "service": "com.google.android.contacts/androidx.work.impl.background.systemjob.SystemJobService"
+    },
+    {
+        "time_elapsed": "+14m50s931ms",
+        "event": "end_job",
+        "uid": "u0a108",
+        "package_name": "com.google.android.projection.gearhead",
+        "service": "com.google.android.projection.gearhead/com.google.android.apps.auto.components.app.fzero.LauncherIconStateVerificationService"
+    },
+    {
+        "time_elapsed": "+14m52s628ms",
+        "event": "end_job",
+        "uid": "u0a141",
+        "package_name": "com.google.android.apps.photos",
+        "service": "com.google.android.apps.photos/com.google.android.libraries.social.async.BackgroundTaskJobService"
+    },
+    {
+        "time_elapsed": "+15m02s003ms",
+        "event": "start_job",
+        "uid": "u0a105",
+        "package_name": "DownloadManager:com.android.providers.downloads",
+        "service": "DownloadManager:com.android.providers.downloads"
+    },
+    {
+        "time_elapsed": "+15m02s912ms",
+        "event": "end_job",
+        "uid": "u0a105",
+        "package_name": "DownloadManager:com.android.providers.downloads",
+        "service": "DownloadManager:com.android.providers.downloads"
+    },
+    {
+        "time_elapsed": "+15m03s229ms",
+        "event": "start_job",
+        "uid": "u0a105",
+        "package_name": "DownloadManager:com.android.providers.downloads",
+        "service": "DownloadManager:com.android.providers.downloads"
+    },
+    {
+        "time_elapsed": "+15m03s933ms",
+        "event": "end_job",
+        "uid": "u0a105",
+        "package_name": "DownloadManager:com.android.providers.downloads",
+        "service": "DownloadManager:com.android.providers.downloads"
+    },
+    {
+        "time_elapsed": "+15m05s080ms",
+        "event": "start_job",
+        "uid": "u0a104",
+        "package_name": "com.google.android.partnersetup",
+        "service": "com.google.android.partnersetup/.PhenotypeJobService"
+    }
+]

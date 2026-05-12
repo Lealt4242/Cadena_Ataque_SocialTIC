@@ -1,0 +1,19 @@
+[
+    {
+        "package_name": "com.android.shell",
+        "permissions": [
+            {
+                "name": "VIBRATE",
+                "entries": [
+                    {
+                        "access": "Access",
+                        "type": "cch-s",
+                        "timestamp": "2026-04-17 06:42:07.409000"
+                    }
+                ],
+                "access": "allow"
+            }
+        ],
+        "uid": "0"
+    }
+]

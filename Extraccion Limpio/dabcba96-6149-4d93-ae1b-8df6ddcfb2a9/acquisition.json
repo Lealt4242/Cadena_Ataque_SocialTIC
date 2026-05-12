@@ -1,0 +1,12 @@
+{
+ "uuid": "dabcba96-6149-4d93-ae1b-8df6ddcfb2a9",
+ "androidqf_version": "e50ad47",
+ "storage_path": "dabcba96-6149-4d93-ae1b-8df6ddcfb2a9",
+ "started": "2026-04-17T12:15:33.8866783Z",
+ "completed": "0001-01-01T00:00:00Z",
+ "collector": null,
+ "tmp_dir": "/data/local/tmp/",
+ "sdcard": "/sdcard/",
+ "cpu": "x86_64",
+ "streaming_mode": false
+}

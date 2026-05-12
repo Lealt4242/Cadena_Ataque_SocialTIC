@@ -1,0 +1,529 @@
+2026-04-17T06:15:34-06:00 [INFO] Started new acquisition in dabcba96-6149-4d93-ae1b-8df6ddcfb2a9
+2026-04-17T06:15:34-06:00 [INFO] Would you like to take a backup of the device?
+2026-04-17T06:15:37-06:00 [INFO] Generating a backup with argument -all. Please check the device to authorize the backup...
+
+2026-04-17T06:16:54-06:00 [INFO] Backup completed!
+2026-04-17T06:16:54-06:00 [INFO] Collecting information on installed apps. This might take a while...
+2026-04-17T06:20:26-06:00 [INFO] Found a total of 205 installed packages
+2026-04-17T06:20:26-06:00 [INFO] Would you like to download copies of all apps or only non-system ones?
+2026-04-17T06:22:53-06:00 [INFO] Would you like to remove copies of apps signed with a trusted certificate to limit the size of the output folder?
+2026-04-17T06:22:55-06:00 [DEBUG] Found Android package: com.google.android.overlay.pixelconfigcommon
+2026-04-17T06:22:56-06:00 [DEBUG] Downloaded /product/overlay/PixelConfigOverlayCommon.apk to dabcba96-6149-4d93-ae1b-8df6ddcfb2a9\apks\com.google.android.overlay.pixelconfigcommon.apk
+2026-04-17T06:22:56-06:00 [DEBUG] Found Android package: com.android.emergency
+2026-04-17T06:22:57-06:00 [DEBUG] Downloaded /system_ext/priv-app/EmergencyInfo/EmergencyInfo.apk to dabcba96-6149-4d93-ae1b-8df6ddcfb2a9\apks\com.android.emergency.apk
+2026-04-17T06:22:57-06:00 [DEBUG] Found Android package: com.android.traceur.auto_generated_rro_product__
+2026-04-17T06:22:57-06:00 [DEBUG] Downloaded /product/overlay/Traceur__auto_generated_rro_product.apk to dabcba96-6149-4d93-ae1b-8df6ddcfb2a9\apks\com.android.traceur.auto_generated_rro_product__.apk
+2026-04-17T06:22:57-06:00 [DEBUG] Found Android package: com.android.mtp
+2026-04-17T06:22:57-06:00 [DEBUG] Downloaded /system/priv-app/MtpService/MtpService.apk to dabcba96-6149-4d93-ae1b-8df6ddcfb2a9\apks\com.android.mtp.apk
+2026-04-17T06:22:57-06:00 [DEBUG] Found Android package: com.android.internal.display.cutout.emulation.tall
+2026-04-17T06:22:57-06:00 [DEBUG] Downloaded /product/overlay/DisplayCutoutEmulationTall/DisplayCutoutEmulationTallOverlay.apk to dabcba96-6149-4d93-ae1b-8df6ddcfb2a9\apks\com.android.internal.display.cutout.emulation.tall.apk
+2026-04-17T06:22:57-06:00 [DEBUG] Found Android package: com.android.providers.contacts
+2026-04-17T06:22:57-06:00 [DEBUG] Downloaded /system/priv-app/ContactsProvider/ContactsProvider.apk to dabcba96-6149-4d93-ae1b-8df6ddcfb2a9\apks\com.android.providers.contacts.apk
+2026-04-17T06:22:57-06:00 [DEBUG] Found Android package: com.android.emergency.auto_generated_rro_product__
+2026-04-17T06:22:57-06:00 [DEBUG] Downloaded /product/overlay/EmergencyInfo__auto_generated_rro_product.apk to dabcba96-6149-4d93-ae1b-8df6ddcfb2a9\apks\com.android.emergency.auto_generated_rro_product__.apk
+2026-04-17T06:22:57-06:00 [DEBUG] Found Android package: com.google.android.apps.customization.pixel
+2026-04-17T06:22:57-06:00 [DEBUG] Downloaded /product/app/PixelThemesStub/PixelThemesStub.apk to dabcba96-6149-4d93-ae1b-8df6ddcfb2a9\apks\com.google.android.apps.customization.pixel.apk
+2026-04-17T06:22:57-06:00 [DEBUG] Found Android package: com.android.certinstaller
+2026-04-17T06:22:58-06:00 [DEBUG] Downloaded /system/app/CertInstaller/CertInstaller.apk to dabcba96-6149-4d93-ae1b-8df6ddcfb2a9\apks\com.android.certinstaller.apk
+2026-04-17T06:22:58-06:00 [DEBUG] Found Android package: com.google.android.cellbroadcastreceiver
+2026-04-17T06:22:58-06:00 [DEBUG] Downloaded /apex/com.android.cellbroadcast/priv-app/GoogleCellBroadcastApp@331710020/GoogleCellBroadcastApp.apk to dabcba96-6149-4d93-ae1b-8df6ddcfb2a9\apks\com.google.android.cellbroadcastreceiver.apk
+2026-04-17T06:22:58-06:00 [DEBUG] Found Android package: com.google.android.connectivity.resources.goldfish.overlay
+2026-04-17T06:22:59-06:00 [DEBUG] ERROR: failed to download /vendor/overlay/goldfish_overlay_connectivity_google.apk: 
+2026-04-17T06:22:59-06:00 [DEBUG] Found Android package: com.google.android.safetycenter.resources
+2026-04-17T06:22:59-06:00 [DEBUG] Downloaded /apex/com.android.permission/priv-app/GoogleSafetyCenterResources@331710050/GoogleSafetyCenterResources.apk to dabcba96-6149-4d93-ae1b-8df6ddcfb2a9\apks\com.google.android.safetycenter.resources.apk
+2026-04-17T06:22:59-06:00 [DEBUG] Found Android package: com.android.shell
+2026-04-17T06:22:59-06:00 [DEBUG] Downloaded /system/priv-app/Shell/Shell.apk to dabcba96-6149-4d93-ae1b-8df6ddcfb2a9\apks\com.android.shell.apk
+2026-04-17T06:22:59-06:00 [DEBUG] Found Android package: com.android.internal.emulation.pixel_4a
+2026-04-17T06:22:59-06:00 [DEBUG] Downloaded /product/overlay/EmulationPixel4a/EmulationPixel4aOverlay.apk to dabcba96-6149-4d93-ae1b-8df6ddcfb2a9\apks\com.android.internal.emulation.pixel_4a.apk
+2026-04-17T06:22:59-06:00 [DEBUG] Found Android package: com.google.android.deskclock
+2026-04-17T06:22:59-06:00 [DEBUG] Downloaded /product/app/PrebuiltDeskClockGoogle/PrebuiltDeskClockGoogle.apk to dabcba96-6149-4d93-ae1b-8df6ddcfb2a9\apks\com.google.android.deskclock.apk
+2026-04-17T06:23:00-06:00 [DEBUG] Found Android package: com.google.android.marvin.talkback
+2026-04-17T06:23:01-06:00 [DEBUG] Downloaded /product/app/talkback/talkback.apk to dabcba96-6149-4d93-ae1b-8df6ddcfb2a9\apks\com.google.android.marvin.talkback.apk
+2026-04-17T06:23:01-06:00 [DEBUG] Found Android package: com.android.imsserviceentitlement
+2026-04-17T06:23:01-06:00 [DEBUG] Downloaded /product/priv-app/ImsServiceEntitlement/ImsServiceEntitlement.apk to dabcba96-6149-4d93-ae1b-8df6ddcfb2a9\apks\com.android.imsserviceentitlement.apk
+2026-04-17T06:23:01-06:00 [DEBUG] Found Android package: com.android.stk
+2026-04-17T06:23:02-06:00 [DEBUG] Downloaded /system/app/Stk/Stk.apk to dabcba96-6149-4d93-ae1b-8df6ddcfb2a9\apks\com.android.stk.apk
+2026-04-17T06:23:02-06:00 [DEBUG] Found Android package: com.android.wallpaperbackup
+2026-04-17T06:23:02-06:00 [DEBUG] Downloaded /system/app/WallpaperBackup/WallpaperBackup.apk to dabcba96-6149-4d93-ae1b-8df6ddcfb2a9\apks\com.android.wallpaperbackup.apk
+2026-04-17T06:23:02-06:00 [DEBUG] Found Android package: com.google.android.gms.supervision
+2026-04-17T06:23:02-06:00 [DEBUG] Downloaded /product/priv-app/KidsSupervisionStub/KidsSupervisionStub.apk to dabcba96-6149-4d93-ae1b-8df6ddcfb2a9\apks\com.google.android.gms.supervision.apk
+2026-04-17T06:23:02-06:00 [DEBUG] Found Android package: com.google.android.as
+2026-04-17T06:23:06-06:00 [DEBUG] Downloaded /product/priv-app/DevicePersonalizationPrebuiltPixel2021/DevicePersonalizationPrebuiltPixel2021.apk to dabcba96-6149-4d93-ae1b-8df6ddcfb2a9\apks\com.google.android.as.apk
+2026-04-17T06:23:06-06:00 [DEBUG] Found Android package: com.android.systemui.emulation.pixel_4a
+2026-04-17T06:23:06-06:00 [DEBUG] Downloaded /product/overlay/SystemUIEmulationPixel4a/SystemUIEmulationPixel4aOverlay.apk to dabcba96-6149-4d93-ae1b-8df6ddcfb2a9\apks\com.android.systemui.emulation.pixel_4a.apk
+2026-04-17T06:23:06-06:00 [DEBUG] Found Android package: com.android.localtransport
+2026-04-17T06:23:06-06:00 [DEBUG] Downloaded /system/priv-app/LocalTransport/LocalTransport.apk to dabcba96-6149-4d93-ae1b-8df6ddcfb2a9\apks\com.android.localtransport.apk
+2026-04-17T06:23:06-06:00 [DEBUG] Found Android package: com.google.android.ondevicepersonalization.services
+2026-04-17T06:23:06-06:00 [DEBUG] Downloaded /apex/com.android.ondevicepersonalization/app/OnDevicePersonalizationGoogle@330442040/OnDevicePersonalizationGoogle.apk to dabcba96-6149-4d93-ae1b-8df6ddcfb2a9\apks\com.google.android.ondevicepersonalization.services.apk
+2026-04-17T06:23:06-06:00 [DEBUG] Found Android package: com.google.android.apps.nexuslauncher
+2026-04-17T06:23:07-06:00 [DEBUG] Downloaded /system_ext/priv-app/NexusLauncherRelease/NexusLauncherRelease.apk to dabcba96-6149-4d93-ae1b-8df6ddcfb2a9\apks\com.google.android.apps.nexuslauncher.apk
+2026-04-17T06:23:08-06:00 [DEBUG] Found Android package: com.android.simappdialog
+2026-04-17T06:23:08-06:00 [DEBUG] Downloaded /system/app/SimAppDialog/SimAppDialog.apk to dabcba96-6149-4d93-ae1b-8df6ddcfb2a9\apks\com.android.simappdialog.apk
+2026-04-17T06:23:08-06:00 [DEBUG] Found Android package: com.google.android.overlay.googleconfig
+2026-04-17T06:23:08-06:00 [DEBUG] Downloaded /product/overlay/GoogleConfigOverlay.apk to dabcba96-6149-4d93-ae1b-8df6ddcfb2a9\apks\com.google.android.overlay.googleconfig.apk
+2026-04-17T06:23:08-06:00 [DEBUG] Found Android package: android.auto_generated_rro_vendor__
+2026-04-17T06:23:08-06:00 [DEBUG] ERROR: failed to download /vendor/overlay/framework-res__auto_generated_rro_vendor.apk: 
+2026-04-17T06:23:08-06:00 [DEBUG] Found Android package: com.android.phone
+2026-04-17T06:23:08-06:00 [DEBUG] Downloaded /system/priv-app/TeleService/TeleService.apk to dabcba96-6149-4d93-ae1b-8df6ddcfb2a9\apks\com.android.phone.apk
+2026-04-17T06:23:09-06:00 [DEBUG] Found Android package: com.google.android.sdksandbox
+2026-04-17T06:23:09-06:00 [DEBUG] Downloaded /apex/com.android.adservices/app/SdkSandboxGoogle@331710270/SdkSandboxGoogle.apk to dabcba96-6149-4d93-ae1b-8df6ddcfb2a9\apks\com.google.android.sdksandbox.apk
+2026-04-17T06:23:09-06:00 [DEBUG] Found Android package: com.android.providers.calendar
+2026-04-17T06:23:09-06:00 [DEBUG] Downloaded /system/priv-app/CalendarProvider/CalendarProvider.apk to dabcba96-6149-4d93-ae1b-8df6ddcfb2a9\apks\com.android.providers.calendar.apk
+2026-04-17T06:23:09-06:00 [DEBUG] Found Android package: com.android.keychain
+2026-04-17T06:23:09-06:00 [DEBUG] Downloaded /system/app/KeyChain/KeyChain.apk to dabcba96-6149-4d93-ae1b-8df6ddcfb2a9\apks\com.android.keychain.apk
+2026-04-17T06:23:09-06:00 [DEBUG] Found Android package: com.google.android.calendar
+2026-04-17T06:23:11-06:00 [DEBUG] Downloaded /product/app/CalendarGooglePrebuilt/CalendarGooglePrebuilt.apk to dabcba96-6149-4d93-ae1b-8df6ddcfb2a9\apks\com.google.android.calendar.apk
+2026-04-17T06:23:11-06:00 [DEBUG] Found Android package: com.android.providers.downloads
+2026-04-17T06:23:11-06:00 [DEBUG] Downloaded /system/priv-app/DownloadProvider/DownloadProvider.apk to dabcba96-6149-4d93-ae1b-8df6ddcfb2a9\apks\com.android.providers.downloads.apk
+2026-04-17T06:23:11-06:00 [DEBUG] Found Android package: com.android.pacprocessor
+2026-04-17T06:23:11-06:00 [DEBUG] Downloaded /system/app/PacProcessor/PacProcessor.apk to dabcba96-6149-4d93-ae1b-8df6ddcfb2a9\apks\com.android.pacprocessor.apk
+2026-04-17T06:23:11-06:00 [DEBUG] Found Android package: com.google.android.onetimeinitializer
+2026-04-17T06:23:11-06:00 [DEBUG] Downloaded /product/priv-app/GoogleOneTimeInitializer/GoogleOneTimeInitializer.apk to dabcba96-6149-4d93-ae1b-8df6ddcfb2a9\apks\com.google.android.onetimeinitializer.apk
+2026-04-17T06:23:11-06:00 [DEBUG] Found Android package: com.google.android.bluetooth
+2026-04-17T06:23:12-06:00 [DEBUG] Downloaded /apex/com.android.btservices/app/BluetoothGoogle@331911000/BluetoothGoogle.apk to dabcba96-6149-4d93-ae1b-8df6ddcfb2a9\apks\com.google.android.bluetooth.apk
+2026-04-17T06:23:12-06:00 [DEBUG] Found Android package: com.android.chrome
+2026-04-17T06:23:13-06:00 [DEBUG] Downloaded /data/app/~~hifNExmIxFkVQcuZ154FbA==/com.android.chrome-FvPv7TImtIZzZhbxp6JrQQ==/Chrome.apk to dabcba96-6149-4d93-ae1b-8df6ddcfb2a9\apks\com.android.chrome_com.android.chrome-FvPv7TImtIZzZhbxp6JrQQ.apk
+2026-04-17T06:23:13-06:00 [DEBUG] Found Android package: com.android.internal.emulation.pixel_7_pro
+2026-04-17T06:23:13-06:00 [DEBUG] Downloaded /product/overlay/EmulationPixel7Pro/EmulationPixel7ProOverlay.apk to dabcba96-6149-4d93-ae1b-8df6ddcfb2a9\apks\com.android.internal.emulation.pixel_7_pro.apk
+2026-04-17T06:23:13-06:00 [DEBUG] Found Android package: com.android.server.telecom.auto_generated_rro_product__
+2026-04-17T06:23:14-06:00 [DEBUG] Downloaded /product/overlay/Telecom__auto_generated_rro_product.apk to dabcba96-6149-4d93-ae1b-8df6ddcfb2a9\apks\com.android.server.telecom.auto_generated_rro_product__.apk
+2026-04-17T06:23:14-06:00 [DEBUG] Found Android package: com.google.android.odad
+2026-04-17T06:23:14-06:00 [DEBUG] Downloaded /product/priv-app/OdadPrebuilt/OdadPrebuilt.apk to dabcba96-6149-4d93-ae1b-8df6ddcfb2a9\apks\com.google.android.odad.apk
+2026-04-17T06:23:14-06:00 [DEBUG] Found Android package: com.google.android.configupdater
+2026-04-17T06:23:14-06:00 [DEBUG] Downloaded /product/priv-app/ConfigUpdater/ConfigUpdater.apk to dabcba96-6149-4d93-ae1b-8df6ddcfb2a9\apks\com.google.android.configupdater.apk
+2026-04-17T06:23:14-06:00 [DEBUG] Found Android package: com.breel.wallpapers18
+2026-04-17T06:23:20-06:00 [DEBUG] Downloaded /product/app/WallpapersBReel2018/WallpapersBReel2018.apk to dabcba96-6149-4d93-ae1b-8df6ddcfb2a9\apks\com.breel.wallpapers18.apk
+2026-04-17T06:23:21-06:00 [DEBUG] Found Android package: com.android.backupconfirm
+2026-04-17T06:23:21-06:00 [DEBUG] Downloaded /system/priv-app/BackupRestoreConfirmation/BackupRestoreConfirmation.apk to dabcba96-6149-4d93-ae1b-8df6ddcfb2a9\apks\com.android.backupconfirm.apk
+2026-04-17T06:23:21-06:00 [DEBUG] Found Android package: com.android.internal.display.cutout.emulation.double
+2026-04-17T06:23:21-06:00 [DEBUG] Downloaded /product/overlay/DisplayCutoutEmulationDouble/DisplayCutoutEmulationDoubleOverlay.apk to dabcba96-6149-4d93-ae1b-8df6ddcfb2a9\apks\com.android.internal.display.cutout.emulation.double.apk
+2026-04-17T06:23:21-06:00 [DEBUG] Found Android package: com.google.android.marvin.talkbackoverlay
+2026-04-17T06:23:21-06:00 [DEBUG] ERROR: failed to download /vendor/overlay/EmulatorTalkBackOverlay/EmulatorTalkBackOverlay.apk: 
+2026-04-17T06:23:21-06:00 [DEBUG] Found Android package: com.android.inputdevices
+2026-04-17T06:23:22-06:00 [DEBUG] Downloaded /system/priv-app/InputDevices/InputDevices.apk to dabcba96-6149-4d93-ae1b-8df6ddcfb2a9\apks\com.android.inputdevices.apk
+2026-04-17T06:23:22-06:00 [DEBUG] Found Android package: com.android.se
+2026-04-17T06:23:22-06:00 [DEBUG] Downloaded /system/app/SecureElement/SecureElement.apk to dabcba96-6149-4d93-ae1b-8df6ddcfb2a9\apks\com.android.se.apk
+2026-04-17T06:23:22-06:00 [DEBUG] Found Android package: com.android.systemui.emulation.pixel_7_pro
+2026-04-17T06:23:22-06:00 [DEBUG] Downloaded /product/overlay/SystemUIEmulationPixel7Pro/SystemUIEmulationPixel7ProOverlay.apk to dabcba96-6149-4d93-ae1b-8df6ddcfb2a9\apks\com.android.systemui.emulation.pixel_7_pro.apk
+2026-04-17T06:23:22-06:00 [DEBUG] Found Android package: com.google.android.systemui.gxoverlay
+2026-04-17T06:23:22-06:00 [DEBUG] Downloaded /product/overlay/SystemUIGXOverlay.apk to dabcba96-6149-4d93-ae1b-8df6ddcfb2a9\apks\com.google.android.systemui.gxoverlay.apk
+2026-04-17T06:23:22-06:00 [DEBUG] Found Android package: com.google.android.projection.gearhead
+2026-04-17T06:23:22-06:00 [DEBUG] Downloaded /product/priv-app/AndroidAutoStubPrebuilt/AndroidAutoStubPrebuilt.apk to dabcba96-6149-4d93-ae1b-8df6ddcfb2a9\apks\com.google.android.projection.gearhead.apk
+2026-04-17T06:23:22-06:00 [DEBUG] Found Android package: com.google.android.overlay.permissioncontroller
+2026-04-17T06:23:23-06:00 [DEBUG] Downloaded /product/overlay/GooglePermissionControllerOverlay.apk to dabcba96-6149-4d93-ae1b-8df6ddcfb2a9\apks\com.google.android.overlay.permissioncontroller.apk
+2026-04-17T06:23:23-06:00 [DEBUG] Found Android package: com.android.bips.auto_generated_rro_product__
+2026-04-17T06:23:23-06:00 [DEBUG] Downloaded /product/overlay/BuiltInPrintService__auto_generated_rro_product.apk to dabcba96-6149-4d93-ae1b-8df6ddcfb2a9\apks\com.android.bips.auto_generated_rro_product__.apk
+2026-04-17T06:23:23-06:00 [DEBUG] Found Android package: com.android.internal.emulation.pixel_2_xl
+2026-04-17T06:23:23-06:00 [DEBUG] Downloaded /product/overlay/EmulationPixel2XL/EmulationPixel2XLOverlay.apk to dabcba96-6149-4d93-ae1b-8df6ddcfb2a9\apks\com.android.internal.emulation.pixel_2_xl.apk
+2026-04-17T06:23:23-06:00 [DEBUG] Found Android package: com.android.htmlviewer
+2026-04-17T06:23:23-06:00 [DEBUG] Downloaded /system/app/HTMLViewer/HTMLViewer.apk to dabcba96-6149-4d93-ae1b-8df6ddcfb2a9\apks\com.android.htmlviewer.apk
+2026-04-17T06:23:23-06:00 [DEBUG] Found Android package: com.android.systemui.emulation.pixel_4_xl
+2026-04-17T06:23:24-06:00 [DEBUG] Downloaded /product/overlay/SystemUIEmulationPixel4XL/SystemUIEmulationPixel4XLOverlay.apk to dabcba96-6149-4d93-ae1b-8df6ddcfb2a9\apks\com.android.systemui.emulation.pixel_4_xl.apk
+2026-04-17T06:23:24-06:00 [DEBUG] Found Android package: com.android.sharedstoragebackup
+2026-04-17T06:23:24-06:00 [DEBUG] Downloaded /system/priv-app/SharedStorageBackup/SharedStorageBackup.apk to dabcba96-6149-4d93-ae1b-8df6ddcfb2a9\apks\com.android.sharedstoragebackup.apk
+2026-04-17T06:23:24-06:00 [DEBUG] Found Android package: com.google.android.dialer
+2026-04-17T06:23:29-06:00 [DEBUG] Downloaded /product/priv-app/GoogleDialer/GoogleDialer.apk to dabcba96-6149-4d93-ae1b-8df6ddcfb2a9\apks\com.google.android.dialer.apk
+2026-04-17T06:23:29-06:00 [DEBUG] Found Android package: com.android.musicfx
+2026-04-17T06:23:29-06:00 [DEBUG] Downloaded /system/priv-app/MusicFX/MusicFX.apk to dabcba96-6149-4d93-ae1b-8df6ddcfb2a9\apks\com.android.musicfx.apk
+2026-04-17T06:23:29-06:00 [DEBUG] Found Android package: com.google.android.cellbroadcastservice
+2026-04-17T06:23:30-06:00 [DEBUG] Downloaded /apex/com.android.cellbroadcast/priv-app/GoogleCellBroadcastServiceModule@331710020/GoogleCellBroadcastServiceModule.apk to dabcba96-6149-4d93-ae1b-8df6ddcfb2a9\apks\com.google.android.cellbroadcastservice.apk
+2026-04-17T06:23:30-06:00 [DEBUG] Found Android package: com.android.internal.emulation.pixel_5
+2026-04-17T06:23:30-06:00 [DEBUG] Downloaded /product/overlay/EmulationPixel5/EmulationPixel5Overlay.apk to dabcba96-6149-4d93-ae1b-8df6ddcfb2a9\apks\com.android.internal.emulation.pixel_5.apk
+2026-04-17T06:23:30-06:00 [DEBUG] Found Android package: com.android.internal.display.cutout.emulation.waterfall
+2026-04-17T06:23:30-06:00 [DEBUG] Downloaded /product/overlay/DisplayCutoutEmulationWaterfall/DisplayCutoutEmulationWaterfallOverlay.apk to dabcba96-6149-4d93-ae1b-8df6ddcfb2a9\apks\com.android.internal.display.cutout.emulation.waterfall.apk
+2026-04-17T06:23:30-06:00 [DEBUG] Found Android package: com.android.providers.telephony.auto_generated_rro_product__
+2026-04-17T06:23:30-06:00 [DEBUG] Downloaded /product/overlay/TelephonyProvider__auto_generated_rro_product.apk to dabcba96-6149-4d93-ae1b-8df6ddcfb2a9\apks\com.android.providers.telephony.auto_generated_rro_product__.apk
+2026-04-17T06:23:30-06:00 [DEBUG] Found Android package: com.android.emulator.multidisplay
+2026-04-17T06:23:30-06:00 [DEBUG] Downloaded /system_ext/priv-app/MultiDisplayProvider/MultiDisplayProvider.apk to dabcba96-6149-4d93-ae1b-8df6ddcfb2a9\apks\com.android.emulator.multidisplay.apk
+2026-04-17T06:23:30-06:00 [DEBUG] Found Android package: com.google.android.apps.docs
+2026-04-17T06:23:32-06:00 [DEBUG] Downloaded /product/app/Drive/Drive.apk to dabcba96-6149-4d93-ae1b-8df6ddcfb2a9\apks\com.google.android.apps.docs.apk
+2026-04-17T06:23:33-06:00 [DEBUG] Found Android package: com.google.android.adservices.api
+2026-04-17T06:23:36-06:00 [DEBUG] Downloaded /apex/com.android.adservices/priv-app/AdServicesApkGoogle@331710270/AdServicesApkGoogle.apk to dabcba96-6149-4d93-ae1b-8df6ddcfb2a9\apks\com.google.android.adservices.api.apk
+2026-04-17T06:23:36-06:00 [DEBUG] Found Android package: com.google.android.ext.shared
+2026-04-17T06:23:36-06:00 [DEBUG] Downloaded /system/app/GoogleExtShared/GoogleExtShared.apk to dabcba96-6149-4d93-ae1b-8df6ddcfb2a9\apks\com.google.android.ext.shared.apk
+2026-04-17T06:23:36-06:00 [DEBUG] Found Android package: com.google.android.apps.restore
+2026-04-17T06:23:36-06:00 [DEBUG] Downloaded /product/priv-app/GoogleRestorePrebuilt/GoogleRestorePrebuilt.apk to dabcba96-6149-4d93-ae1b-8df6ddcfb2a9\apks\com.google.android.apps.restore.apk
+2026-04-17T06:23:36-06:00 [DEBUG] Found Android package: com.android.wallpaper.livepicker
+2026-04-17T06:23:37-06:00 [DEBUG] Downloaded /system/priv-app/LiveWallpapersPicker/LiveWallpapersPicker.apk to dabcba96-6149-4d93-ae1b-8df6ddcfb2a9\apks\com.android.wallpaper.livepicker.apk
+2026-04-17T06:23:37-06:00 [DEBUG] Found Android package: com.google.android.partnersetup
+2026-04-17T06:23:37-06:00 [DEBUG] Downloaded /product/priv-app/PartnerSetupPrebuilt/PartnerSetupPrebuilt.apk to dabcba96-6149-4d93-ae1b-8df6ddcfb2a9\apks\com.google.android.partnersetup.apk
+2026-04-17T06:23:37-06:00 [DEBUG] Found Android package: com.google.android.contacts
+2026-04-17T06:23:38-06:00 [DEBUG] Downloaded /product/app/GoogleContacts/GoogleContacts.apk to dabcba96-6149-4d93-ae1b-8df6ddcfb2a9\apks\com.google.android.contacts.apk
+2026-04-17T06:23:38-06:00 [DEBUG] Found Android package: com.android.soundpicker
+2026-04-17T06:23:38-06:00 [DEBUG] Downloaded /system/priv-app/SoundPicker/SoundPicker.apk to dabcba96-6149-4d93-ae1b-8df6ddcfb2a9\apks\com.android.soundpicker.apk
+2026-04-17T06:23:38-06:00 [DEBUG] Found Android package: com.android.bookmarkprovider
+2026-04-17T06:23:38-06:00 [DEBUG] Downloaded /system/app/BookmarkProvider/BookmarkProvider.apk to dabcba96-6149-4d93-ae1b-8df6ddcfb2a9\apks\com.android.bookmarkprovider.apk
+2026-04-17T06:23:38-06:00 [DEBUG] Found Android package: com.google.android.tag
+2026-04-17T06:23:38-06:00 [DEBUG] Downloaded /system/priv-app/TagGoogle/TagGoogle.apk to dabcba96-6149-4d93-ae1b-8df6ddcfb2a9\apks\com.google.android.tag.apk
+2026-04-17T06:23:39-06:00 [DEBUG] Found Android package: com.android.systemui.emulation.pixel_6
+2026-04-17T06:23:39-06:00 [DEBUG] Downloaded /product/overlay/SystemUIEmulationPixel6/SystemUIEmulationPixel6Overlay.apk to dabcba96-6149-4d93-ae1b-8df6ddcfb2a9\apks\com.android.systemui.emulation.pixel_6.apk
+2026-04-17T06:23:39-06:00 [DEBUG] Found Android package: com.android.systemui.auto_generated_rro_vendor__
+2026-04-17T06:23:39-06:00 [DEBUG] ERROR: failed to download /vendor/overlay/SystemUIGoogle__auto_generated_rro_vendor.apk: 
+2026-04-17T06:23:39-06:00 [DEBUG] Found Android package: com.android.systemui.emulation.pixel_3
+2026-04-17T06:23:39-06:00 [DEBUG] Downloaded /product/overlay/SystemUIEmulationPixel3/SystemUIEmulationPixel3Overlay.apk to dabcba96-6149-4d93-ae1b-8df6ddcfb2a9\apks\com.android.systemui.emulation.pixel_3.apk
+2026-04-17T06:23:39-06:00 [DEBUG] Found Android package: com.google.android.wifi.resources
+2026-04-17T06:23:39-06:00 [DEBUG] Downloaded /apex/com.android.wifi/priv-app/ServiceWifiResourcesGoogle@331710030/ServiceWifiResourcesGoogle.apk to dabcba96-6149-4d93-ae1b-8df6ddcfb2a9\apks\com.google.android.wifi.resources.apk
+2026-04-17T06:23:39-06:00 [DEBUG] Found Android package: com.android.storagemanager
+2026-04-17T06:23:39-06:00 [DEBUG] Downloaded /system_ext/priv-app/StorageManager/StorageManager.apk to dabcba96-6149-4d93-ae1b-8df6ddcfb2a9\apks\com.android.storagemanager.apk
+2026-04-17T06:23:39-06:00 [DEBUG] Found Android package: com.android.internal.systemui.navbar.twobutton
+2026-04-17T06:23:40-06:00 [DEBUG] Downloaded /product/overlay/NavigationBarMode2Button/NavigationBarMode2ButtonOverlay.apk to dabcba96-6149-4d93-ae1b-8df6ddcfb2a9\apks\com.android.internal.systemui.navbar.twobutton.apk
+2026-04-17T06:23:40-06:00 [DEBUG] Found Android package: com.android.intentresolver
+2026-04-17T06:23:40-06:00 [DEBUG] Downloaded /system/priv-app/IntentResolver/IntentResolver.apk to dabcba96-6149-4d93-ae1b-8df6ddcfb2a9\apks\com.android.intentresolver.apk
+2026-04-17T06:23:40-06:00 [DEBUG] Found Android package: com.google.android.networkstack
+2026-04-17T06:23:40-06:00 [DEBUG] Downloaded /system/priv-app/NetworkStackGoogle/NetworkStackGoogle.apk to dabcba96-6149-4d93-ae1b-8df6ddcfb2a9\apks\com.google.android.networkstack.apk
+2026-04-17T06:23:40-06:00 [DEBUG] Found Android package: com.android.providers.downloads.ui
+2026-04-17T06:23:40-06:00 [DEBUG] Downloaded /system/priv-app/DownloadProviderUi/DownloadProviderUi.apk to dabcba96-6149-4d93-ae1b-8df6ddcfb2a9\apks\com.android.providers.downloads.ui.apk
+2026-04-17T06:23:40-06:00 [DEBUG] Found Android package: com.android.internal.display.cutout.emulation.emu01
+2026-04-17T06:23:40-06:00 [DEBUG] Downloaded /product/overlay/DisplayCutoutEmulationEmu01/DisplayCutoutEmulationEmu01Overlay.apk to dabcba96-6149-4d93-ae1b-8df6ddcfb2a9\apks\com.android.internal.display.cutout.emulation.emu01.apk
+2026-04-17T06:23:40-06:00 [DEBUG] Found Android package: com.google.android.overlay.googlewebview
+2026-04-17T06:23:40-06:00 [DEBUG] Downloaded /product/overlay/GoogleWebViewOverlay.apk to dabcba96-6149-4d93-ae1b-8df6ddcfb2a9\apks\com.google.android.overlay.googlewebview.apk
+2026-04-17T06:23:40-06:00 [DEBUG] Found Android package: com.android.nfc.auto_generated_rro_product__
+2026-04-17T06:23:40-06:00 [DEBUG] Downloaded /product/overlay/NfcNci__auto_generated_rro_product.apk to dabcba96-6149-4d93-ae1b-8df6ddcfb2a9\apks\com.android.nfc.auto_generated_rro_product__.apk
+2026-04-17T06:23:40-06:00 [DEBUG] Found Android package: com.android.internal.systemui.navbar.gestural_narrow_back
+2026-04-17T06:23:40-06:00 [DEBUG] Downloaded /product/overlay/NavigationBarModeGesturalNarrowBack/NavigationBarModeGesturalOverlayNarrowBack.apk to dabcba96-6149-4d93-ae1b-8df6ddcfb2a9\apks\com.android.internal.systemui.navbar.gestural_narrow_back.apk
+2026-04-17T06:23:40-06:00 [DEBUG] Found Android package: com.android.systemui.plugin.globalactions.wallet
+2026-04-17T06:23:41-06:00 [DEBUG] Downloaded /system_ext/priv-app/QuickAccessWallet/QuickAccessWallet.apk to dabcba96-6149-4d93-ae1b-8df6ddcfb2a9\apks\com.android.systemui.plugin.globalactions.wallet.apk
+2026-04-17T06:23:41-06:00 [DEBUG] Found Android package: com.android.traceur
+2026-04-17T06:23:41-06:00 [DEBUG] Downloaded /system/app/Traceur/Traceur.apk to dabcba96-6149-4d93-ae1b-8df6ddcfb2a9\apks\com.android.traceur.apk
+2026-04-17T06:23:41-06:00 [DEBUG] Found Android package: com.google.android.apps.wellbeing
+2026-04-17T06:23:42-06:00 [DEBUG] Downloaded /product/priv-app/WellbeingPrebuilt/WellbeingPrebuilt.apk to dabcba96-6149-4d93-ae1b-8df6ddcfb2a9\apks\com.google.android.apps.wellbeing.apk
+2026-04-17T06:23:42-06:00 [DEBUG] Found Android package: com.google.android.webview
+2026-04-17T06:23:47-06:00 [DEBUG] Downloaded /data/app/~~qlSaOuPfouWWvu6iE35r0A==/com.google.android.webview-68UJo1CuwkKiEEoQOez41A==/WebViewGoogle.apk to dabcba96-6149-4d93-ae1b-8df6ddcfb2a9\apks\com.google.android.webview_com.google.android.webview-68UJo1CuwkKiEEoQOez41A.apk
+2026-04-17T06:23:47-06:00 [DEBUG] Found Android package: com.android.calllogbackup
+2026-04-17T06:23:47-06:00 [DEBUG] Downloaded /system/priv-app/CallLogBackup/CallLogBackup.apk to dabcba96-6149-4d93-ae1b-8df6ddcfb2a9\apks\com.android.calllogbackup.apk
+2026-04-17T06:23:47-06:00 [DEBUG] Found Android package: com.google.android.feedback
+2026-04-17T06:23:47-06:00 [DEBUG] Downloaded /system_ext/priv-app/GoogleFeedback/GoogleFeedback.apk to dabcba96-6149-4d93-ae1b-8df6ddcfb2a9\apks\com.google.android.feedback.apk
+2026-04-17T06:23:47-06:00 [DEBUG] Found Android package: com.android.companiondevicemanager
+2026-04-17T06:23:47-06:00 [DEBUG] Downloaded /system/app/CompanionDeviceManager/CompanionDeviceManager.apk to dabcba96-6149-4d93-ae1b-8df6ddcfb2a9\apks\com.android.companiondevicemanager.apk
+2026-04-17T06:23:47-06:00 [DEBUG] Found Android package: com.google.android.documentsui
+2026-04-17T06:23:48-06:00 [DEBUG] Downloaded /system/priv-app/DocumentsUIGoogle/DocumentsUIGoogle.apk to dabcba96-6149-4d93-ae1b-8df6ddcfb2a9\apks\com.google.android.documentsui.apk
+2026-04-17T06:23:48-06:00 [DEBUG] Found Android package: com.android.providers.settings
+2026-04-17T06:23:48-06:00 [DEBUG] Downloaded /system/priv-app/SettingsProvider/SettingsProvider.apk to dabcba96-6149-4d93-ae1b-8df6ddcfb2a9\apks\com.android.providers.settings.apk
+2026-04-17T06:23:48-06:00 [DEBUG] Found Android package: com.google.android.apps.messaging
+2026-04-17T06:23:52-06:00 [DEBUG] Downloaded /product/priv-app/PrebuiltBugle/PrebuiltBugle.apk to dabcba96-6149-4d93-ae1b-8df6ddcfb2a9\apks\com.google.android.apps.messaging.apk
+2026-04-17T06:23:52-06:00 [DEBUG] Found Android package: com.android.internal.emulation.pixel_4_xl
+2026-04-17T06:23:52-06:00 [DEBUG] Downloaded /product/overlay/EmulationPixel4XL/EmulationPixel4XLOverlay.apk to dabcba96-6149-4d93-ae1b-8df6ddcfb2a9\apks\com.android.internal.emulation.pixel_4_xl.apk
+2026-04-17T06:23:52-06:00 [DEBUG] Found Android package: com.google.mainline.adservices
+2026-04-17T06:23:52-06:00 [DEBUG] Downloaded /product/app/PrebuiltGoogleAdservicesTvp/PrebuiltGoogleAdservicesTvp.apk to dabcba96-6149-4d93-ae1b-8df6ddcfb2a9\apks\com.google.mainline.adservices.apk
+2026-04-17T06:23:52-06:00 [DEBUG] Found Android package: com.android.internal.emulation.pixel_3_xl
+2026-04-17T06:23:52-06:00 [DEBUG] Downloaded /product/overlay/EmulationPixel3XL/EmulationPixel3XLOverlay.apk to dabcba96-6149-4d93-ae1b-8df6ddcfb2a9\apks\com.android.internal.emulation.pixel_3_xl.apk
+2026-04-17T06:23:52-06:00 [DEBUG] Found Android package: com.google.android.inputmethod.latin
+2026-04-17T06:23:56-06:00 [DEBUG] Downloaded /product/app/LatinIMEGooglePrebuilt/LatinIMEGooglePrebuilt.apk to dabcba96-6149-4d93-ae1b-8df6ddcfb2a9\apks\com.google.android.inputmethod.latin.apk
+2026-04-17T06:23:57-06:00 [DEBUG] Found Android package: com.google.android.networkstack.tethering.emulator
+2026-04-17T06:23:57-06:00 [DEBUG] Downloaded /product/overlay/EmulatorTetheringGoogleConfigOverlay.apk to dabcba96-6149-4d93-ae1b-8df6ddcfb2a9\apks\com.google.android.networkstack.tethering.emulator.apk
+2026-04-17T06:23:57-06:00 [DEBUG] Found Android package: com.google.android.printservice.recommendation
+2026-04-17T06:23:57-06:00 [DEBUG] Downloaded /system/app/GooglePrintRecommendationService/GooglePrintRecommendationService.apk to dabcba96-6149-4d93-ae1b-8df6ddcfb2a9\apks\com.google.android.printservice.recommendation.apk
+2026-04-17T06:23:57-06:00 [DEBUG] Found Android package: com.google.android.networkstack.tethering
+2026-04-17T06:23:58-06:00 [DEBUG] Downloaded /apex/com.android.tethering/priv-app/TetheringGoogle@331711040/TetheringGoogle.apk to dabcba96-6149-4d93-ae1b-8df6ddcfb2a9\apks\com.google.android.networkstack.tethering.apk
+2026-04-17T06:23:58-06:00 [DEBUG] Found Android package: com.google.android.gsf
+2026-04-17T06:23:58-06:00 [DEBUG] Downloaded /system_ext/priv-app/GoogleServicesFramework/GoogleServicesFramework.apk to dabcba96-6149-4d93-ae1b-8df6ddcfb2a9\apks\com.google.android.gsf.apk
+2026-04-17T06:23:58-06:00 [DEBUG] Found Android package: com.google.android.gms
+2026-04-17T06:24:04-06:00 [DEBUG] Downloaded /product/priv-app/PrebuiltGmsCore/PrebuiltGmsCore.apk to dabcba96-6149-4d93-ae1b-8df6ddcfb2a9\apks\com.google.android.gms.apk
+2026-04-17T06:24:04-06:00 [DEBUG] Found Android package: com.google.android.as.oss
+2026-04-17T06:24:05-06:00 [DEBUG] Downloaded /product/priv-app/DeviceIntelligenceNetworkPrebuilt/DeviceIntelligenceNetworkPrebuilt.apk to dabcba96-6149-4d93-ae1b-8df6ddcfb2a9\apks\com.google.android.as.oss.apk
+2026-04-17T06:24:05-06:00 [DEBUG] Found Android package: com.google.android.tts
+2026-04-17T06:24:08-06:00 [DEBUG] Downloaded /product/app/GoogleTTS/GoogleTTS.apk to dabcba96-6149-4d93-ae1b-8df6ddcfb2a9\apks\com.google.android.tts.apk
+2026-04-17T06:24:08-06:00 [DEBUG] Found Android package: com.android.providers.contacts.auto_generated_rro_product__
+2026-04-17T06:24:08-06:00 [DEBUG] Downloaded /product/overlay/ContactsProvider__auto_generated_rro_product.apk to dabcba96-6149-4d93-ae1b-8df6ddcfb2a9\apks\com.android.providers.contacts.auto_generated_rro_product__.apk
+2026-04-17T06:24:08-06:00 [DEBUG] Found Android package: com.android.nfc
+2026-04-17T06:24:09-06:00 [DEBUG] Downloaded /system/app/NfcNci/NfcNci.apk to dabcba96-6149-4d93-ae1b-8df6ddcfb2a9\apks\com.android.nfc.apk
+2026-04-17T06:24:09-06:00 [DEBUG] Found Android package: com.android.settings
+2026-04-17T06:24:12-06:00 [DEBUG] Downloaded /system_ext/priv-app/SettingsGoogle/SettingsGoogle.apk to dabcba96-6149-4d93-ae1b-8df6ddcfb2a9\apks\com.android.settings.apk
+2026-04-17T06:24:12-06:00 [DEBUG] Found Android package: com.android.internal.emulation.pixel_6a
+2026-04-17T06:24:12-06:00 [DEBUG] Downloaded /product/overlay/EmulationPixel6a/EmulationPixel6aOverlay.apk to dabcba96-6149-4d93-ae1b-8df6ddcfb2a9\apks\com.android.internal.emulation.pixel_6a.apk
+2026-04-17T06:24:12-06:00 [DEBUG] Found Android package: com.android.internal.display.cutout.emulation.corner
+2026-04-17T06:24:12-06:00 [DEBUG] Downloaded /product/overlay/DisplayCutoutEmulationCorner/DisplayCutoutEmulationCornerOverlay.apk to dabcba96-6149-4d93-ae1b-8df6ddcfb2a9\apks\com.android.internal.display.cutout.emulation.corner.apk
+2026-04-17T06:24:12-06:00 [DEBUG] Found Android package: com.android.systemui.emulation.pixel_6a
+2026-04-17T06:24:12-06:00 [DEBUG] Downloaded /product/overlay/SystemUIEmulationPixel6a/SystemUIEmulationPixel6aOverlay.apk to dabcba96-6149-4d93-ae1b-8df6ddcfb2a9\apks\com.android.systemui.emulation.pixel_6a.apk
+2026-04-17T06:24:12-06:00 [DEBUG] Found Android package: com.android.location.fused
+2026-04-17T06:24:12-06:00 [DEBUG] Downloaded /system/priv-app/FusedLocation/FusedLocation.apk to dabcba96-6149-4d93-ae1b-8df6ddcfb2a9\apks\com.android.location.fused.apk
+2026-04-17T06:24:12-06:00 [DEBUG] Found Android package: com.android.cameraextensions
+2026-04-17T06:24:13-06:00 [DEBUG] Downloaded /system/app/CameraExtensionsProxy/CameraExtensionsProxy.apk to dabcba96-6149-4d93-ae1b-8df6ddcfb2a9\apks\com.android.cameraextensions.apk
+2026-04-17T06:24:13-06:00 [DEBUG] Found Android package: com.android.bluetoothmidiservice
+2026-04-17T06:24:13-06:00 [DEBUG] Downloaded /system/app/BluetoothMidiService/BluetoothMidiService.apk to dabcba96-6149-4d93-ae1b-8df6ddcfb2a9\apks\com.android.bluetoothmidiservice.apk
+2026-04-17T06:24:13-06:00 [DEBUG] Found Android package: com.android.internal.systemui.navbar.gestural
+2026-04-17T06:24:13-06:00 [DEBUG] Downloaded /product/overlay/NavigationBarModeGestural/NavigationBarModeGesturalOverlay.apk to dabcba96-6149-4d93-ae1b-8df6ddcfb2a9\apks\com.android.internal.systemui.navbar.gestural.apk
+2026-04-17T06:24:13-06:00 [DEBUG] Found Android package: com.android.dreams.basic
+2026-04-17T06:24:13-06:00 [DEBUG] Downloaded /system/app/BasicDreams/BasicDreams.apk to dabcba96-6149-4d93-ae1b-8df6ddcfb2a9\apks\com.android.dreams.basic.apk
+2026-04-17T06:24:13-06:00 [DEBUG] Found Android package: com.google.android.gm
+2026-04-17T06:24:19-06:00 [DEBUG] Downloaded /product/app/PrebuiltGmail/PrebuiltGmail.apk to dabcba96-6149-4d93-ae1b-8df6ddcfb2a9\apks\com.google.android.gm.apk
+2026-04-17T06:24:20-06:00 [DEBUG] Found Android package: com.google.android.packageinstaller
+2026-04-17T06:24:21-06:00 [DEBUG] Downloaded /system/priv-app/GooglePackageInstaller/GooglePackageInstaller.apk to dabcba96-6149-4d93-ae1b-8df6ddcfb2a9\apks\com.google.android.packageinstaller.apk
+2026-04-17T06:24:21-06:00 [DEBUG] Found Android package: com.google.android.apps.maps
+2026-04-17T06:24:24-06:00 [DEBUG] Downloaded /product/app/Maps/Maps.apk to dabcba96-6149-4d93-ae1b-8df6ddcfb2a9\apks\com.google.android.apps.maps.apk
+2026-04-17T06:24:24-06:00 [DEBUG] Found Android package: com.android.egg
+2026-04-17T06:24:25-06:00 [DEBUG] Downloaded /system/app/EasterEgg/EasterEgg.apk to dabcba96-6149-4d93-ae1b-8df6ddcfb2a9\apks\com.android.egg.apk
+2026-04-17T06:24:25-06:00 [DEBUG] Found Android package: com.android.systemui.emulation.pixel_5
+2026-04-17T06:24:25-06:00 [DEBUG] Downloaded /product/overlay/SystemUIEmulationPixel5/SystemUIEmulationPixel5Overlay.apk to dabcba96-6149-4d93-ae1b-8df6ddcfb2a9\apks\com.android.systemui.emulation.pixel_5.apk
+2026-04-17T06:24:25-06:00 [DEBUG] Found Android package: com.android.ons
+2026-04-17T06:24:25-06:00 [DEBUG] Downloaded /system/priv-app/ONS/ONS.apk to dabcba96-6149-4d93-ae1b-8df6ddcfb2a9\apks\com.android.ons.apk
+2026-04-17T06:24:25-06:00 [DEBUG] Found Android package: com.google.android.wifi.dialog
+2026-04-17T06:24:25-06:00 [DEBUG] Downloaded /apex/com.android.wifi/app/WifiDialogGoogle@331710030/WifiDialogGoogle.apk to dabcba96-6149-4d93-ae1b-8df6ddcfb2a9\apks\com.google.android.wifi.dialog.apk
+2026-04-17T06:24:25-06:00 [DEBUG] Found Android package: com.android.systemui.emulation.pixel_3_xl
+2026-04-17T06:24:25-06:00 [DEBUG] Downloaded /product/overlay/SystemUIEmulationPixel3XL/SystemUIEmulationPixel3XLOverlay.apk to dabcba96-6149-4d93-ae1b-8df6ddcfb2a9\apks\com.android.systemui.emulation.pixel_3_xl.apk
+2026-04-17T06:24:25-06:00 [DEBUG] Found Android package: com.android.phone.auto_generated_rro_vendor__
+2026-04-17T06:24:25-06:00 [DEBUG] ERROR: failed to download /vendor/overlay/TeleService__auto_generated_rro_vendor.apk: 
+2026-04-17T06:24:25-06:00 [DEBUG] Found Android package: com.android.managedprovisioning
+2026-04-17T06:24:26-06:00 [DEBUG] Downloaded /system/priv-app/ManagedProvisioning/ManagedProvisioning.apk to dabcba96-6149-4d93-ae1b-8df6ddcfb2a9\apks\com.android.managedprovisioning.apk
+2026-04-17T06:24:26-06:00 [DEBUG] Found Android package: com.android.bluetooth
+2026-04-17T06:24:26-06:00 [DEBUG] Downloaded /system/app/GoogleBluetoothLegacyMigration/GoogleBluetoothLegacyMigration.apk to dabcba96-6149-4d93-ae1b-8df6ddcfb2a9\apks\com.android.bluetooth.apk
+2026-04-17T06:24:26-06:00 [DEBUG] Found Android package: com.android.systemui.emulation.pixel_6_pro
+2026-04-17T06:24:26-06:00 [DEBUG] Downloaded /product/overlay/SystemUIEmulationPixel6Pro/SystemUIEmulationPixel6ProOverlay.apk to dabcba96-6149-4d93-ae1b-8df6ddcfb2a9\apks\com.android.systemui.emulation.pixel_6_pro.apk
+2026-04-17T06:24:26-06:00 [DEBUG] Found Android package: com.google.android.markup
+2026-04-17T06:24:26-06:00 [DEBUG] Downloaded /product/app/MarkupGoogle/MarkupGoogle.apk to dabcba96-6149-4d93-ae1b-8df6ddcfb2a9\apks\com.google.android.markup.apk
+2026-04-17T06:24:26-06:00 [DEBUG] Found Android package: com.android.phone.auto_generated_rro_product__
+2026-04-17T06:24:26-06:00 [DEBUG] Downloaded /product/overlay/TeleService__auto_generated_rro_product.apk to dabcba96-6149-4d93-ae1b-8df6ddcfb2a9\apks\com.android.phone.auto_generated_rro_product__.apk
+2026-04-17T06:24:26-06:00 [DEBUG] Found Android package: com.android.vpndialogs
+2026-04-17T06:24:27-06:00 [DEBUG] Downloaded /system/priv-app/VpnDialogs/VpnDialogs.apk to dabcba96-6149-4d93-ae1b-8df6ddcfb2a9\apks\com.android.vpndialogs.apk
+2026-04-17T06:24:27-06:00 [DEBUG] Found Android package: com.android.providers.userdictionary
+2026-04-17T06:24:27-06:00 [DEBUG] Downloaded /system/priv-app/UserDictionaryProvider/UserDictionaryProvider.apk to dabcba96-6149-4d93-ae1b-8df6ddcfb2a9\apks\com.android.providers.userdictionary.apk
+2026-04-17T06:24:27-06:00 [DEBUG] Found Android package: com.android.carrierdefaultapp
+2026-04-17T06:24:27-06:00 [DEBUG] Downloaded /system/app/CarrierDefaultApp/CarrierDefaultApp.apk to dabcba96-6149-4d93-ae1b-8df6ddcfb2a9\apks\com.android.carrierdefaultapp.apk
+2026-04-17T06:24:27-06:00 [DEBUG] Found Android package: com.android.providers.partnerbookmarks
+2026-04-17T06:24:27-06:00 [DEBUG] Downloaded /system/app/PartnerBookmarksProvider/PartnerBookmarksProvider.apk to dabcba96-6149-4d93-ae1b-8df6ddcfb2a9\apks\com.android.providers.partnerbookmarks.apk
+2026-04-17T06:24:27-06:00 [DEBUG] Found Android package: com.google.mainline.telemetry
+2026-04-17T06:24:27-06:00 [DEBUG] Downloaded /product/app/PrebuiltGoogleTelemetryTvp/PrebuiltGoogleTelemetryTvp.apk to dabcba96-6149-4d93-ae1b-8df6ddcfb2a9\apks\com.google.mainline.telemetry.apk
+2026-04-17T06:24:27-06:00 [DEBUG] Found Android package: com.android.providers.blockednumber
+2026-04-17T06:24:27-06:00 [DEBUG] Downloaded /system/priv-app/BlockedNumberProvider/BlockedNumberProvider.apk to dabcba96-6149-4d93-ae1b-8df6ddcfb2a9\apks\com.android.providers.blockednumber.apk
+2026-04-17T06:24:27-06:00 [DEBUG] Found Android package: com.android.settings.auto_generated_rro_product__
+2026-04-17T06:24:27-06:00 [DEBUG] Downloaded /product/overlay/SettingsGoogle__auto_generated_rro_product.apk to dabcba96-6149-4d93-ae1b-8df6ddcfb2a9\apks\com.android.settings.auto_generated_rro_product__.apk
+2026-04-17T06:24:27-06:00 [DEBUG] Found Android package: com.android.mms.service
+2026-04-17T06:24:27-06:00 [DEBUG] Downloaded /system/priv-app/MmsService/MmsService.apk to dabcba96-6149-4d93-ae1b-8df6ddcfb2a9\apks\com.android.mms.service.apk
+2026-04-17T06:24:27-06:00 [DEBUG] Found Android package: com.android.providers.media
+2026-04-17T06:24:27-06:00 [DEBUG] Downloaded /system/priv-app/MediaProviderLegacy/MediaProviderLegacy.apk to dabcba96-6149-4d93-ae1b-8df6ddcfb2a9\apks\com.android.providers.media.apk
+2026-04-17T06:24:28-06:00 [DEBUG] Found Android package: com.google.android.apps.youtube.music
+2026-04-17T06:24:30-06:00 [DEBUG] Downloaded /product/app/YouTubeMusicPrebuilt/YouTubeMusicPrebuilt.apk to dabcba96-6149-4d93-ae1b-8df6ddcfb2a9\apks\com.google.android.apps.youtube.music.apk
+2026-04-17T06:24:30-06:00 [DEBUG] Found Android package: com.android.internal.emulation.pixel_6_pro
+2026-04-17T06:24:30-06:00 [DEBUG] Downloaded /product/overlay/EmulationPixel6Pro/EmulationPixel6ProOverlay.apk to dabcba96-6149-4d93-ae1b-8df6ddcfb2a9\apks\com.android.internal.emulation.pixel_6_pro.apk
+2026-04-17T06:24:30-06:00 [DEBUG] Found Android package: com.android.storagemanager.auto_generated_rro_product__
+2026-04-17T06:24:30-06:00 [DEBUG] Downloaded /product/overlay/StorageManager__auto_generated_rro_product.apk to dabcba96-6149-4d93-ae1b-8df6ddcfb2a9\apks\com.android.storagemanager.auto_generated_rro_product__.apk
+2026-04-17T06:24:30-06:00 [DEBUG] Found Android package: com.android.carrierconfig.auto_generated_rro_product__
+2026-04-17T06:24:31-06:00 [DEBUG] Downloaded /product/overlay/CarrierConfig__auto_generated_rro_product.apk to dabcba96-6149-4d93-ae1b-8df6ddcfb2a9\apks\com.android.carrierconfig.auto_generated_rro_product__.apk
+2026-04-17T06:24:31-06:00 [DEBUG] Found Android package: com.android.proxyhandler
+2026-04-17T06:24:31-06:00 [DEBUG] Downloaded /system/priv-app/ProxyHandler/ProxyHandler.apk to dabcba96-6149-4d93-ae1b-8df6ddcfb2a9\apks\com.android.proxyhandler.apk
+2026-04-17T06:24:31-06:00 [DEBUG] Found Android package: com.android.internal.display.cutout.emulation.hole
+2026-04-17T06:24:31-06:00 [DEBUG] Downloaded /product/overlay/DisplayCutoutEmulationHole/DisplayCutoutEmulationHoleOverlay.apk to dabcba96-6149-4d93-ae1b-8df6ddcfb2a9\apks\com.android.internal.display.cutout.emulation.hole.apk
+2026-04-17T06:24:31-06:00 [DEBUG] Found Android package: com.android.internal.emulation.pixel_4
+2026-04-17T06:24:31-06:00 [DEBUG] Downloaded /product/overlay/EmulationPixel4/EmulationPixel4Overlay.apk to dabcba96-6149-4d93-ae1b-8df6ddcfb2a9\apks\com.android.internal.emulation.pixel_4.apk
+2026-04-17T06:24:31-06:00 [DEBUG] Found Android package: com.android.internal.emulation.pixel_7
+2026-04-17T06:24:31-06:00 [DEBUG] Downloaded /product/overlay/EmulationPixel7/EmulationPixel7Overlay.apk to dabcba96-6149-4d93-ae1b-8df6ddcfb2a9\apks\com.android.internal.emulation.pixel_7.apk
+2026-04-17T06:24:31-06:00 [DEBUG] Found Android package: com.android.carrierconfig.auto_generated_rro_vendor__
+2026-04-17T06:24:31-06:00 [DEBUG] ERROR: failed to download /vendor/overlay/CarrierConfig__auto_generated_rro_vendor.apk: 
+2026-04-17T06:24:31-06:00 [DEBUG] Found Android package: com.google.android.sdksetup
+2026-04-17T06:24:31-06:00 [DEBUG] Downloaded /system_ext/priv-app/GoogleSdkSetup/GoogleSdkSetup.apk to dabcba96-6149-4d93-ae1b-8df6ddcfb2a9\apks\com.google.android.sdksetup.apk
+2026-04-17T06:24:31-06:00 [DEBUG] Found Android package: com.google.android.googlequicksearchbox
+2026-04-17T06:24:43-06:00 [DEBUG] Downloaded /product/priv-app/Velvet/Velvet.apk to dabcba96-6149-4d93-ae1b-8df6ddcfb2a9\apks\com.google.android.googlequicksearchbox.apk
+2026-04-17T06:24:46-06:00 [DEBUG] Found Android package: com.android.cts.ctsshim
+2026-04-17T06:24:46-06:00 [DEBUG] Downloaded /apex/com.android.apex.cts.shim/app/CtsShim@1/CtsShim.apk to dabcba96-6149-4d93-ae1b-8df6ddcfb2a9\apks\com.android.cts.ctsshim.apk
+2026-04-17T06:24:46-06:00 [DEBUG] Found Android package: com.android.emulator.radio.config
+2026-04-17T06:24:46-06:00 [DEBUG] Downloaded /system_ext/priv-app/EmulatorRadioConfig/EmulatorRadioConfig.apk to dabcba96-6149-4d93-ae1b-8df6ddcfb2a9\apks\com.android.emulator.radio.config.apk
+2026-04-17T06:24:46-06:00 [DEBUG] Found Android package: com.android.remoteprovisioner
+2026-04-17T06:24:46-06:00 [DEBUG] Downloaded /system_ext/priv-app/RemoteProvisioner/RemoteProvisioner.apk to dabcba96-6149-4d93-ae1b-8df6ddcfb2a9\apks\com.android.remoteprovisioner.apk
+2026-04-17T06:24:46-06:00 [DEBUG] Found Android package: com.android.systemui.emulation.pixel_7
+2026-04-17T06:24:46-06:00 [DEBUG] Downloaded /product/overlay/SystemUIEmulationPixel7/SystemUIEmulationPixel7Overlay.apk to dabcba96-6149-4d93-ae1b-8df6ddcfb2a9\apks\com.android.systemui.emulation.pixel_7.apk
+2026-04-17T06:24:46-06:00 [DEBUG] Found Android package: com.google.android.modulemetadata
+2026-04-17T06:24:46-06:00 [DEBUG] Downloaded /product/app/ModuleMetadataGoogle/ModuleMetadataGoogle.apk to dabcba96-6149-4d93-ae1b-8df6ddcfb2a9\apks\com.google.android.modulemetadata.apk
+2026-04-17T06:24:46-06:00 [DEBUG] Found Android package: com.android.systemui.emulation.pixel_4
+2026-04-17T06:24:46-06:00 [DEBUG] Downloaded /product/overlay/SystemUIEmulationPixel4/SystemUIEmulationPixel4Overlay.apk to dabcba96-6149-4d93-ae1b-8df6ddcfb2a9\apks\com.android.systemui.emulation.pixel_4.apk
+2026-04-17T06:24:46-06:00 [DEBUG] Found Android package: com.android.printspooler
+2026-04-17T06:24:46-06:00 [DEBUG] Downloaded /system/app/PrintSpooler/PrintSpooler.apk to dabcba96-6149-4d93-ae1b-8df6ddcfb2a9\apks\com.android.printspooler.apk
+2026-04-17T06:24:46-06:00 [DEBUG] Found Android package: com.android.cts.priv.ctsshim
+2026-04-17T06:24:46-06:00 [DEBUG] Downloaded /apex/com.android.apex.cts.shim/priv-app/CtsShimPriv@1/CtsShimPriv.apk to dabcba96-6149-4d93-ae1b-8df6ddcfb2a9\apks\com.android.cts.priv.ctsshim.apk
+2026-04-17T06:24:46-06:00 [DEBUG] Found Android package: com.google.android.apps.wallpaper.nexus
+2026-04-17T06:24:47-06:00 [DEBUG] Downloaded /product/app/NexusWallpapersStubPrebuilt2018/NexusWallpapersStubPrebuilt2018.apk to dabcba96-6149-4d93-ae1b-8df6ddcfb2a9\apks\com.google.android.apps.wallpaper.nexus.apk
+2026-04-17T06:24:47-06:00 [DEBUG] Found Android package: com.android.dynsystem
+2026-04-17T06:24:47-06:00 [DEBUG] Downloaded /system/priv-app/DynamicSystemInstallationService/DynamicSystemInstallationService.apk to dabcba96-6149-4d93-ae1b-8df6ddcfb2a9\apks\com.android.dynsystem.apk
+2026-04-17T06:24:47-06:00 [DEBUG] Found Android package: com.android.theme.font.notoserifsource
+2026-04-17T06:24:47-06:00 [DEBUG] Downloaded /product/overlay/FontNotoSerifSource/FontNotoSerifSourceOverlay.apk to dabcba96-6149-4d93-ae1b-8df6ddcfb2a9\apks\com.android.theme.font.notoserifsource.apk
+2026-04-17T06:24:47-06:00 [DEBUG] Found Android package: com.google.android.apps.photos
+2026-04-17T06:24:53-06:00 [DEBUG] Downloaded /product/app/Photos/Photos.apk to dabcba96-6149-4d93-ae1b-8df6ddcfb2a9\apks\com.google.android.apps.photos.apk
+2026-04-17T06:24:54-06:00 [DEBUG] Found Android package: android.auto_generated_rro_product__
+2026-04-17T06:24:54-06:00 [DEBUG] Downloaded /product/overlay/framework-res__auto_generated_rro_product.apk to dabcba96-6149-4d93-ae1b-8df6ddcfb2a9\apks\android.auto_generated_rro_product__.apk
+2026-04-17T06:24:54-06:00 [DEBUG] Found Android package: com.google.android.captiveportallogin
+2026-04-17T06:24:54-06:00 [DEBUG] Downloaded /system/app/CaptivePortalLoginGoogle/CaptivePortalLoginGoogle.apk to dabcba96-6149-4d93-ae1b-8df6ddcfb2a9\apks\com.google.android.captiveportallogin.apk
+2026-04-17T06:24:54-06:00 [DEBUG] Found Android package: com.android.cellbroadcastreceiver
+2026-04-17T06:24:54-06:00 [DEBUG] Downloaded /system/priv-app/CellBroadcastLegacyApp/CellBroadcastLegacyApp.apk to dabcba96-6149-4d93-ae1b-8df6ddcfb2a9\apks\com.android.cellbroadcastreceiver.apk
+2026-04-17T06:24:54-06:00 [DEBUG] Found Android package: com.google.android.permissioncontroller
+2026-04-17T06:24:55-06:00 [DEBUG] Downloaded /apex/com.android.permission/priv-app/GooglePermissionController@331710050/GooglePermissionController.apk to dabcba96-6149-4d93-ae1b-8df6ddcfb2a9\apks\com.google.android.permissioncontroller.apk
+2026-04-17T06:24:55-06:00 [DEBUG] Found Android package: com.android.internal.systemui.navbar.gestural_wide_back
+2026-04-17T06:24:55-06:00 [DEBUG] Downloaded /product/overlay/NavigationBarModeGesturalWideBack/NavigationBarModeGesturalOverlayWideBack.apk to dabcba96-6149-4d93-ae1b-8df6ddcfb2a9\apks\com.android.internal.systemui.navbar.gestural_wide_back.apk
+2026-04-17T06:24:55-06:00 [DEBUG] Found Android package: com.android.systemui
+2026-04-17T06:24:57-06:00 [DEBUG] Downloaded /system_ext/priv-app/SystemUIGoogle/SystemUIGoogle.apk to dabcba96-6149-4d93-ae1b-8df6ddcfb2a9\apks\com.android.systemui.apk
+2026-04-17T06:24:57-06:00 [DEBUG] Found Android package: com.android.internal.emulation.pixel_3a_xl
+2026-04-17T06:24:57-06:00 [DEBUG] Downloaded /product/overlay/EmulationPixel3aXL/EmulationPixel3aXLOverlay.apk to dabcba96-6149-4d93-ae1b-8df6ddcfb2a9\apks\com.android.internal.emulation.pixel_3a_xl.apk
+2026-04-17T06:24:57-06:00 [DEBUG] Found Android package: com.google.android.connectivity.resources
+2026-04-17T06:24:58-06:00 [DEBUG] Downloaded /apex/com.android.tethering/priv-app/ServiceConnectivityResourcesGoogle@331711040/ServiceConnectivityResourcesGoogle.apk to dabcba96-6149-4d93-ae1b-8df6ddcfb2a9\apks\com.google.android.connectivity.resources.apk
+2026-04-17T06:24:58-06:00 [DEBUG] Found Android package: com.google.android.settings.intelligence
+2026-04-17T06:24:58-06:00 [DEBUG] Downloaded /product/priv-app/SettingsIntelligenceGooglePrebuilt/SettingsIntelligenceGooglePrebuilt.apk to dabcba96-6149-4d93-ae1b-8df6ddcfb2a9\apks\com.google.android.settings.intelligence.apk
+2026-04-17T06:24:58-06:00 [DEBUG] Found Android package: com.android.camera2
+2026-04-17T06:24:58-06:00 [DEBUG] Downloaded /product/app/Camera2/Camera2.apk to dabcba96-6149-4d93-ae1b-8df6ddcfb2a9\apks\com.android.camera2.apk
+2026-04-17T06:24:59-06:00 [DEBUG] Found Android package: com.google.android.ext.services
+2026-04-17T06:24:59-06:00 [DEBUG] Downloaded /apex/com.android.extservices/priv-app/GoogleExtServices@331412000/GoogleExtServices.apk to dabcba96-6149-4d93-ae1b-8df6ddcfb2a9\apks\com.google.android.ext.services.apk
+2026-04-17T06:24:59-06:00 [DEBUG] Found Android package: com.google.android.youtube
+2026-04-17T06:25:05-06:00 [DEBUG] Downloaded /product/app/YouTube/YouTube.apk to dabcba96-6149-4d93-ae1b-8df6ddcfb2a9\apks\com.google.android.youtube.apk
+2026-04-17T06:25:05-06:00 [DEBUG] Found Android package: com.google.android.ims
+2026-04-17T06:25:06-06:00 [DEBUG] Downloaded /product/priv-app/CarrierServices/CarrierServices.apk to dabcba96-6149-4d93-ae1b-8df6ddcfb2a9\apks\com.google.android.ims.apk
+2026-04-17T06:25:06-06:00 [DEBUG] Found Android package: android
+2026-04-17T06:25:07-06:00 [DEBUG] Downloaded /system/framework/framework-res.apk to dabcba96-6149-4d93-ae1b-8df6ddcfb2a9\apks\android.apk
+2026-04-17T06:25:07-06:00 [DEBUG] Found Android package: com.google.android.hotspot2.osulogin
+2026-04-17T06:25:07-06:00 [DEBUG] Downloaded /apex/com.android.wifi/app/OsuLoginGoogle@331710030/OsuLoginGoogle.apk to dabcba96-6149-4d93-ae1b-8df6ddcfb2a9\apks\com.google.android.hotspot2.osulogin.apk
+2026-04-17T06:25:07-06:00 [DEBUG] Found Android package: com.android.systemui.emulation.pixel_3a
+2026-04-17T06:25:07-06:00 [DEBUG] Downloaded /product/overlay/SystemUIEmulationPixel3a/SystemUIEmulationPixel3aOverlay.apk to dabcba96-6149-4d93-ae1b-8df6ddcfb2a9\apks\com.android.systemui.emulation.pixel_3a.apk
+2026-04-17T06:25:07-06:00 [DEBUG] Found Android package: com.android.server.telecom
+2026-04-17T06:25:08-06:00 [DEBUG] Downloaded /system/priv-app/Telecom/Telecom.apk to dabcba96-6149-4d93-ae1b-8df6ddcfb2a9\apks\com.android.server.telecom.apk
+2026-04-17T06:25:08-06:00 [DEBUG] Found Android package: com.android.systemui.auto_generated_rro_product__
+2026-04-17T06:25:08-06:00 [DEBUG] Downloaded /product/overlay/SystemUIGoogle__auto_generated_rro_product.apk to dabcba96-6149-4d93-ae1b-8df6ddcfb2a9\apks\com.android.systemui.auto_generated_rro_product__.apk
+2026-04-17T06:25:08-06:00 [DEBUG] Found Android package: com.google.android.uwb.resources
+2026-04-17T06:25:08-06:00 [DEBUG] Downloaded /apex/com.android.uwb/priv-app/ServiceUwbResourcesGoogle@331613010/ServiceUwbResourcesGoogle.apk to dabcba96-6149-4d93-ae1b-8df6ddcfb2a9\apks\com.google.android.uwb.resources.apk
+2026-04-17T06:25:08-06:00 [DEBUG] Found Android package: com.android.internal.emulation.pixel_3
+2026-04-17T06:25:08-06:00 [DEBUG] Downloaded /product/overlay/EmulationPixel3/EmulationPixel3Overlay.apk to dabcba96-6149-4d93-ae1b-8df6ddcfb2a9\apks\com.android.internal.emulation.pixel_3.apk
+2026-04-17T06:25:08-06:00 [DEBUG] Found Android package: com.android.carrierconfig
+2026-04-17T06:25:08-06:00 [DEBUG] Downloaded /system_ext/priv-app/CarrierConfig/CarrierConfig.apk to dabcba96-6149-4d93-ae1b-8df6ddcfb2a9\apks\com.android.carrierconfig.apk
+2026-04-17T06:25:08-06:00 [DEBUG] Found Android package: com.google.android.providers.media.module
+2026-04-17T06:25:09-06:00 [DEBUG] Downloaded /apex/com.android.mediaprovider/priv-app/MediaProviderGoogle@331711020/MediaProviderGoogle.apk to dabcba96-6149-4d93-ae1b-8df6ddcfb2a9\apks\com.google.android.providers.media.module.apk
+2026-04-17T06:25:09-06:00 [DEBUG] Found Android package: com.google.android.apps.wallpaper
+2026-04-17T06:25:09-06:00 [DEBUG] Downloaded /system_ext/priv-app/WallpaperPickerGoogleRelease/WallpaperPickerGoogleRelease.apk to dabcba96-6149-4d93-ae1b-8df6ddcfb2a9\apks\com.google.android.apps.wallpaper.apk
+2026-04-17T06:25:09-06:00 [DEBUG] Found Android package: com.android.internal.emulation.pixel_6
+2026-04-17T06:25:09-06:00 [DEBUG] Downloaded /product/overlay/EmulationPixel6/EmulationPixel6Overlay.apk to dabcba96-6149-4d93-ae1b-8df6ddcfb2a9\apks\com.android.internal.emulation.pixel_6.apk
+2026-04-17T06:25:09-06:00 [DEBUG] Found Android package: com.android.systemui.emulation.pixel_3a_xl
+2026-04-17T06:25:10-06:00 [DEBUG] Downloaded /product/overlay/SystemUIEmulationPixel3aXL/SystemUIEmulationPixel3aXLOverlay.apk to dabcba96-6149-4d93-ae1b-8df6ddcfb2a9\apks\com.android.systemui.emulation.pixel_3a_xl.apk
+2026-04-17T06:25:10-06:00 [DEBUG] Found Android package: com.google.android.setupwizard
+2026-04-17T06:25:10-06:00 [DEBUG] Downloaded /product/priv-app/SetupWizardPrebuilt/SetupWizardPrebuilt.apk to dabcba96-6149-4d93-ae1b-8df6ddcfb2a9\apks\com.google.android.setupwizard.apk
+2026-04-17T06:25:10-06:00 [DEBUG] Found Android package: com.android.bips
+2026-04-17T06:25:10-06:00 [DEBUG] Downloaded /system/priv-app/BuiltInPrintService/BuiltInPrintService.apk to dabcba96-6149-4d93-ae1b-8df6ddcfb2a9\apks\com.android.bips.apk
+2026-04-17T06:25:10-06:00 [DEBUG] Found Android package: com.android.providers.settings.auto_generated_rro_product__
+2026-04-17T06:25:10-06:00 [DEBUG] Downloaded /product/overlay/SettingsProvider__auto_generated_rro_product.apk to dabcba96-6149-4d93-ae1b-8df6ddcfb2a9\apks\com.android.providers.settings.auto_generated_rro_product__.apk
+2026-04-17T06:25:10-06:00 [DEBUG] Found Android package: com.android.providers.telephony
+2026-04-17T06:25:10-06:00 [DEBUG] Downloaded /system/priv-app/TelephonyProvider/TelephonyProvider.apk to dabcba96-6149-4d93-ae1b-8df6ddcfb2a9\apks\com.android.providers.telephony.apk
+2026-04-17T06:25:10-06:00 [DEBUG] Found Android package: com.google.android.soundpicker
+2026-04-17T06:25:11-06:00 [DEBUG] Downloaded /product/app/SoundPickerPrebuilt/SoundPickerPrebuilt.apk to dabcba96-6149-4d93-ae1b-8df6ddcfb2a9\apks\com.google.android.soundpicker.apk
+2026-04-17T06:25:11-06:00 [DEBUG] Found Android package: com.android.simappdialog.auto_generated_rro_product__
+2026-04-17T06:25:11-06:00 [DEBUG] Downloaded /product/overlay/SimAppDialog__auto_generated_rro_product.apk to dabcba96-6149-4d93-ae1b-8df6ddcfb2a9\apks\com.android.simappdialog.auto_generated_rro_product__.apk
+2026-04-17T06:25:11-06:00 [DEBUG] Found Android package: com.android.internal.systemui.navbar.gestural_extra_wide_back
+2026-04-17T06:25:11-06:00 [DEBUG] Downloaded /product/overlay/NavigationBarModeGesturalExtraWideBack/NavigationBarModeGesturalOverlayExtraWideBack.apk to dabcba96-6149-4d93-ae1b-8df6ddcfb2a9\apks\com.android.internal.systemui.navbar.gestural_extra_wide_back.apk
+2026-04-17T06:25:11-06:00 [DEBUG] Found Android package: com.android.providers.settings.auto_generated_rro_vendor__
+2026-04-17T06:25:11-06:00 [DEBUG] ERROR: failed to download /vendor/overlay/SettingsProvider__auto_generated_rro_vendor.apk: 
+2026-04-17T06:25:11-06:00 [DEBUG] Found Android package: com.android.wallpapercropper
+2026-04-17T06:25:11-06:00 [DEBUG] Downloaded /system_ext/priv-app/WallpaperCropper/WallpaperCropper.apk to dabcba96-6149-4d93-ae1b-8df6ddcfb2a9\apks\com.android.wallpapercropper.apk
+2026-04-17T06:25:11-06:00 [DEBUG] Found Android package: com.google.android.nearby.halfsheet
+2026-04-17T06:25:11-06:00 [DEBUG] Downloaded /apex/com.android.tethering/app/HalfSheetUXGoogle@331711040/HalfSheetUXGoogle.apk to dabcba96-6149-4d93-ae1b-8df6ddcfb2a9\apks\com.google.android.nearby.halfsheet.apk
+2026-04-17T06:25:11-06:00 [DEBUG] Found Android package: com.android.internal.systemui.navbar.threebutton
+2026-04-17T06:25:11-06:00 [DEBUG] Downloaded /product/overlay/NavigationBarMode3Button/NavigationBarMode3ButtonOverlay.apk to dabcba96-6149-4d93-ae1b-8df6ddcfb2a9\apks\com.android.internal.systemui.navbar.threebutton.apk
+2026-04-17T06:25:11-06:00 [DEBUG] Found Android package: com.android.externalstorage
+2026-04-17T06:25:12-06:00 [DEBUG] Downloaded /system/priv-app/ExternalStorageProvider/ExternalStorageProvider.apk to dabcba96-6149-4d93-ae1b-8df6ddcfb2a9\apks\com.android.externalstorage.apk
+2026-04-17T06:25:12-06:00 [DEBUG] Found Android package: com.android.internal.emulation.pixel_3a
+2026-04-17T06:25:12-06:00 [DEBUG] Downloaded /product/overlay/EmulationPixel3a/EmulationPixel3aOverlay.apk to dabcba96-6149-4d93-ae1b-8df6ddcfb2a9\apks\com.android.internal.emulation.pixel_3a.apk
+2026-04-17T06:25:12-06:00 [DEBUG] Found Android package: com.android.vending
+2026-04-17T06:25:12-06:00 [DEBUG] Downloaded /product/app/LicenseChecker/LicenseChecker.apk to dabcba96-6149-4d93-ae1b-8df6ddcfb2a9\apks\com.android.vending.apk
+2026-04-17T06:25:12-06:00 [DEBUG] Found Android package: com.android.managedprovisioning.auto_generated_rro_product__
+2026-04-17T06:25:12-06:00 [DEBUG] Downloaded /product/overlay/ManagedProvisioning__auto_generated_rro_product.apk to dabcba96-6149-4d93-ae1b-8df6ddcfb2a9\apks\com.android.managedprovisioning.auto_generated_rro_product__.apk
+2026-04-17T06:25:12-06:00 [INFO] Collecting device properties...
+2026-04-17T06:25:12-06:00 [INFO] Collecting device diagnostic information. This might take a while...
+2026-04-17T06:26:10-06:00 [INFO] Collecting list of running processes...
+2026-04-17T06:26:11-06:00 [INFO] Collecting list of services...
+2026-04-17T06:26:12-06:00 [INFO] Generating a bugreport for the device...
+2026-04-17T06:28:20-06:00 [DEBUG] Bugreport completed!
+2026-04-17T06:28:20-06:00 [INFO] Collecting list of files... This might take a while...
+2026-04-17T06:28:20-06:00 [DEBUG] Using find command to collect list of files
+2026-04-17T06:29:42-06:00 [INFO] Collecting device settings...
+2026-04-17T06:29:43-06:00 [INFO] Collecting SELinux status...
+2026-04-17T06:29:43-06:00 [INFO] Collecting environment...
+2026-04-17T06:29:43-06:00 [INFO] Checking for traces of rooting
+2026-04-17T06:29:43-06:00 [DEBUG] Found root binary: /system/xbin/su
+2026-04-17T06:29:44-06:00 [INFO] Collecting mount information
+2026-04-17T06:29:44-06:00 [DEBUG] Running: mount
+2026-04-17T06:29:44-06:00 [DEBUG] Running: cat /proc/mounts
+2026-04-17T06:29:44-06:00 [DEBUG] Found 227 mount entries
+2026-04-17T06:29:44-06:00 [INFO] Collecting logcat...
+2026-04-17T06:29:47-06:00 [DEBUG] failed to run `adb shell logcat -L`: exit status 1
+2026-04-17T06:29:47-06:00 [INFO] Collecting system logs...
+2026-04-17T06:29:47-06:00 [DEBUG] Files in /data/anr/: [/data/anr/ /data/anr/anr_2026-04-17-06-13-58-939 /data/anr/anr_2026-04-17-06-14-16-988 /data/anr/anr_2026-04-17-06-14-27-123 /data/anr/anr_2026-04-17-06-15-21-774 /data/anr/anr_2026-04-17-06-15-23-574 /data/anr/anr_2026-04-17-06-15-27-968 /data/anr/anr_2026-04-17-06-15-30-262 /data/anr/anr_2026-04-17-06-15-34-240 /data/anr/anr_2026-04-17-06-15-35-510 /data/anr/anr_2026-04-17-06-15-40-361 /data/anr/anr_2026-04-17-06-15-41-952 /data/anr/anr_2026-04-17-06-15-59-959 /data/anr/anr_2026-04-17-06-16-45-421 /data/anr/anr_2026-04-17-06-17-00-402 /data/anr/anr_2026-04-17-06-17-45-834 /data/anr/anr_2026-04-17-06-18-34-481]
+2026-04-17T06:29:47-06:00 [DEBUG] From: /data/system/uiderrors.txt
+2026-04-17T06:29:47-06:00 [DEBUG] To: dabcba96-6149-4d93-ae1b-8df6ddcfb2a9\logs\data\system\uiderrors.txt
+2026-04-17T06:29:47-06:00 [ERROR] Failed to pull log file /data/system/uiderrors.txt: 
+
+2026-04-17T06:29:47-06:00 [DEBUG] From: /proc/kmsg
+2026-04-17T06:29:47-06:00 [DEBUG] To: dabcba96-6149-4d93-ae1b-8df6ddcfb2a9\logs\proc\kmsg
+2026-04-17T06:29:47-06:00 [ERROR] Failed to pull log file /proc/kmsg: 
+
+2026-04-17T06:29:47-06:00 [DEBUG] From: /proc/last_kmsg
+2026-04-17T06:29:47-06:00 [DEBUG] To: dabcba96-6149-4d93-ae1b-8df6ddcfb2a9\logs\proc\last_kmsg
+2026-04-17T06:29:47-06:00 [ERROR] Failed to pull log file /proc/last_kmsg: 
+
+2026-04-17T06:29:47-06:00 [DEBUG] From: /sys/fs/pstore/console-ramoops
+2026-04-17T06:29:47-06:00 [DEBUG] To: dabcba96-6149-4d93-ae1b-8df6ddcfb2a9\logs\sys\fs\pstore\console-ramoops
+2026-04-17T06:29:48-06:00 [ERROR] Failed to pull log file /sys/fs/pstore/console-ramoops: 
+
+2026-04-17T06:29:48-06:00 [DEBUG] From: /data/anr/
+2026-04-17T06:29:48-06:00 [DEBUG] To: dabcba96-6149-4d93-ae1b-8df6ddcfb2a9\logs\data\anr\
+2026-04-17T06:29:48-06:00 [ERROR] Failed to pull log file /data/anr/: 
+
+2026-04-17T06:29:48-06:00 [DEBUG] From: /data/anr/anr_2026-04-17-06-13-58-939
+2026-04-17T06:29:48-06:00 [DEBUG] To: dabcba96-6149-4d93-ae1b-8df6ddcfb2a9\logs\data\anr\anr_2026-04-17-06-13-58-939
+2026-04-17T06:29:48-06:00 [ERROR] Failed to pull log file /data/anr/anr_2026-04-17-06-13-58-939: 
+
+2026-04-17T06:29:48-06:00 [DEBUG] From: /data/anr/anr_2026-04-17-06-14-16-988
+2026-04-17T06:29:48-06:00 [DEBUG] To: dabcba96-6149-4d93-ae1b-8df6ddcfb2a9\logs\data\anr\anr_2026-04-17-06-14-16-988
+2026-04-17T06:29:48-06:00 [ERROR] Failed to pull log file /data/anr/anr_2026-04-17-06-14-16-988: 
+
+2026-04-17T06:29:48-06:00 [DEBUG] From: /data/anr/anr_2026-04-17-06-14-27-123
+2026-04-17T06:29:48-06:00 [DEBUG] To: dabcba96-6149-4d93-ae1b-8df6ddcfb2a9\logs\data\anr\anr_2026-04-17-06-14-27-123
+2026-04-17T06:29:48-06:00 [ERROR] Failed to pull log file /data/anr/anr_2026-04-17-06-14-27-123: 
+
+2026-04-17T06:29:48-06:00 [DEBUG] From: /data/anr/anr_2026-04-17-06-15-21-774
+2026-04-17T06:29:48-06:00 [DEBUG] To: dabcba96-6149-4d93-ae1b-8df6ddcfb2a9\logs\data\anr\anr_2026-04-17-06-15-21-774
+2026-04-17T06:29:48-06:00 [ERROR] Failed to pull log file /data/anr/anr_2026-04-17-06-15-21-774: 
+
+2026-04-17T06:29:48-06:00 [DEBUG] From: /data/anr/anr_2026-04-17-06-15-23-574
+2026-04-17T06:29:48-06:00 [DEBUG] To: dabcba96-6149-4d93-ae1b-8df6ddcfb2a9\logs\data\anr\anr_2026-04-17-06-15-23-574
+2026-04-17T06:29:48-06:00 [ERROR] Failed to pull log file /data/anr/anr_2026-04-17-06-15-23-574: 
+
+2026-04-17T06:29:48-06:00 [DEBUG] From: /data/anr/anr_2026-04-17-06-15-27-968
+2026-04-17T06:29:48-06:00 [DEBUG] To: dabcba96-6149-4d93-ae1b-8df6ddcfb2a9\logs\data\anr\anr_2026-04-17-06-15-27-968
+2026-04-17T06:29:48-06:00 [ERROR] Failed to pull log file /data/anr/anr_2026-04-17-06-15-27-968: 
+
+2026-04-17T06:29:48-06:00 [DEBUG] From: /data/anr/anr_2026-04-17-06-15-30-262
+2026-04-17T06:29:48-06:00 [DEBUG] To: dabcba96-6149-4d93-ae1b-8df6ddcfb2a9\logs\data\anr\anr_2026-04-17-06-15-30-262
+2026-04-17T06:29:48-06:00 [ERROR] Failed to pull log file /data/anr/anr_2026-04-17-06-15-30-262: 
+
+2026-04-17T06:29:48-06:00 [DEBUG] From: /data/anr/anr_2026-04-17-06-15-34-240
+2026-04-17T06:29:48-06:00 [DEBUG] To: dabcba96-6149-4d93-ae1b-8df6ddcfb2a9\logs\data\anr\anr_2026-04-17-06-15-34-240
+2026-04-17T06:29:48-06:00 [ERROR] Failed to pull log file /data/anr/anr_2026-04-17-06-15-34-240: 
+
+2026-04-17T06:29:48-06:00 [DEBUG] From: /data/anr/anr_2026-04-17-06-15-35-510
+2026-04-17T06:29:48-06:00 [DEBUG] To: dabcba96-6149-4d93-ae1b-8df6ddcfb2a9\logs\data\anr\anr_2026-04-17-06-15-35-510
+2026-04-17T06:29:48-06:00 [ERROR] Failed to pull log file /data/anr/anr_2026-04-17-06-15-35-510: 
+
+2026-04-17T06:29:48-06:00 [DEBUG] From: /data/anr/anr_2026-04-17-06-15-40-361
+2026-04-17T06:29:48-06:00 [DEBUG] To: dabcba96-6149-4d93-ae1b-8df6ddcfb2a9\logs\data\anr\anr_2026-04-17-06-15-40-361
+2026-04-17T06:29:48-06:00 [ERROR] Failed to pull log file /data/anr/anr_2026-04-17-06-15-40-361: 
+
+2026-04-17T06:29:48-06:00 [DEBUG] From: /data/anr/anr_2026-04-17-06-15-41-952
+2026-04-17T06:29:48-06:00 [DEBUG] To: dabcba96-6149-4d93-ae1b-8df6ddcfb2a9\logs\data\anr\anr_2026-04-17-06-15-41-952
+2026-04-17T06:29:48-06:00 [ERROR] Failed to pull log file /data/anr/anr_2026-04-17-06-15-41-952: 
+
+2026-04-17T06:29:48-06:00 [DEBUG] From: /data/anr/anr_2026-04-17-06-15-59-959
+2026-04-17T06:29:48-06:00 [DEBUG] To: dabcba96-6149-4d93-ae1b-8df6ddcfb2a9\logs\data\anr\anr_2026-04-17-06-15-59-959
+2026-04-17T06:29:48-06:00 [ERROR] Failed to pull log file /data/anr/anr_2026-04-17-06-15-59-959: 
+
+2026-04-17T06:29:48-06:00 [DEBUG] From: /data/anr/anr_2026-04-17-06-16-45-421
+2026-04-17T06:29:48-06:00 [DEBUG] To: dabcba96-6149-4d93-ae1b-8df6ddcfb2a9\logs\data\anr\anr_2026-04-17-06-16-45-421
+2026-04-17T06:29:48-06:00 [ERROR] Failed to pull log file /data/anr/anr_2026-04-17-06-16-45-421: 
+
+2026-04-17T06:29:48-06:00 [DEBUG] From: /data/anr/anr_2026-04-17-06-17-00-402
+2026-04-17T06:29:48-06:00 [DEBUG] To: dabcba96-6149-4d93-ae1b-8df6ddcfb2a9\logs\data\anr\anr_2026-04-17-06-17-00-402
+2026-04-17T06:29:48-06:00 [ERROR] Failed to pull log file /data/anr/anr_2026-04-17-06-17-00-402: 
+
+2026-04-17T06:29:48-06:00 [DEBUG] From: /data/anr/anr_2026-04-17-06-17-45-834
+2026-04-17T06:29:48-06:00 [DEBUG] To: dabcba96-6149-4d93-ae1b-8df6ddcfb2a9\logs\data\anr\anr_2026-04-17-06-17-45-834
+2026-04-17T06:29:49-06:00 [ERROR] Failed to pull log file /data/anr/anr_2026-04-17-06-17-45-834: 
+
+2026-04-17T06:29:49-06:00 [DEBUG] From: /data/anr/anr_2026-04-17-06-18-34-481
+2026-04-17T06:29:49-06:00 [DEBUG] To: dabcba96-6149-4d93-ae1b-8df6ddcfb2a9\logs\data\anr\anr_2026-04-17-06-18-34-481
+2026-04-17T06:29:49-06:00 [ERROR] Failed to pull log file /data/anr/anr_2026-04-17-06-18-34-481: 
+
+2026-04-17T06:29:49-06:00 [INFO] Collecting files in tmp folder...
+2026-04-17T06:29:49-06:00 [INFO] Generating list of files hashes...
+2026-04-17T06:30:00-06:00 [INFO] Saving details about acquisition and device...
+2026-04-17T06:30:00-06:00 [DEBUG] Killing adb server
+2026-04-17T06:30:00-06:00 [DEBUG] kill-server ok
